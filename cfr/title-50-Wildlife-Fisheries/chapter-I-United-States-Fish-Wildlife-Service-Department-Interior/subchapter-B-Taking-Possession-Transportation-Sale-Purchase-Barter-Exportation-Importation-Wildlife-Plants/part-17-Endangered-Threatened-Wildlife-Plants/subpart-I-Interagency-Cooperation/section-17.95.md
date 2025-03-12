@@ -130,7 +130,7 @@ We have determined that no areas meet the definition of critical habitat under s
 
 Jaguar (*Panthera onca*)
 
-(1) Critical habitat units are depicted for Pima, Santa Cruz, and Cochise Counties, Arizona, and Hidalgo County, New Mexico, on the maps below.
+(1) Critical habitat units are depicted for Pima, Santa Cruz, and Cochise Counties, Arizona, on the maps below.
 
 (2) Within these areas, the primary constituent elements of the physical or biological feature essential to the conservation of jaguar consists of expansive open spaces in the southwestern United States of at least 100 km2 (32 to 38.6 mi2) in size which:
 
@@ -152,17 +152,17 @@ Jaguar (*Panthera onca*)
 
 (4) *Critical habitat map units.* Data layers defining map units were created using hydrography data, vegetation biomes, tree cover, terrain ruggedness, elevation, Human Influence Index, and undisputed Class I jaguar records from 1962 to September 11, 2013, and were then mapped using Universal Transverse Mercator (UTM) coordinates.
 
-(5) Note: Index map follows:
+(5) *Note:* Index map follows:
 
-![](/graphics/er05mr14.002.gif)
+![](/graphics/er22jy21.021.gif)
 
 (6) Units 1, 2, 3, and 4: Baboquivari, Atascosa, Patagonia, and Whetstone Units, Pima, Santa Cruz, and Cochise Counties, Arizona. Map of Units 1, 2, 3, and 4 follows:
 
 ![](/graphics/er05mr14.003.gif)
 
-(7) Units 5 and 6: Peloncillo and San Luis Units, Cochise County, Arizona, and Hidalgo County, New Mexico. Map of Units 5 and 6 follows:
+(7) Unit 5: Peloncillo Unit, Cochise County, Arizona. Map of Unit 5 follows:
 
-![](/graphics/er05mr14.004.gif)Fresno Kangaroo Rat (*Dipodomys nitratoides exilis*)
+![](/graphics/er22jy21.022.gif)Fresno Kangaroo Rat (*Dipodomys nitratoides exilis*)
 
 *California.* An area of land, water, and airspace in Fresno County, with the following components (Mt. Diablo Base Meridian): T14S R15E, E1/2 NW1/4 and NE1/4 Sec. 11, that part of W1/2 Sec. 12 north of the Southern Pacific Railroad, E1/2 Sec. 12; T14S R16E, that part of Sec. 7 south of the Southern Pacific Railroad.
 
@@ -1126,7 +1126,7 @@ The map provided is for informational purposes only. Map follows:
 
 (11) Unit 7: Lemoore Wetland Reserve Unit, Kings County, California. Note: Map of Unit 7, Lemoore Wetland Reserve Unit, follows:
 
-![](/graphics/er02jy13.008.gif)Mount Graham Red Squirrel (*Tamiasciurus hudsonicus grahamensis*)
+![](/graphics/er02jy13.008.gif)Mount Graham red squirrel (*Tamiasciurus fremonti grahamensis*)
 
 *Arizona.* Areas of land, water, and airspace in the Coronado National Forest, T. 8 S., R. 24 E., and T. 9 S., R. 24 E. (Gila and Salt River Meridian), Graham County, with the following components:
 
@@ -1152,7 +1152,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Notes:1. For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/ec01jn91.020.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 
@@ -1460,7 +1460,311 @@ The map provided is for informational purposes only. Map follows:
 
 (B) Map 3 showing Unit B for Mariana crow follows:
 
-![](/graphics/er28oc04.004.gif)Spectacled Eider (*Somateria fischeri*)
+![](/graphics/er28oc04.004.gif)Yellow-Billed Cuckoo (Coccyzus americanus), Western DPS
+
+(1) Critical habitat units are depicted for Arizona, California, Colorado, Idaho, New Mexico, Texas, and Utah, on the maps in this entry.
+
+(2) Within these areas, the specific physical or biological features essential to the conservation of western yellow-billed cuckoo consist of three components:
+
+(i) *Rangewide breeding habitat.* Riparian woodlands across the Distinct Population Segment (DPS); Southwestern breeding habitat, primarily in Arizona and New Mexico: Drainages with varying combinations of riparian, xeroriparian, and/or nonriparian trees and large shrubs. This physical or biological feature includes breeding habitat found throughout the DPS range as well as additional breeding habitat characteristics unique to the Southwest.
+
+(A) *Rangewide breeding habitat* (*including areas in the Southwest*). Rangewide breeding habitat is composed of riparian woodlands within floodplains or in upland areas or terraces often greater than 325 ft (100 m) in width and 200 ac (81 ha) or more in extent with an overstory and understory vegetation component in contiguous or nearly contiguous patches adjacent to intermittent or perennial watercourses. The slope of the watercourses is generally less than 3 percent but may be greater in some instances. Nesting sites within the habitat have an above-average canopy closure (greater than 70 percent), and have a cooler, more humid environment than the surrounding riparian and upland habitats. Rangewide breeding habitat is composed of varying combinations of riparian species including the following nest trees: Cottonwood, willow, ash, sycamore, boxelder, alder, and walnut.
+
+(B) *Southwestern breeding habitat.* Southwestern breeding habitat, found primarily in Arizona and New Mexico, is more variable than rangewide breeding habitat. Southwestern breeding habitat occurs within or along perennial, intermittent, and ephemeral drainages in montane canyons, foothills, desert floodplains, and arroyos. It may include woody side drainages, terraces, and hillsides immediately adjacent to the main drainage bottom. Drainages intersect a variety of habitat types including, but not limited to, desert scrub, desert grassland, and Madrean evergreen woodlands (presence of oak). Southwestern breeding habitat is composed of varying combinations of riparian, xeroriparian, and/or nonriparian tree and large shrub species including, but not limited to, the following nest trees: Cottonwood, willow, mesquite, ash, hackberry, sycamore, walnut, desert willow, soapberry, tamarisk, Russian olive, juniper, acacia, and/or oak. In perennial and intermittent drainages, Southwestern riparian breeding habitat is often narrower, patchier, and/or sparser than rangewide riparian breeding habitat and may contain a greater proportion of xeroriparian trees and large shrub species. Although some cottonwood and willow may be present in Southwestern riparian habitat, xeroriparian species may be more prevalent. Mesquite woodland may be present within the riparian floodplain, flanking the outer edges of wetter riparian habitat, or scattered on the adjacent hillsides. The more arid the drainage, the greater the likelihood that it will be dominated by xeroriparian and nonriparian nest tree species. Arid ephemeral drainages in southeastern Arizona receive summer humidity and rainfall from the North American Monsoon, with a pronounced green-up of grasses and forbs. These arid ephemeral drainages often contain xeroriparian species like hackberry or nonriparian species associated with the adjacent habitat type like oak, mesquite, acacia, mimosa, greythorn, and juniper. In southeastern Arizona mountains, breeding habitat is typically below pine woodlands (∼6,000 ft (1,829 m)).
+
+(ii) *Adequate prey base.* Presence of prey base consisting of large insect fauna (for example, cicadas, caterpillars, katydids, grasshoppers, large beetles, dragonflies, moth larvae, spiders), lizards, or frogs for adults and young in breeding areas during the nesting season and in post-breeding dispersal areas.
+
+(iii) *Hydrologic processes.* The movement of water and sediment in natural or altered systems that maintains and regenerates breeding habitat. This physical or biological feature includes hydrologic processes found in rangewide breeding habitat as well as additional hydrologic processes unique to the Southwest in southwestern breeding habitat:
+
+(A) *Rangewide breeding habitat hydrologic processes (including the Southwest).* Hydrologic processes (either natural or managed) in river and reservoir systems that encourage sediment movement and deposits and promote riparian tree seedling germination and plant growth, maintenance, health, and vigor (*e.g.,* lower-gradient streams and broad floodplains, elevated subsurface groundwater table, and perennial rivers and streams). In some areas where habitat is being restored, such as on terraced slopes above the floodplain, this may include managed irrigated systems that may not naturally flood due to their elevation above the floodplain.
+
+(B) *Southwestern breeding habitat hydrologic processes.* In southwestern breeding habitat, elevated summer humidity and runoff resulting from seasonal water management practices or weather patterns and precipitation (typically from North American Monsoon or other tropical weather events) provide suitable conditions for prey species production and vegetation regeneration and growth. Elevated humidity is especially important in southeastern Arizona, where cuckoos breed in intermittent and ephemeral drainages.
+
+(3) Critical habitat does not include humanmade structures (such as buildings, aqueducts, runways, roads, bridges, and other paved or hardened areas as a result of development) and the land on which they are located existing within the legal boundaries of the critical habitat units designated for the species on May 21, 2021. Due to the scale on which the critical habitat boundaries are developed, some areas within these legal boundaries may not contain the physical or biological features and therefore are not considered critical habitat.
+
+(4) Data layers defining map units were created on a base of the Natural Resources Conservation Service National Agriculture Imagery Program (NAIP 2011), and critical habitat was then mapped using North American Datum (NAD) 83, Universal Transverse Mercator Zone 10N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's Sacramento Fish and Wildlife Office's internet site at *http://www.fws.gov/sacramento,* or on *http://www.regulations.gov* at Docket No. FWS-R8-ES-2013-0011. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Unit 1:* CA/AZ-1, Colorado River 1; Imperial, Riverside, and San Bernardino Counties, California, and Yuma and La Paz Counties, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(6) *Unit 2:* CA/AZ-2, Colorado River 2; San Bernardino County, California, and Mohave County, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(7) *Unit 3:* AZ-1, Bill Williams River; Mohave and La Paz Counties, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(8) *Unit 4:* AZ-2, Alamo Lake, Mohave and La Paz Counties, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(9) *Unit 5:* AZ-3, Hassayampa River; Maricopa County, Arizona. Map of Unit 5 follows:
+
+![](/graphics/er21ap21.000.gif)
+
+(10) *Unit 6:* AZ-4, Agua Fria River; Yavapai County, Arizona. Map of Unit 6 follows:
+
+![](/graphics/er21ap21.001.gif)
+
+(11) *Unit 7:* AZ-5, Upper Verde River; Yavapai County, Arizona. Map of Unit 7 follows:
+
+![](/graphics/er21ap21.002.gif)
+
+(12) *Unit 8:* AZ-6, Oak Creek; Yavapai and Coconino Counties, Arizona. Map of Unit 8 follows:
+
+![](/graphics/er21ap21.003.gif)
+
+(13) *Unit 9:* AZ-7, Beaver Creek; Yavapai County, Arizona. Map of Unit 9 follows:
+
+![](/graphics/er21ap21.004.gif)
+
+(14) *Unit 10:* AZ-8, Lower Verde River and West Clear Creek; Yavapai County, Arizona. Map of Unit 10 follows:
+
+![](/graphics/er21ap21.005.gif)
+
+(15) *Unit 11:* AZ-9A and AZ-9B, Horseshoe Dam; Gila, Maricopa, and Yavapai Counties, Arizona. Maps of Unit 11 follow:
+
+(i) *Map of Unit 11:* AZ-9A, Horseshoe Dam.
+
+![](/graphics/er21ap21.006.gif)
+
+(ii) *Map of Unit 11:* AZ-9B, Horseshoe Dam.
+
+![](/graphics/er21ap21.007.gif)
+
+(16) *Unit 12:* AZ-10, Tonto Creek; Gila County, Arizona. Map of Unit 12 follows:
+
+![](/graphics/er21ap21.008.gif)
+
+(17) *Unit 13:* AZ-11, Pinal Creek; Gila County, Arizona. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(18) *Unit 14:* AZ-12, Bonita Creek; Graham County, Arizona. Map of Unit 14 follows:
+
+![](/graphics/er21ap21.009.gif)
+
+(19) *Unit 15:* AZ-13, San Francisco River; Greenlee County, Arizona. Map of Unit 15 follows:
+
+![](/graphics/er21ap21.010.gif)
+
+(20) *Unit 16:* AZ-14, Upper San Pedro River; Cochise County, Arizona. Map of Unit 16 follows:
+
+![](/graphics/er21ap21.011.gif)
+
+(21) *Unit 17:* AZ-15, Lower San Pedro River and Gila River; Pima, Pinal, and Gila Counties, Arizona. Map of Unit 17 follows:
+
+![](/graphics/er21ap21.012.gif)
+
+(22) *Unit 18:* AZ-16, Sonoita Creek; Santa Cruz County, Arizona. Map of Unit 18 follows:
+
+![](/graphics/er21ap21.013.gif)
+
+(23) *Unit 19:* AZ-17, Upper Cienega Creek; Pima County, Arizona. Map of Unit 19 follows:
+
+![](/graphics/er21ap21.014.gif)
+
+(24) *Unit 20:* AZ-18, Santa Cruz River; Santa Cruz County, Arizona. Map of Unit 20 follows:
+
+![](/graphics/er21ap21.015.gif)
+
+(25) *Unit 21:* AZ-19, Black Draw; Cochise County, Arizona. Map of Unit 21 follows:
+
+![](/graphics/er21ap21.016.gif)
+
+(26) *Unit 22:* AZ-20, Gila River 1; Graham County, Arizona. Map of Unit 22 follows:
+
+![](/graphics/er21ap21.017.gif)
+
+(27) *Unit 23:* AZ-21, Salt River; Gila County, Arizona. Map of Unit 23 follows:
+
+![](/graphics/er21ap21.018.gif)
+
+(28) *Unit 24:* AZ-22, Lower Cienega Creek; Pima County, Arizona. Map of Unit 24 follows:
+
+![](/graphics/er21ap21.019.gif)
+
+(29) *Unit 25:* AZ-23, Blue River; Greenlee County, Arizona. Map of Unit 25 follows:
+
+![](/graphics/er21ap21.020.gif)
+
+(30) *Unit 26:* AZ-24, Pinto Creek South; Gila and Pinal Counties, Arizona. Map of Unit 26 follows:
+
+![](/graphics/er21ap21.021.gif)
+
+(31) *Unit 27:* AZ-25, Aravaipa Creek; Pinal and Graham Counties, Arizona. Map of Unit 27 follows:
+
+![](/graphics/er21ap21.022.gif)
+
+(32) *Unit 28:* AZ-26, Gila River 2; Graham and Greenlee Counties, Arizona. Map of Unit 28 follows:
+
+![](/graphics/er21ap21.023.gif)
+
+(33) *Unit 29:* AZ-27, Pinto Creek North; Gila County, Arizona. Map of Unit 29 follows:
+
+![](/graphics/er21ap21.024.gif)
+
+(34) *Unit 30:* AZ-28, Mineral Creek; Pinal and Gila Counties, Arizona. Map of Unit 30 follows:
+
+![](/graphics/er21ap21.025.gif)
+
+(35) *Unit 31:* AZ-29, Big Sandy River; Mohave County, Arizona. Map of Unit 31 follows:
+
+![](/graphics/er21ap21.026.gif)
+
+(36) *Unit 32:* NM-1, San Francisco River; Catron County, New Mexico. Map of Unit 32 follows:
+
+![](/graphics/er21ap21.027.gif)
+
+(37) *Unit 33:* NM-2, Gila River; Grant County, New Mexico. Map of Unit 33 follows:
+
+![](/graphics/er21ap21.028.gif)
+
+(38) *Unit 34:* NM-3A and NM-3B, Mimbres River; Grant County, New Mexico. Maps of Unit 34 follow:
+
+(i) *Map of Unit 34:* NM-3A, Mimbres River.
+
+![](/graphics/er21ap21.029.gif)
+
+(ii) *Map of Unit 34:* NM-3B, Mimbres River.
+
+![](/graphics/er21ap21.030.gif)
+
+(39) *Unit 35:* NM-4, Upper Rio Grande 1; Rio Arriba County, New Mexico. Map of Unit 35 follows:
+
+![](/graphics/er21ap21.031.gif)
+
+(40) *Unit 36:* NM-5, Upper Rio Grande 2; Santa Fe and Rio Arriba Counties, New Mexico. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(41) *Unit 37:* NM-6A and NM-6B, Middle Rio Grande; Sierra, Socorro, Valencia and Bernalillo Counties, New Mexico. Unit 37: NM-6A was excluded from the designation pursuant to section 4(b)(2) of the Act. Map of Unit 37: NM-6B, Middle Rio Grande, follows:
+
+![](/graphics/er21ap21.032.gif)
+
+(42) *Unit 38:* NM-7, Upper Gila River; Grant and Hidalgo Counties, New Mexico. Map of Unit 38 follows:
+
+![](/graphics/er21ap21.033.gif)
+
+(43) *Unit 39:* NM-8A, Caballo Delta North and NM-8B, Caballo Delta South; Sierra County, New Mexico. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(44) *Unit 40:* NM-9, Animas; Sierra County, New Mexico. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(45) *Unit 41:* NM-10, Selden Canyon and Radium Springs; Doña Ana County, New Mexico. This unit was excluded from the designation pursuant to section 4(b)(2) of the Act.
+
+(46) *Unit 42:* AZ-30, Arivaca Wash and San Luis Wash; Pima County, Arizona. Map of Unit 42 follows:
+
+![](/graphics/er21ap21.034.gif)
+
+(47) *Unit 43:* AZ-31, Florida Wash; Pima and Santa Cruz Counties, Arizona. Map of Unit 43 follows:
+
+![](/graphics/er21ap21.035.gif)
+
+(48) *Unit 44:* AZ-32, California Gulch; Santa Cruz County, Arizona. Map of Unit 44 follows:
+
+![](/graphics/er21ap21.036.gif)
+
+(49) *Unit 45:* AZ-33, Sycamore Canyon; Santa Cruz County, Arizona. Map of Unit 45 follows:
+
+![](/graphics/er21ap21.037.gif)
+
+(50) *Unit 46:* AZ-34, Madera Canyon; Pima and Santa Cruz Counties, Arizona. Map of Unit 46 follows:
+
+![](/graphics/er21ap21.038.gif)
+
+(51) *Unit 47:* AZ-35, Montosa Canyon; Santa Cruz County, Arizona. Map of Unit 47 follows:
+
+![](/graphics/er21ap21.039.gif)
+
+(52) *Unit 48:* AZ-36, Patagonia Mountains; Santa Cruz County, Arizona. Map of Unit 48 follows:
+
+![](/graphics/er21ap21.040.gif)
+
+(53) *Unit 49:* AZ-37, Canelo Hills; Santa Cruz County, Arizona. Map of Unit 49 follows:
+
+![](/graphics/er21ap21.041.gif)
+
+(54) *Unit 50:* AZ-38, Arivaca Lake; Pima and Santa Cruz Counties, Arizona. Map of Unit 50 follows:
+
+![](/graphics/er21ap21.042.gif)
+
+(55) *Unit 51:* AZ-39, Peppersauce Canyon; Pinal County, Arizona. Map of Unit 51 follows:
+
+![](/graphics/er21ap21.043.gif)
+
+(56) *Unit 52:* AZ-40, Pena Blanca Canyon; Santa Cruz County, Arizona. Map of Unit 52 follows:
+
+![](/graphics/er21ap21.044.gif)
+
+(57) *Unit 53:* AZ-41, Box Canyon; Pima County, Arizona. Map of Unit 53 follows:
+
+![](/graphics/er21ap21.045.gif)
+
+(58) *Unit 54:* AZ-42, Rock Corral Canyon; Santa Cruz County, Arizona. Map of Unit 54 follows:
+
+![](/graphics/er21ap21.046.gif)
+
+(59) *Unit 55:* AZ-43, Lyle Canyon; Santa Cruz and Cochise Counties, Arizona. Map of Unit 55 follows:
+
+![](/graphics/er21ap21.047.gif)
+
+(60) *Unit 56:* AZ-44, Parker Canyon Lake; Santa Cruz and Cochise Counties, Arizona. Map of Unit 56 follows:
+
+![](/graphics/er21ap21.048.gif)
+
+(61) *Unit 57:* AZ-45, Barrel Canyon; Pima County, Arizona. Map of Unit 57 follows:
+
+![](/graphics/er21ap21.049.gif)
+
+(62) *Unit 58:* AZ-46, Gardner Canyon; Pima and Santa Cruz Counties, Arizona. Map of Unit 58 follows:
+
+![](/graphics/er21ap21.050.gif)
+
+(63) *Unit 59:* AZ-47, Brown Canyon; Pima County, Arizona. Map of Unit 59 follows:
+
+![](/graphics/er21ap21.051.gif)
+
+(64) *Unit 60:* AZ-48, Sycamore Canyon; Santa Cruz County, Arizona. Map of Unit 60 follows:
+
+![](/graphics/er21ap21.052.gif)
+
+(65) *Unit 61:* AZ-49, Washington Gulch; Santa Cruz County, Arizona. Map of Unit 61 follows:
+
+![](/graphics/er21ap21.053.gif)
+
+(66) *Unit 62:* AZ-50, Paymaster Spring and Mowry Wash; Santa Cruz County, Arizona. Map of Unit 62 follows:
+
+![](/graphics/er21ap21.054.gif)
+
+(67) *Unit 63:* CA-1, Sacramento River, Colusa, Glenn, Butte, and Tehama Counties, California. Map of Unit 63 follows:
+
+![](/graphics/er21ap21.055.gif)
+
+(68) *Unit 64:* CA-2, South Fork Kern River Valley; Kern County, California. Map of Unit 64 follows:
+
+![](/graphics/er21ap21.056.gif)
+
+(69) *Unit 65:* ID-1, Snake River 1; Bannock and Bingham Counties, Idaho. Map of Unit 65 follows:
+
+![](/graphics/er21ap21.057.gif)
+
+(70) *Unit 66:* ID-2, Snake River 2; Bonneville, Madison, and Jefferson Counties, Idaho. Map of Unit 66 follows:
+
+![](/graphics/er21ap21.058.gif)
+
+(71) *Unit 67:* ID-3, Henry's Fork and Teton Rivers; Madison and Fremont Counties, Idaho. Map of Unit 67 follows:
+
+![](/graphics/er21ap21.059.gif)
+
+(72) *Unit 68:* CO-1, Colorado River; Mesa County, Colorado. Map of Unit 68 follows:
+
+![](/graphics/er21ap21.060.gif)
+
+(73) *Unit 69:* CO-2, North Fork Gunnison River; Delta County, Colorado. Map of Unit 69 follows:
+
+![](/graphics/er21ap21.061.gif)
+
+(74) *Unit 70:* UT-1, Green River 1; Uintah and Duchesne Counties, Utah. Map of Unit 70 follows:
+
+![](/graphics/er21ap21.062.gif)
+
+(75) *Unit 71:* UT-2, Green River 2; Emery and Grand Counties, Utah. Map of Unit 71 follows:
+
+![](/graphics/er21ap21.063.gif)
+
+(76) *Unit 72:* TX-1, Terlingua Creek and Rio Grande; Brewster County, Texas. Map of Unit 72 follows:
+
+![](/graphics/er21ap21.064.gif)Spectacled Eider (*Somateria fischeri*)
 
 1. Critical habitat units are depicted for Unit 1 (Central Yukon-Kuskokwim Delta), Unit 2 (South Y-K Delta Unit), Unit 3 (Norton Sound), Unit 4 (Ledyard Bay), and Unit 5 (the Wintering Unit in the Bering Sea between St. Lawrence and St. Matthew Islands) for reference only. The maps provided are for informational purposes only.
 
@@ -5098,9 +5402,9 @@ Starting at the intersection of State Highway 1 with the western boundary of the
 
 ![](/graphics/er04de12.001.gif)
 
-(7) Note: Index map of critical habitat units for the northern spotted owl in the State of Oregon follows:
+(7) *Note:* Index map of critical habitat units for the northern spotted owl in the State of Oregon follows: Figure 2 to Northern Spotted Owl *(Strix occidentalis caurina)* paragraph (7)
 
-![](/graphics/er04de12.002.gif)
+![](/graphics/er10no21.000.gif)
 
 (8) Note: Index map of critical habitat units for the northern spotted owl in the State of California follows:
 
@@ -5108,11 +5412,11 @@ Starting at the intersection of State Highway 1 with the western boundary of the
 
 (9) Unit 1: North Coast Ranges and Olympic Peninsula, Oregon and Washington. Maps of Unit 1: North Coast Ranges and Olympic Peninsula, Oregon and Washington, follow:
 
-![](/graphics/er04de12.004.gif)![](/graphics/er04de12.005.gif)
+![](/graphics/er04de12.004.gif)![](/graphics/er10no21.001.gif)
 
 (10) Unit 2: Oregon Coast Ranges, Oregon. Map of Unit 2, Oregon Coast Ranges, Oregon, follows:
 
-![](/graphics/er04de12.006.gif)
+![](/graphics/er10no21.002.gif)
 
 (11) Unit 3: Redwood Coast, Oregon and California. Map of Unit 3, Redwood Coast, Oregon and California, follows:
 
@@ -5126,9 +5430,9 @@ Starting at the intersection of State Highway 1 with the western boundary of the
 
 ![](/graphics/er04de12.009.gif)
 
-(14) Unit 6: West Cascades South, Washington. Map of Unit 6, West Cascades South, Washington, follows:
+(14) Unit 6: West Cascades South, Oregon. Map of Unit 6, West Cascades South, Oregon, follows:
 
-![](/graphics/er04de12.010.gif)
+![](/graphics/er10no21.003.gif)
 
 (15) Unit 7: East Cascades North, Washington and Oregon. Maps of Unit 7, East Cascades North, Washington and Oregon, follow:
 
@@ -5136,15 +5440,15 @@ Starting at the intersection of State Highway 1 with the western boundary of the
 
 (16) Unit 8: East Cascades South, California and Oregon. Map of Unit 8, East Cascades South, California and Oregon, follows:
 
-![](/graphics/er04de12.013.gif)
+![](/graphics/er10no21.004.gif)
 
 (17) Unit 9: Klamath West, Oregon and California. Map of Unit 9: Klamath West, Oregon and California, follows:
 
-![](/graphics/er04de12.014.gif)
+![](/graphics/er10no21.005.gif)
 
-(18) Unit 10: Klamath East, California. Map of Unit 10: Klamath East, California, follows:
+(18) Unit 10: Klamath East, California and Oregon. Map of Unit 10: Klamath East, California and Oregon, follows:
 
-![](/graphics/er04de12.015.gif)
+![](/graphics/er10no21.006.gif)
 
 (19) Unit 11: Interior California Coast, California. Map of Unit 11: Interior California Coast, California, follows:
 
@@ -9010,7 +9314,9 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 85 FR 61631, Sept. 30, 2020.Link to an amendment published at 85 FR 82388, Dec. 18, 2020.
+![](/graphics/er12se06.000.gif)Editorial Note:
+
+For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (c) *Reptiles.*
 
@@ -9034,7 +9340,231 @@ Note:
 
 No map.
 
-Mona Ground Iguana (*Cyclura stejnegeri*)
+Narrow-headed Gartersnake (*Thamnophis rufipunctatus*)
+
+(1) Critical habitat units are depicted for Greenlee, Apache, Yavapai, Gila, and Coconino Counties in Arizona, as well as in Grant, Hidalgo, and Catron Counties in New Mexico, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of narrow-headed gartersnake consist of the following components:
+
+(i) Perennial streams or spatially intermittent streams that provide both aquatic and terrestrial habitat that allows for immigration, emigration, and maintenance of population connectivity of narrow-headed gartersnakes and contain:
+
+(A) Pools, riffles, and cobble and boulder substrate, with a low amount of fine sediment and substrate embeddedness;
+
+(B) Organic and natural inorganic structural features (*e.g.,* cobble bars, rock piles, large boulders, logs or stumps, aquatic vegetation, vegetated islands, logs, and debris jams) in the stream channel for basking, thermoregulation, shelter, prey base maintenance, and protection from predators;
+
+(C) Water quality that meets or exceeds applicable State surface water quality standards; and
+
+(D) Terrestrial habitat up to 328 feet (100 meters) from the active stream channel (water's edge) that includes flood debris, rock piles, and rock walls containing cracks and crevices, small mammal burrows, downed woody debris, and streamside vegetation (*e.g.,* alder, willow, sedges, and shrubs) for thermoregulation, shelter, brumation and protection from predators throughout the year.
+
+(ii) Hydrologic processes that maintain aquatic and riparian habitat through:
+
+(A) A natural flow regime that allows for periodic flooding, or if flows are modified or regulated, a flow regime that allows for the movement of water, sediment, nutrients, and debris through the stream network, as well as maintenance of native fish populations; and
+
+(B) Physical hydrologic and geomorphic connection between the active stream channel and its adjacent terrestrial areas.
+
+(iii) A combination of native fishes, and soft-rayed, nonnative fish species such that prey availability occurs across seasons and years.
+
+(iv) An absence of nonnative aquatic predators, such as fish species of the families Centrarchidae and Ictaluridae, American bullfrogs (*Lithobates catesbeianus*), and/or crayfish (*Orconectes virilis, Procambarus clarki,* etc.), or occurrence of these nonnative species at low enough levels such that recruitment of narrow-headed gartersnakes is not inhibited and maintenance of viable prey populations is still occurring.
+
+(v) Elevations of 2,300 to 8,200 feet (700 to 2,500 meters).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on November 22, 2021.
+
+(4) Data layers defining map units were created using the U.S. Geological Survey's 7.5' quadrangles, National Hydrography Dataset and National Elevation Dataset; the Service's National Wetlands Inventory dataset; and aerial imagery from Google Earth Pro. Line locations for lotic streams (flowing water) and drainages are depicted as the “Flowline” feature class from the National Hydrography Dataset geodatabase. The active channel along a stream is depicted as the “Wetlands” feature class from the Service's National Wetlands Inventory dataset. Any discrepancies between the “Flowline” and “Wetlands” feature classes were resolved using aerial imagery from Google Earth Pro. Elevation range is masked using the “Elev\_Contour” feature class of the National Elevation Dataset. The administrative boundaries for Arizona and New Mexico were obtained from the Arizona Land Resource Information Service and New Mexico Resource Geographic Information System, respectively. This includes the most current (as of November 22, 2021) geospatial data available for land ownership, counties, States, and streets. Locations depicting critical habitat are expressed as decimal degree latitude and longitude in the World Geographic Coordinate System projection using the 1984 datum (WGS84). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/southwest/es/arizona/,* at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0011, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+Figure 1 to Narrow-headed Gartersnake paragraph (5)
+
+![](/graphics/er21oc21.004.gif)
+
+(6) Unit 1: Upper Gila River Subbasin Unit, Grant and Hidalgo Counties, New Mexico.
+
+(i) Unit 1 consists of 7,005 acres (ac) (2,835 hectares (ha)) in Grant and Hidalgo Counties, and is composed of lands in Federal (4,084 ac (1,653 ha)), State (553 ac (224 ha)), and private (2,368 ac (958 ha)) ownership in eight subunits west of the town of Glenwood, north of Silver City, and South of Gila and Cliff.
+
+(ii) Map of Unit 1 follows:
+
+Figure 2 to Narrow-headed Gartersnake paragraph (6)(ii)
+
+![](/graphics/er21oc21.005.gif)
+
+(7) Unit 2: San Francisco River Subbasin Unit, Catron County, New Mexico.
+
+(i) Unit 2 consists of 5,895 ac (2,386 ha) in Catron County, and is composed of lands in Federal (3,924 ac (1,588 ha)), State (3 ac (1 ha)), and private (1,967 ac (796 ha)) ownership in six subunits near the towns of Glenwood and Reserve.
+
+(ii) Map of Unit 2 follows:
+
+Figure 3 to Narrow-headed Gartersnake paragraph (7)(ii)
+
+![](/graphics/er21oc21.006.gif)
+
+(8) Unit 3: Blue River Subbasin Unit, Greenlee County, Arizona, and Catron County, New Mexico.
+
+(i) Unit 3 consists 3,368 ac (1,363 ha) in Greenlee County, Arizona, and Catron County, New Mexico, and is composed of lands in Federal (2,918 ac (1,181 ha)) and private (450 ac (182 ha)) ownership in three subunits near the towns of Blue, Arizona, and Luna, New Mexico.
+
+(ii) Map of Unit 3 follows:
+
+Figure 4 to Narrow-headed Gartersnake paragraph (8)(ii)
+
+![](/graphics/er21oc21.007.gif)
+
+(9) Unit 4: Eagle Creek Unit, Greenlee County, Arizona.
+
+(i) Unit 4 consists of 84 ac (34 ha) in Greenlee County, and is composed of lands in Federal (84 ac (34 ha)) and private (1 ac (\<1 ha)) ownership near the town of Woolaroc.
+
+(ii) Map of Unit 4 follows:
+
+Figure 5 to Narrow-headed Gartersnake paragraph (9)(ii)
+
+![](/graphics/er21oc21.008.gif)
+
+(10) Unit 5: Black River Subbasin Unit, Apache and Greenlee Counties, Arizona.
+
+(i) Unit 5 consists of 1,780 ac (720 ha) in Apache and Greenlee Counties, and is composed of lands in Federal (1,780 ac (720 ha)) ownership in six subunits near the towns of Maverick and Hannigan Meadow.
+
+(ii) Map of Unit 5 follows:
+
+Figure 6 to Narrow-headed Gartersnake paragraph (10)(ii)
+
+![](/graphics/er21oc21.009.gif)
+
+(11) Unit 6: Canyon Creek Unit, Gila County, Arizona.
+
+(i) Unit 6 consists of 204 ac (82 ha) in Gila County, and is composed of lands in Federal (204 ac (82 ha)) ownership southwest of the town of Heber.
+
+(ii) Map of Unit 6 follows:
+
+Figure 7 to Narrow-headed Gartersnake paragraph (11)(ii)
+
+![](/graphics/er21oc21.010.gif)
+
+(12) Unit 7: Tonto Creek Subbasin Unit, Gila County, Arizona.
+
+(i) Unit 7 consists of 2,293 ac (928 ha) in Gila County, and is composed of lands in Federal (2,176 ac (881 ha)) and private (117 ac (47 ha)) ownership in three subunits near the towns of Jakes Corner and Gisela.
+
+(ii) Map of Unit 7 follows:
+
+Figure 8 to Narrow-headed Gartersnake paragraph (12)(ii)
+
+![](/graphics/er21oc21.011.gif)
+
+(13) Unit 8: Verde River Subbasin Unit, Coconino and Yavapai Counties, Arizona.
+
+(i) Unit 8 consists of 3,156 ac (1,277 ha) in Coconino and Yavapai Counties, and is composed of lands in Federal (2,446 ac (990 ha)), State (109 ac (44 ha)), and private (602 ac (244 ha)) ownership in three subunits near the towns of Sedona and Perkinsville.
+
+(ii) Map of Unit 8 follows:
+
+Figure 9 to Narrow-headed Gartersnake paragraph (13)(ii)
+
+![](/graphics/er21oc21.012.gif)Northern Mexican Gartersnake (*Thamnophis eques megalops*)
+
+(1) Critical habitat units are depicted for La Paz, Mohave, Yavapai, Gila, Cochise, Santa Cruz, and Pima Counties in Arizona, and in Grant County in New Mexico, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of northern Mexican gartersnake consist of the following components:
+
+(i) Perennial or spatially intermittent streams that provide both aquatic and terrestrial habitat that allows for immigration, emigration, and maintenance of population connectivity of northern Mexican gartersnakes and contain:
+
+(A) Slow-moving water (walking speed) with in-stream pools, off-channel pools, and backwater habitat;
+
+(B) Organic and natural inorganic structural features (*e.g.,* boulders, dense aquatic and wetland vegetation, leaf litter, logs, and debris jams) within the stream channel for thermoregulation, shelter, foraging opportunities, and protection from predators;
+
+(C) Terrestrial habitat adjacent to the stream channel that includes riparian vegetation, small mammal burrows, boulder fields, rock crevices, and downed woody debris for thermoregulation, shelter, foraging opportunities, brumation, and protection from predators; and
+
+(D) Water quality that meets or exceeds applicable State surface water quality standards.
+
+(ii) Hydrologic processes that maintain aquatic and terrestrial habitat through:
+
+(A) A natural flow regime that allows for periodic flooding, or if flows are modified or regulated, a flow regime that allows for the movement of water, sediment, nutrients, and debris through the stream network; and
+
+(B) Physical hydrologic and geomorphic connection between a stream channel and its adjacent riparian areas.
+
+(iii) A combination of amphibians, fishes, small mammals, lizards, and invertebrate species such that prey availability occurs across seasons and years.
+
+(iv) An absence of nonnative fish species of the families Centrarchidae and Ictaluridae, American bullfrogs (*Lithobates catesbeianus*), and/or crayfish (*Orconectes virilis, Procambarus clarki,* etc.), or occurrence of these nonnative species at low enough levels such that recruitment of northern Mexican gartersnakes is not inhibited and maintenance of viable prey populations is still occurring.
+
+(v) Elevations from 130 to 8,497 feet (40 to 2,590 meters).
+
+(vi) Lentic wetlands including off-channel springs, cienegas, and natural and constructed ponds (small earthen impoundment) with:
+
+(A) Organic and natural inorganic structural features (*e.g.,* boulders, dense aquatic and wetland vegetation, leaf litter, logs, and debris jams) within the ordinary high water mark for thermoregulation, shelter, foraging opportunities, brumation, and protection from predators;
+
+(B) Riparian habitat adjacent to ordinary high water mark that includes riparian vegetation, small mammal burrows, boulder fields, rock crevices, and downed woody debris for thermoregulation, shelter, foraging opportunities, and protection from predators; and
+
+(C) Water quality that meets or exceeds applicable State surface water quality standards.
+
+(vii) Ephemeral channels that connect perennial or spatially intermittent perennial streams to lentic wetlands in southern Arizona where water resources are limited.
+
+(3) Critical habitat does not include humanmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 28, 2021.
+
+(4) Data layers defining map units were created included using the U.S. Geological Survey's 7.5′ quadrangles, National Hydrography Dataset, and National Elevation Dataset; the Service's National Wetlands Inventory dataset; and aerial imagery from Google Earth Pro. Line locations for lotic streams (flowing water) and drainages are depicted as the “Flowline” feature class from the National Hydrography Dataset geodatabase. Point locations for lentic sites (ponds) are depicted as “NHDPoint” feature class from the National Hydrography Dataset geodatabase. Extent of riparian habitat surrounding lotic streams and lentic sites is depicted by the greater of the “Wetlands” and “Riparian” features classes of the Service's national Wetlands Inventory dataset and further refined using aerial imagery from Google Earth Pro. Elevation range is masked using the “Elev\_Contour” feature class of the National Elevation Dataset. Administrative boundaries for Arizona and New Mexico were obtained from the Arizona Land Resource Information Service and New Mexico Resource Geographic Information System, respectively. This includes the most current (as of May 28, 2021) geospatial data available for land ownership, counties, States, and streets. Locations depicting critical habitat are expressed as decimal degree latitude and longitude in the World Geographic Coordinate System projection using the 1984 datum (WGS84). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/southwest/es/arizona/,* at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0011, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er28ap21.000.gif)
+
+(6) *Unit 1:* Upper Gila River Subbasin Unit, Grant County, New Mexico.
+
+(i) *General description:* Unit 1 consists of 1,133 acres (ac) (458 hectares (ha)) in Grant County, and is composed of lands in State (22 ac (9 ha)) and private (1,110 ac (449 ha)) ownership in two subunits near the towns of Cliff and Gila.
+
+(ii) *Map:* Map of Unit 1 follows:
+
+![](/graphics/er28ap21.001.gif)
+
+(7) *Unit 2:* Tonto Creek Unit, Gila County, Arizona.
+
+(i) *General description:* Unit 2 consists of 3,176 ac (1,285 ha) in Gila County, and is composed of lands in Federal (2,230 ac (902 ha)) and private (947 ac (383 ha)) ownership near the towns of Gisela and Punkin Center.
+
+(ii) *Map:* Map of Unit 2 follows:
+
+![](/graphics/er28ap21.002.gif)
+
+(8) *Unit 3:* Verde River Subbasin Unit, Yavapai County, Arizona.
+
+(i) *General description:* Unit 3 consists of 5,265 ac (2,131 ha) in Yavapai County, and is composed of lands in Federal (978 ac (396 ha)), State (571 ac (231 ha)), and private (3,715 ac (1,433 ha)) ownership in three subunits near the towns of Cottonwood, Cornville, Page Springs, and Camp Verde.
+
+(ii) *Map:* Map of Unit 3 follows:
+
+![](/graphics/er28ap21.003.gif)
+
+(9) *Unit 4:* Bill Williams River Subbasin Unit, La Paz and Mohave Counties, Arizona.
+
+(i) *General description:* Unit 4 consists of 2,245 ac (908 ha) in La Paz and Mohave Counties, and is composed of lands in Federal (1,119 ac (453 ha)) and private (1,126 ac (456 ha)) ownership in two subunits near the towns of Wikiup and Signal.
+
+(ii) *Map:* Map of Unit 4 follows:
+
+![](/graphics/er28ap21.004.gif)
+
+(10) *Unit 5:* Arivaca Cienega Unit, Pima County, Arizona.
+
+(i) *General description:* Unit 5 consists of 211 ac (86 ha) in Pima County and is composed of lands in Federal (149 ac (60 ha)), State (1 ac (\<1 ha)), and private (62 ac (25 ha)) ownership near the town of Arivaca.
+
+(ii) *Map:* Map of Unit 5 follows:
+
+![](/graphics/er28ap21.005.gif)
+
+(11) *Unit 6:* Cienega Creek Subbasin Unit, Pima County, Arizona.
+
+(i) *General description:* Unit 6 consists of 2,083 ac (843 ha) in Pima County and is composed of lands in Federal (1,113 ac (450 ha)), State (366 ac (148 ha)), and private (605 ac (245 ha)) ownership in four subunits near the towns of Tucson, Vail, and Sonoita.
+
+(ii) *Map:* Map of Unit 6 follows:
+
+![](/graphics/er28ap21.006.gif)
+
+(12) *Unit 7:* Upper Santa Cruz River Subbasin Unit, Santa Cruz and Cochise Counties, Arizona.
+
+(i) *General description:* Unit 7 consists of 380 ac (154 ha) in Santa Cruz and Cochise Counties, and is composed of lands in Federal (45 ac (18 ha)), State (111 ac (45 ha)), and private (224 ac (91 ha)) ownership in seven subunits near the towns of Sonoita and Patagonia.
+
+(ii) *Map:* Map of Unit 7 follows:
+
+![](/graphics/er28ap21.007.gif)
+
+(13) *Unit 8:* Upper San Pedro River Subbasin Unit, Cochise and Santa Cruz Counties, Arizona.
+
+(i) *General description:* Unit 8 consists of 5,834 ac (2,355 ha) in Cochise and Santa Cruz Counties, and is composed of lands in Federal (5,197 ac (2,103 ha)), State (8 ac (3 ha)), and private (630 ac (255 ha)) ownership in five subunits near the towns of Sierra Vista and Elgin.
+
+(ii) *Map:* Map of Unit 8 follows:
+
+![](/graphics/er28ap21.008.gif)Mona Ground Iguana (*Cyclura stejnegeri*)
 
 *Commonwealth of Puerto Rico.* Mona Island - entire island.
 
@@ -12296,7 +12826,101 @@ Mountain Yellow-Legged Frog (*Rana muscosa*), Northern California DPS
 
 (B) Map of Units FFS-6 and FFS-7 follows:
 
-![](/graphics/er10fe09.005.gif)Jemez Mountains Salamander (*Plethodon neomexicanus*)
+![](/graphics/er10fe09.005.gif)Georgetown Salamander (*Eurycea naufragia*)
+
+(1) Critical habitat units are depicted for Williamson County, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Georgetown salamander consist of the following components:
+
+(i) For surface habitat:
+
+(A) *Water from the Northern Segment of the Edwards Aquifer.* Groundwater issuing to the surface from the underlying aquifer is similar to natural aquifer conditions as it discharges from natural spring outlets. Concentrations of water quality constituents and contaminants should be below levels that could exert direct lethal or sublethal effects (such as effects to reproduction, growth, development, or metabolic processes), or indirect effects (such as effects to the Georgetown salamander's prey base). Hydrologic regimes similar to the historical pattern of the specific sites are present, with at least some surface flow during the year. The water chemistry of aquatic surface habitats is similar to natural aquifer conditions, with temperatures from 61 to 84 °F (16 to 29 °C), dissolved oxygen concentrations from 5 to 13 milligrams per liter (mg/L), and specific water conductance from 317 to 814 micro-Siemens per centimeter (µS/cm).
+
+(B) *Rocky substrate with interstitial spaces.* Rocks in the substrate of the salamander's surface aquatic habitat are large enough to provide salamanders with cover, shelter, and foraging habitat. The substrate and interstitial spaces have minimal sedimentation.
+
+(C) *Aquatic invertebrates for food.* The spring environment supports a diverse aquatic invertebrate community that includes crustaceans, insects, and aquatic snails.
+
+(D) *Subterranean aquifer.* Access to the subsurface water table exists to provide shelter, protection, and space for reproduction. This access can occur in the form of large conduits that carry water to the spring outlet or porous voids between rocks in the streambed that extend down into the water table.
+
+(ii) For subsurface habitat:
+
+(A) *Water from the Northern Segment of the Edwards Aquifer.* Groundwater quality is similar to natural aquifer conditions. Concentrations of water quality constituents and contaminants should be below levels that could exert direct lethal or sublethal effects (such as effects to reproduction, growth, development, or metabolic processes), or indirect effects (such as effects to the Georgetown salamander's prey base). Hydrologic regimes similar to the historical pattern of the specific sites are present, with continuous flow. The water chemistry is similar to natural aquifer conditions, with temperatures from 61 to 84 °F (16 to 29 °C), dissolved oxygen concentrations from 5 to 13 mg/L, and specific water conductance from 317 to 814 µS/cm.
+
+(B) *Subsurface spaces.* Voids between rocks underground are large enough to provide salamanders with cover, shelter, and foraging habitat. These spaces have minimal sedimentation.
+
+(C) *Aquatic invertebrates for food.* The habitat supports an aquatic invertebrate community that includes crustaceans, insects, and aquatic snails.
+
+(3) Surface critical habitat includes the spring outlets and outflow up to the high-water line and 262 feet (ft) (80 meters (m)) of upstream and downstream habitat, including the dry stream channel during periods of no surface flow. The surface critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) existing within the legal boundaries on September 17, 2021; however, the subsurface critical habitat may extend below such structures. The subsurface critical habitat includes underground features in a circle with a radius of 984 ft (300 m) around the springs.
+
+(4) Data layers defining map units were created using a geographic information system (GIS), which included species locations, roads, property boundaries, 2011 aerial photography, and U.S. Geological Survey 7.5′ quadrangles. Points were placed on the GIS. We delineated critical habitat unit boundaries by starting with the cave or spring point locations that are occupied by the salamander. From these cave or springs points, we delineated a 984-ft (300-m) buffer to create the polygons that capture the extent to which we estimate the salamander populations exist through underground conduits. The polygons were then simplified to reduce the number of vertices, but still retain the overall shape and extent. Subsequently, polygons that were within 98 ft (30 m) of each other were merged together. Each new merged polygon was then revised to remove extraneous divots or protrusions that resulted from the merge process. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/southwest/es/AustinTexas/,* at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0048, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er18au21.155.gif)
+
+(6) Unit 1: Water Tank Cave Unit, Williamson County, Texas.
+
+(i) Unit 1 consists of 68 ac (28 ha) of private land in west-central Williamson County. A golf course crosses the unit from northwest to southeast, and there are several roads in the eastern part of the unit. A secondary road crosses the extreme southern portion of the unit, and there are residences in the northwestern, southwestern, and west-central portions of the unit.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er18au21.156.gif)
+
+(7) Unit 2: Hogg Hollow Spring Unit, Williamson County, Texas.
+
+(i) Unit 2 consists of approximately 122 ac (49 ha) of U.S. Army Corps of Engineers land and private land in Williamson County, Texas. The unit is located south of Lake Georgetown and is mostly undeveloped. The northwestern part of the unit includes Sawyer Park, part of the Lake Georgetown recreation area.
+
+(ii) Map of Units 2 and 3 follows:
+
+![](/graphics/er18au21.157.gif)
+
+(8) Unit 3: Cedar Hollow Spring Unit, Williamson County, Texas.
+
+(i) Unit 3 consists of approximately 68 ac (28 ha) of private land in west-central Williamson County, Texas. A secondary road crosses the extreme southern portion of the unit, and there are residences in the northwestern, southwestern, and west-central portions of the unit.
+
+(ii) Map of Unit 3 is provided at paragraph (7)(ii) of this entry.
+
+(9) Unit 4: Lake Georgetown Unit, Williamson County, Texas.
+
+(i) Unit 4 consists of approximately 134 ac (54 ha) of Federal and private land in west-central Williamson County, Texas. Part of the unit is the U.S. Army Corps of Engineers' Lake Georgetown property. There are currently no plans to develop the property. There is some control of public access. Unpaved roads are found in the western portion of the unit, and a trail begins in the central part of the unit and leaves the northeast corner. A secondary road crosses the extreme southern portion of the unit, and there are residences in the northwestern, southwestern, and west-central portions of the unit. A large quarry is located a short distance southeast of the unit.
+
+(ii) Map of Units 4, 5, 6, and 7 follows:
+
+![](/graphics/er18au21.158.gif)
+
+(10) Unit 5: Buford Hollow Spring Unit, Williamson County, Texas.
+
+(i) Unit 5 consists of approximately 68 ac (28 ha) of Federal and private land in west-central Williamson County, Texas. The unit is located just below the spillway for Lake Georgetown. The U.S. Army Corps of Engineers owns most of this unit as part of Lake Georgetown. The D.B. Wood Road, a major thoroughfare, crosses the eastern part of the unit.
+
+(ii) Map of Unit 5 is provided at paragraph (9)(ii) of this entry.
+
+(11) Unit 6: Swinbank Spring Unit, Williamson County, Texas.
+
+(i) Unit 6 consists of approximately 68 ac (28 ha) of City and private land in west-central Williamson County, Texas. The unit is located near River Road south of Melanie Lane. The northern part of the unit is primarily in residential development, while the southern part of this unit is primarily undeveloped.
+
+(ii) Map of Unit 6 is provided at paragraph (9)(ii) of this entry.
+
+(12) Unit 7: Avant Spring Unit, Williamson County, Texas.
+
+(i) Unit 7 consists of approximately 68 ac (28 ha) of private land in west-central Williamson County, Texas. The northern part of a large quarry is along the southwestern edge of the unit. The rest of the unit is undeveloped.
+
+(ii) Map of Unit 7 is provided at paragraph (9)(ii) of this entry.
+
+(13) Unit 8: Shadow Canyon Spring Unit, Williamson County, Texas.
+
+(i) Unit 8 consists of approximately 68 ac (28 ha) of City and private land in west-central Williamson County, Texas. The unit is located just south of State Highway 29. This unit contains Shadow Canyon Spring, which is occupied by the Georgetown salamander.
+
+(ii) Map of Unit 8 follows:
+
+![](/graphics/er18au21.159.gif)
+
+(14) Unit 9: Garey Ranch Spring Unit, Williamson County, Texas.
+
+(i) Unit 9 consists of approximately 68 ac (28 ha) of private land in Williamson County, Texas. The unit is located north of RM 2243. The unit is mostly undeveloped. A small amount of residential development enters the southern and eastern parts of the unit.
+
+(ii) Map of Unit 9 follows:
+
+![](/graphics/er18au21.160.gif)Jemez Mountains Salamander (*Plethodon neomexicanus*)
 
 (1) Critical habitat units are depicted for Los Alamos, Rio Arriba, and Sandoval Counties, New Mexico, on the maps below.
 
@@ -12600,7 +13224,91 @@ Jollyville Plateau Salamander (*Eurycea tonkawae*)
 
 (B) *Note:* Map of Unit RFS-10 follows:
 
-![](/graphics/er10fe09.010.gif)San Marcos Salamander (*Eurycea nana*)
+![](/graphics/er10fe09.010.gif)Salado Salamander (*Eurycea chisholmensis*)
+
+(1) Critical habitat units are depicted for Bell and Williamson Counties, Texas, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Salado salamander consist of the following components:
+
+(i) For surface habitat:
+
+(A) *Water from the Northern Segment of the Edwards Aquifer.* Groundwater quality issuing to the surface from the underlying aquifer is similar to natural aquifer conditions as it discharges from natural spring outlets. Concentrations of water quality constituents and contaminants are below levels that could exert direct lethal or sublethal effects (such as effects to reproduction, growth, development, or metabolic processes), or indirect effects (such as effects to the Salado salamander's prey base). Hydrologic regimes similar to the historical pattern of the specific sites are present, with at least some surface flow during the year. The water chemistry of aquatic surface habitats is similar to natural aquifer conditions, with temperatures from 61 to 84 °F (16 to 29 °C), dissolved oxygen concentrations from 5 to 13 milligrams per liter (mg/L), and specific water conductance from 317 to 814 micro-Siemens per centimeter (µS/cm).
+
+(B) *Rocky substrate with interstitial spaces.* Rocks in the substrate of the salamander's surface aquatic habitat are large enough to provide salamanders with cover, shelter, and foraging habitat. The substrate and interstitial spaces have minimal sedimentation.
+
+(C) *Aquatic invertebrates for food.* The spring environment is capable of supporting a diverse aquatic invertebrate community that includes crustaceans, insects, and aquatic snails.
+
+(D) *Subterranean aquifer.* Access to the subsurface water table exists to provide shelter, protection, and space for reproduction. This access can occur in the form of large conduits that carry water to the spring outlet or porous voids between rocks in the streambed that extend down into the water table.
+
+(ii) For subsurface habitat:
+
+(A) *Water from the Northern Segment of the Edwards Aquifer.* Groundwater quality is similar to natural aquifer conditions. Concentrations of water quality constituents and contaminants are below levels that could exert direct lethal or sublethal effects (such as effects to reproduction, growth, development, or metabolic processes), or indirect effects (such as effects to the Salado salamander's prey base). Hydrologic regimes similar to the historical pattern of the specific sites are present, with continuous flow. The water chemistry is similar to natural aquifer conditions, with temperatures from 61 to 84 °F (16 to 29 °C), dissolved oxygen concentrations from 5 to 13 mg/L, and specific water conductance from 317 to 814 µS/cm.
+
+(B) *Subsurface spaces.* Voids between rocks underground are large enough to provide salamanders with cover, shelter, and foraging habitat. These spaces have minimal sedimentation.
+
+(C) *Aquatic invertebrates for food.* The habitat is capable of supporting an aquatic invertebrate community that includes crustaceans, insects, and aquatic snails.
+
+(3) Surface critical habitat includes the spring outlets and outflow up to the high-water line and 262 ft (80 m) of upstream and downstream habitat, including the dry stream channel during periods of no surface flow. The surface critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) existing within the legal boundaries on September 17, 2021; however, the subsurface critical habitat may extend below such structures. The subsurface critical habitat includes underground features in a circle with a radius of 984 ft (300 m) around the springs.
+
+(4) Data layers defining map units were created using a geographic information system (GIS), which included species locations, roads, property boundaries, 2011 aerial photography, and U.S. Geological Survey 7.5′ quadrangles. Points were placed on the GIS. We delineated critical habitat unit boundaries by starting with the cave or spring point locations that are occupied by the salamanders. From these cave or springs points, we delineated a 984-ft (300-m) buffer to create the polygons that capture the extent to which we estimate the salamander populations exist through underground conduits. The polygons were then simplified to reduce the number of vertices, but still retain the overall shape and extent. Subsequently, polygons that were within 98 ft (30 m) of each other were merged together. Each new merged polygon was then revised to remove extraneous divots or protrusions that resulted from the merge process. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/southwest/es/AustinTexas/,* at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2020-0048, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er18au21.161.gif)
+
+(6) Unit 4: IH-35 Unit.
+
+(i) Unit 4 consists of approximately 175 ac (71 ha) of private, State, and City of Salado land located in southwestern Bell County, Texas, in the southern part of the Village of Salado. The unit extends along Salado Creek on both sides of Interstate Highway 35 (IH 35). The IH 35 right-of-way crosses Salado Creek and is owned by the Texas Department of Transportation. The unit is a mixture of residential and commercial properties on its eastern portion, with some undeveloped ranch land in the western part west of IH-35.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er18au21.162.gif)
+
+(7) Unit 5: King's Garden Main Spring Unit.
+
+(i) Unit 5 consists of approximately 68 ac (28 ha) of private land in northern Williamson County, Texas. The unit is undeveloped land.
+
+(ii) Map of Unit 5 follows:
+
+![](/graphics/er18au21.163.gif)
+
+(8) Unit 6: Cobbs Spring Unit.
+
+(i) Unit 6 consists of approximately 68 ac (28 ha) of private land located in northwestern Williamson County, Texas. The unit is undeveloped land.
+
+(ii) Map of Unit 6 follows:
+
+![](/graphics/er18au21.164.gif)
+
+(9) Unit 7: Cowan Creek Spring Unit.
+
+(i) Unit 7 consists of approximately 68 ac (28 ha) of private land located in west-central Williamson County, Texas. The northern portion of the unit is residential development; the remainder is undeveloped.
+
+(ii) Map of Unit 7 follows:
+
+![](/graphics/er18au21.165.gif)
+
+(10) Unit 8: Walnut Spring Unit.
+
+(i) Unit 8 consists of approximately 68 ac (28 ha) of private and Williamson County land located in west-central Williamson County, Texas. The western, eastern, and northeastern portions of the unit contain low-density residential development; the southern and north-central portions are undeveloped. The extreme southeastern corner of the unit is part of Williamson County Conservation Foundation's Twin Springs Preserve.
+
+(ii) Map of Units 8 and 9 follows:
+
+![](/graphics/er18au21.166.gif)
+
+(11) Unit 9: Twin Springs Unit.
+
+(i) Unit 9 consists of approximately 68 ac (28 ha) of private and Williamson County land located in west-central Williamson County, Texas. The northern portion of the unit contains low-density residential development; the remainder of the unit is undeveloped. The majority of the unit is part of Williamson County Conservation Foundation's Twin Springs Preserve.
+
+(ii) Map of Unit 9 is provided at paragraph (10)(ii) of this entry.
+
+(12) Unit 10: Bat Well Cave Unit.
+
+(i) Unit 10 consists of approximately 68 ac (28 ha) of private land located in west-central Williamson County, Texas. The western, northern, and southern portion of the unit contains residential development.
+
+(ii) Map of Unit 10 follows:
+
+![](/graphics/er18au21.167.gif)San Marcos Salamander (*Eurycea nana*)
 
 *Texas.* Hays County - Spring Lake and its outflow, the San Marcos River, downstream approximately 50 meters from the Spring Lake Dam.
 
@@ -13146,7 +13854,145 @@ The map provided is for informational purposes only. Map follows:
 
 (ii) Map of Unit 4 follows:
 
-![](/graphics/er03ja18.014.gif)
+![](/graphics/er03ja18.014.gif)Neuse River waterdog (*Necturus lewisi*)
+
+(1) Critical habitat units are depicted for Craven, Durham, Edgecombe, Franklin, Granville, Greene, Halifax, Johnston, Jones, Lenoir, Nash, Orange, Person, Pitt, Wake, Warren, Wayne, and Wilson Counties, North Carolina, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Neuse River waterdog consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of native aquatic fauna (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel, small cobble, coarse sand, and leaf litter substrates) as well as abundant cover and burrows used for nesting.
+
+(ii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain instream habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the waterdog's habitat, food availability, and ample oxygenated flow for spawning and nesting habitat.
+
+(iii) Water quality (including, but not limited to, conductivity, hardness, turbidity, temperature, pH, ammonia, heavy metals, and chemical constituents) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) Invertebrate and fish prey items, which are typically hellgrammites, crayfish, mayflies, earthworms, snails, beetles, centipedes, slugs, and small fish.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 9, 2021.
+
+(4) *Critical habitat map units.* Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey (USGS) hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the USGS 1:1M scale nationwide hydrologic layer (*https://nationalmap.gov/small\_scale/mld/1nethyd.html*) with a projection of EPSG:4269-NAD83 Geographic. The North Carolina Natural Heritage program's species presence data were used to select specific stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0092 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er09jn21.000.gif)
+
+(6) Unit 1: TAR1-Upper Tar River, Granville County, North Carolina.
+
+(i) This unit consists of 12.3 river miles (19.8 river kilometers) of the Upper Tar River from approximately SR1004 (Old NC 75) downstream to SR1622 (Cannady's Mill Road). Unit 1 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er09jn21.001.gif)
+
+(7) Unit 2: TAR2-Upper Fishing Creek, Warren County, North Carolina.
+
+(i) This unit consists of 10.5 miles (17 kilometers) of Upper Fishing Creek from SR1118 (No Bottom Drive) downstream to NC58. Unit 2 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er09jn21.002.gif)
+
+(8) Unit 3: TAR3-Bens Creek, Warren County, North Carolina.
+
+(i) This unit consists of 2 miles (3.2 km) of Bens Creek beginning approximately one mile upstream and ending approximately one mile downstream of SR1509 (Odell-Littleton Road). Unit 3 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er09jn21.003.gif)
+
+(9) Unit 4: TAR4a-Fishing Creek Subbasin, Edgecombe, Halifax, Nash, and Warren Counties, North Carolina; Unit 5: TAR4b-Sandy/Swift Creek, Edgecombe, Franklin, Nash, and Warren Counties, North Carolina; Unit 6: TAR4c-Middle Tar River Subbasin, Edgecombe, Franklin, and Nash Counties, North Carolina; and Unit 7: TAR4d-Lower Tar River Subbasin, Edgecombe and Pitt Counties, North Carolina.
+
+(i) Units 4, 5, 6, and 7 include stream habitat up to bankfull height.
+
+(ii) Unit 4 consists of 82.8 miles (133.3 km) of lower Little Fishing Creek approximately 1.6 miles (2.6 km) upstream of SR1214 (Silvertown Rd) downstream to the confluence with Fishing Creek, and including the mainstem of Fishing Creek from the Warren/Halifax County line to the confluence with the Tar River in Edgecombe County.
+
+(iii) Unit 5 consists of 72.5 miles (116.8 kilometers) of Sandy Creek downstream of SR 1451 (Leonard Road) to the confluence with the Tar River, including Red Bud Creek downstream of the Franklin/Nash county line to the confluence with Swift Creek.
+
+(iv) Unit 6 consists of 111 miles (179 kilometers) of the Middle Tar River from upstream of Highway 401 downstream to the confluence with Fishing Creek, including Stony Creek below SR1300 (Boddies' Millpond Rd), downstream to the confluence with the Tar River.
+
+(v) Unit 7 consists of 59.9 miles (96.3 kilometers) in the Lower Tar River Subbasin from the confluence with Fishing Creek downstream to the confluence with Barber Creek near SR1533 (Port Terminal Road). This unit includes portions of Town Creek below NC111 to the confluence with the Tar River, Otter Creek below SR1251 to the confluence with the Tar River, and Tyson Creek below SR1258 to the confluence with the Tar River.
+
+(vi) Map of Units 4, 5, 6, and 7 follows:
+
+![](/graphics/er09jn21.004.gif)
+
+(10) Unit 8: NR1-Eno River, Durham and Orange Counties, North Carolina.
+
+(i) This unit consists of 43.9 miles (70.6 kilometers) of the Eno River from NC86 downstream to the inundated portion of Falls Lake. Unit 8 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 8 follows:
+
+![](/graphics/er09jn21.005.gif)
+
+(11) Unit 9: NR2-Flat River, Durham and Person Counties, North Carolina.
+
+(i) This unit consists of 15.2 miles (24.5 kilometers) of the Flat River from SR1739 (Harris Mill Road) downstream to the inundated portion of Falls Lake. Unit 9 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 9 follows:
+
+![](/graphics/er09jn21.006.gif)
+
+(12) Unit 10: NR3-Middle Creek, Johnston and Wake Counties, North Carolina.
+
+(i) This unit consists of 30.8 miles (49.6 km) of Middle Creek from Southeast Regional Park downstream to the confluence with Swift Creek. Unit 10 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 10 follows:
+
+![](/graphics/er09jn21.007.gif)
+
+(13) Unit 11: NR4-Swift Creek, Johnston County, North Carolina.
+
+(i) This unit consists of 24 miles (38.6 kilometers) of Swift Creek from NC42 downstream to the confluence with the Neuse River. Unit 11 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 11 follows:
+
+![](/graphics/er09jn21.008.gif)
+
+(14) Unit 12: NR5a-Little River, Franklin, Johnston, Wake, and Wayne Counties, North Carolina; Unit 13: NR5b-Mill Creek, Johnston and Wayne Counties, North Carolina; and Unit 14: NR5c-Middle Neuse River, Wayne County, North Carolina.
+
+(i) Units 12, 13, and 14 include stream habitat up to bankfull height.
+
+(ii) Unit 12 consists of 90.8 miles (146.1 kilometers) of the Little River from near NC96 in Wake County downstream to the confluence with the Neuse River, including Buffalo Creek from NC39 to the confluence with the Little River.
+
+(iii) Unit 13 consists of 20.8 miles (33.5 kilometers) of Mill Creek from upstream of US701 downstream to the confluence with the Neuse River.
+
+(iv) Unit 14 consists of 43.2 miles (69.5 kilometers) of the Middle Neuse River from the confluence with Mill Creek downstream to the Wayne/Lenoir County line.
+
+(v) Map of Units 12, 13, and 14 follows:
+
+![](/graphics/er09jn21.009.gif)
+
+(15) Unit 15: NR6-Contentnea Creek/Lower Neuse River Subbasin, Craven, Greene, Lenoir, Pitt, Wayne, and Wilson Counties, North Carolina.
+
+(i) This unit consists of 114.8 miles (184.8 kilometers) of Contentnea Creek from NC581 downstream to its confluence with the Neuse River, Nahunta Swamp from the Wayne/Greene County line to the confluence with Contentnea Creek, and the Neuse River from the confluence with Contentnea Creek to the confluence with Pinetree Creek. Unit 15 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 15 follows:
+
+![](/graphics/er09jn21.010.gif)
+
+(16) Unit 16: NR7-Swift Creek (Lower Neuse), Craven County, North Carolina.
+
+(i) This unit consists of 10.3 miles (16.5 rier kilometers) of Swift Creek from SR1931 (Beaver Camp Rd) downstream to SR1440 (Streets Ferry Rd). Unit 16 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 16 follows:
+
+![](/graphics/er09jn21.011.gif)
+
+(17) Unit 17: TR1-Trent River, Jones County, North Carolina.
+
+(i) This unit consists of 32.5 miles (52.4 kilometers) of Beaver Creek from SR1316 (McDaniel Fork Rd) to the confluence with the Trent River, and Trent River from the confluence with Poplar Branch downstream to SR1121 (Oak Grove Rd) crossing at the Marine Corps Cherry Point property. Unit 17 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 17 follows:
+
+![](/graphics/er09jn21.012.gif)
+
+(18) Unit 18: TR2-Tuckahoe Swamp, Jones County, North Carolina.
+
+(i) This unit consists of 2 miles (3.2 km) of Tuckahoe Swamp in Jones County, North Carolina. Unit 18 begins upstream of SR1142 (Weyerhaeuser Road) to the confluence with the Trent River. Unit 18 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 18 follows:
+
+![](/graphics/er09jn21.013.gif)
 
 (e) *Fishes.*
 
@@ -13356,7 +14202,63 @@ The map provided is for informational purposes only. Map follows:
 
 Known constituent elements include high quality, cool water with adequate cover in the form of rocks, undercut banks, or aquatic vegetation and a sufficient insect food base.
 
-Slender Chub (*Erimystax=(Hybopsis) cahni*)
+Peppered Chub (*Macrhybopsis tetranema*)
+
+(1) Critical habitat units are depicted for Quay County, New Mexico; Hemphill, Moore, Oldham, and Potter Counties, Texas; and Blaine, Caddo, Canadian, Cleveland, Creek, Custer, Dewey, Ellis, Grady, Harper, Hughes, Kingfisher, Logan, Major, McClain, Payne, Pontotoc, Pottawatomie, Roger Mills, Seminole, Woods, and Woodward Counties, Oklahoma, on the maps in this entry. The critical habitat units include Units 1, 2, and 4 as Unit 3 was excluded during the rulemaking process.
+
+(2) Within these areas, the physical or biological features essential to the conservation of peppered chub consist of the following components:
+
+(i) Unobstructed river segments greater than 127 river miles (205 river kilometers) in length that are characterized by a complex braided channel and substrates of predominantly sand, with some patches of silt, gravel, and cobble.
+
+(ii) Flowing water with adequate depths to support all life stages and episodes of elevated discharge to facilitate successful reproduction, channel and floodplain maintenance, and sediment transportation.
+
+(iii) Water of sufficient quality to support survival and reproduction, which includes, but is not limited to, the following conditions:
+
+(A) Water temperatures generally less than 98.2 °F (36.8 °C);
+
+(B) Dissolved oxygen concentrations generally greater than 3.7 parts per million (ppm);
+
+(C) Conductivity generally less than 16.2 millisiemens per centimeter (mS/cm);
+
+(D) pH generally ranging from 5.6 to 9.0; and
+
+(E) Sufficiently low petroleum and other pollutant concentrations such that reproduction and/or growth is not impaired.
+
+(iv) Native riparian vegetation capable of maintaining river water quality, providing a terrestrial prey base, and maintaining a healthy riparian ecosystem.
+
+(v) A level of predatory or competitive, native or nonnative fish present such that any peppered chub population's resiliency is not affected.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on March 30, 2022.
+
+(4) Data layers defining map units were created using fish distribution data provided by State agencies and sourced on the FishNet2 online database. Hydrologic data for stream reaches were sourced from the U.S. Geological Survey online database. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/southwest/es/ArlingtonTexas/* and at *https://www.regulations.gov* under Docket No. FWS-R2-ES-2019-0019 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er28fe22.001.gif)
+
+(6) Unit 1: Upper South Canadian River, New Mexico and Texas.
+
+(i) This unit consists of approximately 197.2 river miles (317.3 river kilometers) of habitat in the South Canadian River from Revuelto Creek at Interstate 40 in New Mexico downstream to the inundated portion of Lake Meredith in Texas. Unit 1 includes river habitat up to bank full height.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er28fe22.002.gif)
+
+(7) Unit 2: Lower South Canadian River, Texas and Oklahoma.
+
+(i) This unit consists of approximately 399.9 river miles (643.6 river kilometers) of unoccupied habitat in the lower portion of the South Canadian River from the U.S. 83 bridge north of Canadian, Texas, downstream to the U.S. 75 bridge northwest of Calvin, Oklahoma. Unit 2 includes river habitat up to bank full height.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er28fe22.003.gif)
+
+(8) Unit 4: Cimarron River, Oklahoma.
+
+(i) Unit 4 consists of approximately 275.3 river miles (443.1 river kilometers) of unoccupied habitat in portions of the Ninnescah River and the Arkansas River, originating at the border of Kansas and Oklahoma, and extending downstream to OK 51 bridge northeast of Oilton, Oklahoma. Unit 4 includes river habitat up to bank full height.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er28fe22.004.gif)Slender Chub (*Erimystax=(Hybopsis) cahni*)
 
 Tennessee. Claiborne and Hancock Counties. Powell River, main channel from backwaters of Norris Lake upstream to the Tennessee-Virginia State line. Clinch River, main channel from backwaters of Norris Lake upstream to the Tennessee-Virginia State line.
 
@@ -13550,7 +14452,177 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.099.gif)Cumberland Darter (*Etheostoma susanae*)
+![](/graphics/ec01jn91.099.gif)Candy Darter (*Etheostoma Osburni*)
+
+(1) Critical habitat units are depicted for Bland, Giles, and Wythe Counties, Virginia, and Greenbrier, Nicholas, Pocahontas, and Webster Counties, West Virginia, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the candy darter consist of the following components:
+
+(i) Ratios or densities of nonnative species that allow for maintaining populations of candy darters.
+
+(ii) A blend of unembedded gravel and cobble that allows for normal breeding, feeding, and sheltering behavior.
+
+(iii) Adequate water quality characterized by seasonally moderated temperatures and physical and chemical parameters (*e.g.,* pH, dissolved oxygen levels, turbidity) that support normal behavior, growth, and viability of all life stages of the candy darter.
+
+(iv) An abundant, diverse benthic macroinvertebrate community (*e.g.,* mayfly nymphs, midge larvae, caddisfly larvae) that allows for normal feeding behavior.
+
+(v) Sufficient water quantity and velocities that support normal behavior, growth, and viability of all life stages of the candy darter.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 7, 2021.
+
+(4) *Critical habitat map units.* The provided maps were made using the geographic projection GCS\_North\_American\_1983 coordinate system. Four spatial layers are included as background layers. We used two political boundary layers indicating the State and county boundaries within the United States available through ArcMap Version 10.5 software by ESRI. The roads layer displays major interstates, U.S. highways, State highways, and county roads in the Census 2000/TIGER/Line dataset provided by the U.S. Census Bureau, and available through ArcMap Version 10.5 software. Lastly, the hydrologic data used to indicate river and stream location are a spatial layer of rivers, streams, and small tributaries from the National Hydrology Database (NHD) Plus Version 2 database. This database divides the United States into a number of zones, and the zones that include the area where candy darter critical habitat is indicated are the Ohio-05 hydrologic zone and the Mid Atlantic-02 hydrologic zone. The maps provided display the critical habitat in relation to State and county boundaries, major roads and highways, and connections to certain rivers and streams within the larger river network. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.fws.gov/northeast/candydarter/,* at *http://www.regulations.gov* at Docket No. FWS-R5-ES-2018-0050, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map of candy darter critical habitat units follows:
+
+![](/graphics/er07ap21.001.gif)
+
+(6) Index map of Unit 1-Greenbrier follows:
+
+![](/graphics/er07ap21.002.gif)
+
+(7) *Unit 1a:* East Fork of Greenbrier River, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1a consists of approximately 29.7 stream kilometers (skm) (18.5 stream miles (smi)) of the East Fork of the Greenbrier River from the confluence of an unnamed tributary located 1.8 skm (1.1 smi) upstream of the Bennett Run confluence, downstream to the confluence of the East Fork and West Fork of the Greenbrier River at Durbin, West Virginia; and approximately 6.8 skm (4.2 smi) of the Little River from the U.S. Highway 250 crossing, downstream to the confluence of the Little River and the East Fork of the Greenbrier River; and approximately 1.9 skm (1.2 smi) of Buffalo Fork from the Buffalo Lake dam downstream to the confluence of Buffalo Fork and the Little River. Approximately 21.2 skm (13.2 smi) of Unit 1a is within the Monongahela National Forest with the remainder adjacent to almost entirely private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1a, East Fork of Greenbrier River, follows:
+
+![](/graphics/er07ap21.003.gif)
+
+(8) *Unit 1b:* West Fork of Greenbrier River, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1b consists of approximately 29.9 skm (18.6 smi) of the West Fork of the Greenbrier River from the confluence with Snorting Lick Run, downstream to the confluence of the East Fork and West Fork of the Greenbrier River at Durbin, West Virginia; approximately 13.3 skm (8.3 smi) of the Little River from the confluence with Hansford Run, downstream to the confluence of the Little River and the West Fork of the Greenbrier River; and approximately 4.8 skm (3.0 smi) of Mountain Lick Creek from the confluence with an unnamed tributary (located 1.5 skm (0.9 smi) downstream of the Upper Mountain Lick Forest Service Road crossing), downstream to the confluence of Mountain Lick Creek and the West Fork of the Greenbrier River. Approximately 47.1 skm (29.3 smi) of Unit 1b is within the Monongahela National Forest with the remainder adjacent to almost entirely private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1b, West Fork of Greenbrier River, follows:
+
+![](/graphics/er07ap21.004.gif)
+
+(9) *Unit 1c:* Upper Greenbrier River, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1c consists of approximately 69.3 skm (43.1 smi) of the Greenbrier River from the confluence of the East Fork and West Fork of the Greenbrier River at Durbin, West Virginia, downstream to the confluence of Knapp Creek at Marlinton, West Virginia. Approximately 47.5 skm (29.5 smi) of Unit 1c is within the Monongahela National Forest and the Seneca State Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1c, Upper Greenbrier River, follows:
+
+![](/graphics/er07ap21.005.gif)
+
+(10) *Unit 1d:* Deer Creek, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1d consists of approximately 21.2 skm (13.2 smi) of Deer Creek from the confluence of Deer Creek and Saulsbury Run, downstream to the confluence with the Greenbrier River; and approximately 16.3 skm (10.1 smi) of North Fork from a point approximately 1.6 skm (1.0 smi) upstream of the Elleber Run confluence, downstream to the confluence of North Fork and Deer Creek. Approximately 10.0 skm (6.2 smi) of Unit 1d is within the Monongahela National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1d, Deer Creek, follows:
+
+![](/graphics/er07ap21.006.gif)
+
+(11) *Unit 1e:* Sitlington Creek, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1e consists of approximately 10.1 skm (6.3 smi) of Sitlington Creek from the confluence of Galford Run and Thorny Branch, downstream to the confluence with the Greenbrier River. Approximately 1.2 skm (0.7 smi) of Unit 1e is within the Monongahela National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1e, Sitlington Creek, follows:
+
+![](/graphics/er07ap21.007.gif)
+
+(12) *Unit 1f:* Knapp Creek, Pocahontas County, West Virginia.
+
+(i) *General description:* Unit 1f consists of approximately 43.9 skm (27.3 smi) of Knapp Creek from a point approximately (0.1 smi) west of the WV Route 84 and Public Road 55 intersection, downstream to the confluence with the Greenbrier River at Marlinton, West Virginia. Approximately 7.2 skm (4.5 smi) of Unit 1f is within the Monongahela National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 1f, Knapp Creek, follows:
+
+![](/graphics/er07ap21.008.gif)
+
+(13) Index map of Unit 2-Middle New follows:
+
+![](/graphics/er07ap21.009.gif)
+
+(14) *Unit 2a:* Dismal Creek, Bland and Giles Counties, Virginia.
+
+(i) *General description:* Unit 2a consists of approximately 4.2 skm (2.6 smi) of Dismal Creek from the confluence with Standrock Branch, downstream to the confluence of Dismal Creek and Kimberling Creek. Approximately 3.2 skm (2.0 smi) of Unit 2a is within the George Washington and Jefferson National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 2a, Dismal Creek, follows:
+
+![](/graphics/er07ap21.010.gif)
+
+(15) *Unit 2b:* Stony Creek, Giles County, Virginia.
+
+(i) *General description:* Unit 2b consists of approximately 31.1 skm (19.3 smi) of Stony Creek from the confluence with White Rock Branch, downstream to the confluence with the New River. Approximately 16.1 skm (10.0 smi) of Unit 2b is within the George Washington and Jefferson National Forest, with the remainder adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 2b, Stony Creek, follows:
+
+![](/graphics/er07ap21.011.gif)
+
+(16) *Unit 2c:* Laurel Creek, Bland County, Virginia.
+
+(i) *General description:* Unit 2c consists of approximately 5.1 skm (3.2 smi) of Laurel Creek from a point approximately 0.8 skm (0.5 smi) upstream of the unnamed pond, downstream to the confluence of Laurel Creek and Wolf Creek and approximately 1.4 skm (0.8 smi) of Wolf Creek from the Laurel Creek confluence downstream to the stream riffle adjacent to the intersection of Wolf Creek Highway and Alder Lane. Unit 2c is adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 2c, Laurel Creek, follows:
+
+![](/graphics/er07ap21.012.gif)
+
+(17) *Unit 3:* Lower Gauley, “Lower” Gauley River, Nicholas County, West Virginia.
+
+(i) *General description:* Unit 3 consists of approximately 2.9 skm (1.8 smi) of the Gauley River from the base of the Summersville Dam, downstream to the confluence of Collison Creek. The entirety of Unit 3 is within the National Park Service's Gauley River National Recreation Area and the U.S. Army Corps of Engineer's Summersville Recreation Area.
+
+(ii) Map of Unit 3-Lower Gauley follows:
+
+![](/graphics/er07ap21.013.gif)
+
+(18) *Unit 4:* Upper New, Cripple Creek, Wythe County, Virginia.
+
+(i) *General description:* Unit 4 consists of approximately 7.9 skm (4.9 smi) of Cripple Creek from a point approximately (2.0 smi) upstream of the State Road 94 bridge, downstream to the confluence of Cripple Creek and the New River. The stream in Unit 4 is adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 4-Upper New follows:
+
+![](/graphics/er07ap21.014.gif)
+
+(19) Index map of Unit 5-Upper Gauley follows:
+
+![](/graphics/er07ap21.015.gif)
+
+(20) *Unit 5a:* Gauley Headwaters, Webster County, West Virginia.
+
+(i) *General description:* Unit 5a consists of approximately 37.3 skm (23.2 smi) of the Gauley River from the North and South Forks of the Gauley River, downstream to the confluence of the Gauley River and the Williams River at Donaldson, West Virginia; and 2.9 skm (1.8 smi) of Straight Creek from its confluence with the Gauley River to a point approximately 2.9 skm (1.8 smi) upstream of the confluence. Approximately 9.0 skm (5.6 smi) of Unit 5a is within the Monongahela National Forest. The remainder of the unit is adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 5a, Gauley Headwaters, follows:
+
+![](/graphics/er07ap21.016.gif)
+
+(21) *Unit 5b:* Upper Gauley River, Nicholas and Webster Counties, West Virginia.
+
+(i) *General description:* Unit 5b consists of approximately 43.8 skm (27.2 smi) of the Gauley River from the confluence of the Gauley and Williams Rivers at Donaldson, West Virginia, downstream to a point approximately 1.6 skm (1.0 smi) upstream of the Big Beaver Creek confluence. Approximately 14.6 skm (9.2 smi) of Unit 5b is within the Monongahela National Forest and/or adjacent to land owned by the U.S. Army Corps of Engineers. The streams in the remainder of the unit are adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 5b, Upper Gauley River, follows:
+
+![](/graphics/er07ap21.017.gif)
+
+(22) *Unit 5c:* Panther Creek, Nicholas County, West Virginia.
+
+(i) *General description:* Unit 5c consists of approximately 16.3 skm (10.1 smi) of Panther Creek from a point approximately 1.1 skm (0.7 smi) upstream of the Grassy Creek Road crossing, downstream to the confluence with the Gauley River. The streams in Unit 5c are adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 5c, Panther Creek, follows:
+
+![](/graphics/er07ap21.018.gif)
+
+(23) *Unit 5d:* Williams River, Pocahontas and Webster Counties, West Virginia.
+
+(i) *General description:* Unit 5d consists of approximately 52.4 skm (32.6 smi) of the Williams River from the confluence with Beaverdam Run, downstream to the confluence of the Williams River and the Gauley River at Donaldson, West Virginia; and 5.1 skm (3.2 smi) of Tea Creek from a point on Lick Creek approximately 2.7 skm (1.7 smi) upstream of the Lick Creek confluence, downstream to the Tea Creek confluence with the Williams River. The streams in Unit 5d are entirely within the Monongahela National Forest.
+
+(ii) Map of Unit 5d, Williams River, follows:
+
+![](/graphics/er07ap21.019.gif)
+
+(24) *Unit 5e:* Cranberry River, Nicholas and Webster Counties, West Virginia.
+
+(i) *General description:* Unit 5e consists of approximately 39.3 skm (24.4 smi) of the Cranberry River from the confluence of the North and South Forks of the Cranberry River, downstream to the confluence of the Cranberry River and the Gauley River. This stream is entirely within the Monongahela National Forest.
+
+(ii) Map of Unit 5e, Cranberry River, follows:
+
+![](/graphics/er07ap21.020.gif)
+
+(25) *Unit 5f:* Cherry River, Greenbrier and Nicholas Counties, West Virginia.
+
+(i) *General description:* Unit 5f consists of approximately 16.7 skm (10.4 smi) of Cherry River from the confluence of the North and South Forks of the Cherry River, downstream to the confluence of the Cherry River and the Gauley River; approximately 28.0 skm (17.4 smi) of the North Fork Cherry River from the Pocahontas Trail crossing, downstream to the confluence of the North and South Forks of the Cherry River; approximately 26.2 skm (16.3 smi) of the South Fork Cherry River from a point approximately 0.5 skm (0.3 smi) south of County Road 29/4 in Virginia, downstream to the confluence of the North and South Forks of the Cherry River; and approximately 24.9 skm (15.5 smi) of Laurel Creek from a point approximately 0.3 skm (0.2 smi) west of Cold Knob Road, downstream to the confluence of Laurel Creek and the Cherry River. Approximately 29.1 skm (18.1 smi) of Unit 5f is within the Monongahela National Forest. The remainder is adjacent to private land, except for a small amount that is publicly owned in the form of bridge crossings, road easements, and the like.
+
+(ii) Map of Unit 5f, Cherry River, follows:
+
+![](/graphics/er07ap21.021.gif)Cumberland Darter (*Etheostoma susanae*)
 
 (1) Critical habitat units are depicted for McCreary and Whitley Counties, Kentucky, and Campbell and Scott Counties, Tennessee, on the maps below.
 
@@ -14450,7 +15522,83 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.110.gif)Chucky Madtom (*Noturus crypticus*)
+![](/graphics/ec01jn91.110.gif)Carolina Madtom (*(Noturus Furiosus)*)
+
+(1) Critical habitat units are depicted for Durham, Edgecombe, Franklin, Granville, Halifax, Johnston, Jones, Nash, Orange, Vance, Warren, and Wilson Counties, North Carolina, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Carolina madtom consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater native fish (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel, small cobble, coarse sand, and leaf litter substrates) as well as abundant cover used for nesting.
+
+(ii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain instream habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the fish's habitat, food availability, and ample oxygenated flow for spawning and nesting habitat.
+
+(iii) Water quality (including, but not limited to, conductivity, hardness, turbidity, temperature, pH, ammonia, heavy metals, and chemical constituents) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) Aquatic macroinvertebrate prey items, which are typically dominated by larval midges, mayflies, caddisflies, dragonflies, and beetle larvae.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 9, 2021.
+
+(4) *Critical habitat map units.* Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey (USGS) hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the USGS 1:1M scale nationwide hydrologic layer (*https://nationalmap.gov/small\_scale/mld/1nethyd.html*) with a projection of EPSG:4269-NAD83 Geographic. The North Carolina Natural Heritage program's species presence data were used to select specific stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0092 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er09jn21.014.gif)
+
+(6) Unit 1: TAR1-Upper Tar River, Franklin, Granville, and Vance Counties, North Carolina.
+
+(i) This unit consists of 26 river miles (42 river kilometers) of the Upper Tar River from the confluence with Sand Creek to the confluence with Sycamore Creek. Unit 1 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er09jn21.015.gif)
+
+(7) Unit 2: TAR2-Sandy/Swift Creek, Edgecombe, Franklin, Halifax, Nash, Vance, and Warren Counties, North Carolina.
+
+(i) This unit consists of 66 river miles (106 river kilometers) of Sandy and Swift Creeks, located downstream from NC561 to the confluence with the Tar River. Unit 2 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er09jn21.016.gif)
+
+(8) Unit 3: TAR3-Fishing Creek Subbasin, Edgecombe, Franklin, Halifax, Nash, and Warren Counties, North Carolina.
+
+(i) This unit consists of 86 river miles (138 river kilometers) of Fishing Creek from the confluence with Hogpen Branch to the confluence with the Tar River, and Little Fishing Creek from Medoc Mountain Road (SR1002) to the confluence with Fishing Creek. Unit 3 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er09jn21.017.gif)
+
+(9) Unit 4: NR1-Upper Neuse River Subbasin (Eno River), Durham and Orange Counties, North Carolina.
+
+(i) This unit consists of 20 river miles (32 river kilometers) of the Upper Neuse River extending from Eno River State Park downstream of NC70 to the confluence with Cabin Creek near Falls Lake impoundment. Unit 4 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er09jn21.018.gif)
+
+(10) Unit 5: NR2-Little River, Johnston County, North Carolina.
+
+(i) This unit consists of 28 river miles (45 river kilometers) of the Upper and Lower Little River from NC42 to the Johnston/Wayne County line. Unit 5 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 5 follows:
+
+![](/graphics/er09jn21.019.gif)
+
+(11) Unit 6: NR3-Contentnea Creek, Wilson County, North Carolina.
+
+(i) This unit consists of 15 river miles (24 river kilometers) of Contentnea Creek from Buckhorn Reservoir to Wiggins Mill Reservoir. Unit 6 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 6 follows:
+
+![](/graphics/er09jn21.020.gif)
+
+(12) Unit 7: TR1-Trent River, Jones County, North Carolina.
+
+(i) This unit consists of 15 river miles (24 river kilometers) of the Trent River between the confluence with Cypress Creek and Beaver Creek. Unit 7 includes stream habitat up to bankfull height.
+
+(ii) Map of Unit 7 follows:
+
+![](/graphics/er09jn21.021.gif)Chucky Madtom (*Noturus crypticus*)
 
 (1) The critical habitat unit is depicted for Greene County, Tennessee, on the maps below.
 
@@ -19215,11 +20363,49 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Notes:1. For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/er26ja00.001.gif)Editorial Note:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 
-Appalachian Elktoe (*Alasmidonta raveneliana*)
+Canoe Creek Clubshell (*Pleurobema athearni*)
+
+(1) Critical habitat units are depicted for St. Clair and Etowah Counties, Alabama, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Canoe Creek clubshell consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by a geomorphically stable stream channel (a channel that maintains its lateral dimensions, longitudinal profile, and spatial pattern over time without aggrading or degrading bed elevation) and connected instream habitats (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel and coarse sand substrates).
+
+(ii) A hydrologic flow regime (*i.e.,* the magnitude, frequency, duration, and seasonality of discharge over time) necessary to maintain benthic habitats where the species is found; to maintain connectivity of streams with the floodplain; and to provide for normal behavior, growth, and survival of all life stages of Canoe Creek clubshell mussels and their fish hosts.
+
+(iii) Water quality (including, but not limited to, temperature, conductivity, hardness, turbidity, ammonia, heavy metals, oxygen content, and other chemical characteristics) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages of Canoe Creek clubshell mussels and their fish hosts.
+
+(iv) Sediment quality (including, but not limited to, coarse sand and/or gravel substrates with low to moderate amounts of fine sediment, low amounts of attached filamentous algae, and other physical and chemical characteristics) necessary for normal behavior, growth, and viability of all life stages of Canoe Creek clubshell mussels and their fish hosts.
+
+(v) The presence and abundance of fish hosts, which may include the tricolor shiner (*Cyprinella trichroistia*), Alabama shiner (*C. callistia*), and striped shiner (*Luxilus chrysocephalus*), necessary for recruitment of the Canoe Creek clubshell mussel.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on the effective date of the final rule.
+
+(4) Data layers defining map units were created from the National Hydrography High Resolution Dataset, and critical habit units were mapped using North American Datum (NAD) 1983 Universal Transverse Mercator (UTM) Zone 16N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/daphne,* at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0078, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+![](/graphics/er06jy22.001.gif)
+
+(6) Unit 1: Little Canoe Creek East, St. Clair and Etowah Counties, Alabama.
+
+(i) Unit 1 consists of 9.7 river km (6.0 river mi) of Little Canoe Creek East, due east of the Town of Steele, in St. Clair and Etowah Counties, Alabama.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er06jy22.002.gif)
+
+(7) Unit 2: Big Canoe Creek/Little Canoe Creek West, St. Clair County, Alabama.
+
+(i) Unit 2 consists of 48.8 river km (30.3 river mi) of Big Canoe Creek and its tributary Little Canoe Creek West.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er06jy22.003.gif)Appalachian Elktoe (*Alasmidonta raveneliana*)
 
 (1) Critical habitat units are described below and depicted in the maps that follow, with the lateral extent of each designated unit bounded by the ordinary high-water line. The maps provided are for informational purposes only.
 
@@ -19355,9 +20541,9 @@ Carolina Heelsplitter (*Lasmigona decorata*)
 
 (vii) Fish hosts, with adequate living, foraging, and spawning areas for them.
 
-Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orange-nacre mucket (*Lampsilis perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and fine-lined pocketbook (*Lampsilis altilis*)
+Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*)
 
-(1) The primary constituent elements essential for the conservation of the southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum*), upland combshell (*Epioblasma metastriata*); triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orange-nacre mucket (*Lampsilis perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and fine-lined pocketbook (*Lampsilis altilis*) are those habitat components that support feeding, sheltering, reproduction, and physical features for maintaining the natural processes that support these habitat components. The primary constituent elements include:
+(1) The primary constituent elements essential for the conservation of the southern acornshell (*Epioblasma othcaloogensis*), ovate clubshell (*Pleurobema perovatum*), southern clubshell (*Pleurobema decisum),* upland combshell (*Epioblasma metastriata*), triangular kidneyshell (*Ptychobranchus greenii*), Alabama moccasinshell (*Medionidus acutissimus*), Coosa moccasinshell (*Medionidus parvulus*), orangenacre mucket (*Hamiota perovalis*), dark pigtoe (*Pleurobema furvum*), southern pigtoe (*Pleurobema georgianum*), and finelined pocketbook (*Hamiota altilis*) are those habitat components that support feeding, sheltering, reproduction, and physical features for maintaining the natural processes that support these habitat components. The primary constituent elements include:
 
 (i) Geomorphically stable stream and river channels and banks;
 
@@ -19388,10 +20574,10 @@ Eleven Mobile River Basin Mussel Species: Southern acornshell (*Epioblasma othca
 |Triangular kidneyshell (Ptychobranchus greenii)|         Units 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, 26          |  AL, GA, TN  |
 |Alabama moccasinshell (Medionidus acutissimus) |        Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 25, 26        |AL, GA, MS, TN|
 |   Coosa moccasinshell (Medionidus parvulus)   |                 Units 18, 19, 20, 21, 22, 23, 24, 25, 26                  |  AL, GA, TN  |
-|   Orange-nacre mucket (Lampsilis perovalis)   |          Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15          |    AL, MS    |
+|    Orangenacre mucket (Hamiota perovalis)     |          Units 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15          |   AL, MS.    |
 |        Dark pigtoe (Pleurobema furvum)        |                             Units 10, 11, 12                              |      AL      |
 |    Southern pigtoe (Pleurobema georgianum)    |                 Units 18, 19, 20, 21, 22, 23, 24, 25, 26                  |  AL, GA, TN  |
-|   Fine-lined pocketbook (Lampsilis altilis)   |           Units 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26            |  AL, GA, TN  |
+|    Finelined pocketbook (Hamiota altilis)     |           Units 13, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26            | AL, GA, TN.  |
 
 (iii) Unit 1. East Fork Tombigbee River, Monroe, Itawamba County, Mississippi. This is a critical habitat unit for the ovate clubshell, southern clubshell, Alabama moccasinshell, and orange-nacre mucket.
 
@@ -19731,7 +20917,7 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (B) Map of Unit 13 follows:
 
-![](/graphics/er31au04.015.gif)Seven mussel species (in four northeast Gulf of Mexico drainages): Purple bankclimber (*Elliptoideus sloatianus*), Gulf moccasinshell (*Medionidus penicillatus*), Ochlockonee moccasinshell (*Medionidus simpsonianus*), oval pigtoe (*Pleurobema pyriforme*), shinyrayed pocketbook (*Lampsilis subangulata*), Chipola slabshell (*Elliptio chipolaensis*), and fat threeridge (*Amblema neislerii*).
+![](/graphics/er31au04.015.gif)Seven mussel species (in four northeast Gulf of Mexico drainages): Purple bankclimber (*Elliptoideus sloatianus*), Gulf moccasinshell (*Medionidus penicillatus*), Ochlockonee moccasinshell (*Medionidus simpsonianus*), oval pigtoe (*Pleurobema pyriforme*), shinyrayed pocketbook (*Hamiota subangulata*), Chipola slabshell (*Elliptio chipolaensis*), and fat threeridge (*Amblema neislerii*)
 
 (1) Critical habitat units are depicted on the maps below for the following counties:
 
@@ -19741,7 +20927,7 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (iii) *Georgia:* Baker, Calhoun, Coweta, Crawford, Crisp, Decatur, Dooly, Dougherty, Early, Fayette, Grady, Lee, Macon, Marion, Meriwether, Miller, Mitchell, Peach, Pike, Schley, Spalding, Sumter, Talbot, Taylor, Terrell, Thomas, Upson, Webster, and Worth.
 
-(2) The primary constituent elements of critical habitat for the purple bankclimber (*Elliptoideus sloatianus*), Gulf moccasinshell (*Medionidus penicillatus*), Ochlockonee moccasinshell (*Medionidus simpsonianus*), oval pigtoe (*Pleurobema pyriforme*), shinyrayed pocketbook (*Lampsilis subangulata*), Chipola slabshell (*Elliptio chipolaensis*), and fat threeridge (*Amblema neislerii*) are:
+(2) The primary constituent elements of critical habitat for the purple bankclimber (*Elliptoideus sloatianus*), Gulf moccasinshell (*Medionidus penicillatus*), Ochlockonee moccasinshell (*Medionidus simpsonianus*), oval pigtoe (*Pleurobema pyriforme*), shinyrayed pocketbook (*Hamiota subangulata*), Chipola slabshell (*Elliptio chipolaensis*), and fat threeridge (*Amblema neislerii*) are:
 
 (i) A geomorphically stable stream channel (a channel that maintains its lateral dimensions, longitudinal profile, and spatial pattern over time without a consistent aggrading or degrading bed elevation);
 
@@ -19763,15 +20949,15 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (6) Table of listed species and critical habitat units. A table showing the listed species, their respective critical habitat units, and the States that contain those habitat units follows. Detailed critical habitat unit descriptions and maps appear below in paragraphs (7) through (17).
 
-|                      Species                      |   Critical habitat units    |  States  |
-|---------------------------------------------------|-----------------------------|----------|
-|   Purple bankclimber (Elliptoideus sloatianus)    |   Units 5, 6, 7, 8, 9, 10   |AL, FL, GA|
-|   Gulf moccasinshell (Medionidus penicillatus)    |   Units 1, 2, 4, 5, 6, 7    |AL, FL, GA|
-|Ochlockonee moccasinshell (Medionidus simpsonianus)|           Unit 9            |  FL, GA  |
-|        Oval pigtoe (Pleurobema pyriforme)         |Units 1, 2, 4, 5, 6, 7, 9, 11|AL, FL, GA|
-|   Shinyrayed pocketbook (Lampsilis subangulata)   |  Units 2, 3, 4, 5, 6, 7, 9  |AL, FL, GA|
-|     Chipola slabshell (Elliptio chipolaensis)     |           Unit 2            |  AL, FL  |
-|    Fat threeridge (mussel) (Amblema neislerii)    |        Units 2, 7, 8        |AL, FL, GA|
+|                      Species                      |   Critical habitat units    |  States   |
+|---------------------------------------------------|-----------------------------|-----------|
+|   Purple bankclimber (Elliptoideus sloatianus)    |   Units 5, 6, 7, 8, 9, 10   |AL, FL, GA |
+|   Gulf moccasinshell (Medionidus penicillatus)    |   Units 1, 2, 4, 5, 6, 7    |AL, FL, GA |
+|Ochlockonee moccasinshell (Medionidus simpsonianus)|           Unit 9            |  FL, GA   |
+|        Oval pigtoe (Pleurobema pyriforme)         |Units 1, 2, 4, 5, 6, 7, 9, 11|AL, FL, GA |
+|    Shinyrayed pocketbook (Hamiota subangulata)    |  Units 2, 3, 4, 5, 6, 7, 9  |AL, FL, GA.|
+|     Chipola slabshell (Elliptio chipolaensis)     |           Unit 2            |  AL, FL   |
+|    Fat threeridge (mussel) (Amblema neislerii)    |        Units 2, 7, 8        |AL, FL, GA |
 
 (7) Unit 1. Econfina and Moccasin creeks, Bay and Washington Counties, Florida. This is a critical habitat unit for the Gulf moccasinshell and oval pigtoe.
 
@@ -19859,7 +21045,7 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Unit 11 map follows:
 
-![](/graphics/er15no07.014.gif)Eight mussel species in four northeast Gulf of Mexico drainages: the Choctaw bean (*Villosa choctawensis*), round ebonyshell (*Fusconaia rotulata*), southern kidneyshell (*Ptychobranchus jonesi*), Alabama pearlshell (*Margaritifera marrianae*), fuzzy pigtoe (*Pleurobema strodeanum*), narrow pigtoe (*Fusconaia escambia*), tapered pigtoe (*Fusconaia burkei*), and southern sandshell (*Hamiota australis*).
+![](/graphics/er15no07.014.gif)Eight mussel species in four northeast Gulf of Mexico drainages: Choctaw bean (*Obovaria choctawensis*), round ebonyshell (*Reginaia rotulata*), southern kidneyshell (*Ptychobranchus jonesi*), Alabama pearlshell (*Margaritifera marrianae*), fuzzy pigtoe (*Pleurobema strodeanum*), narrow pigtoe (*Fusconaia escambia*), tapered pigtoe (*Fusconaia burkei*), and southern sandshell (*Hamiota australis*)
 
 (1) Critical habitat units are depicted for the following counties:
 
@@ -20053,7 +21239,7 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit 4 (Lower Ohoopee River) follows:
 
-![](/graphics/er11oc11.004.gif)Fluted Kidneyshell (Ptychobranchus subtentum)
+![](/graphics/er11oc11.004.gif)Fluted Kidneyshell (*Ptychobranchus subtentus*)
 
 (1) Critical habitat units are depicted on the maps below for Limestone County, Alabama; Jackson, Laurel, McCreary, Pulaski, Rockcastle, and Wayne Counties, Kentucky; Bedford, Claiborne, Cocke, Fentress, Franklin, Giles, Grainger, Greene, Hamblen, Hancock, Hickman, Humphreys, Jefferson, Knox, Lincoln, Marshall, Maury, Moore, Morgan, Overton, Perry, Pickett, Polk, Scott, and Sevier Counties, Tennessee; and Bland, Lee, Russell, Scott, Smyth, Tazewell, Washington, and Wythe Counties, Virginia.
 
@@ -20259,7 +21445,53 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit FK24 follows:
 
-![](/graphics/er26se13.084.gif)Slabside Pearlymussel (*Pleuronaia dolabelloides*)
+![](/graphics/er26se13.084.gif)Suwannee Moccasinshell (Medionidus walkeri)
+
+(1) Critical habitat units are depicted on the maps in this entry for Alachua, Bradford, Columbia, Dixie, Gilchrist, Hamilton, Lafayette, Madison, Suwannee, and Union Counties, Florida; and Brooks and Lowndes Counties, Georgia.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Suwannee moccasinshell consist of the following components:
+
+(i) Geomorphically stable stream channels (channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation).
+
+(ii) Stable substrates of muddy sand or mixtures of sand and gravel, and with little to no accumulation of unconsolidated sediments and low amounts of filamentous algae.
+
+(iii) A natural hydrologic flow regime (magnitude, frequency, duration, and seasonality of discharge over time) necessary to maintain benthic habitats where the species is found, and connectivity of stream channels with the floodplain, allowing the exchange of nutrients and sediment for habitat maintenance, food availability, and spawning habitat for native fishes.
+
+(iv) Water quality conditions needed to sustain healthy Suwannee moccasinshell populations, including low pollutant levels (not less than State criteria), a natural temperature regime, pH (between 6.0 to 8.5), adequate oxygen content (not less than State criteria), hardness, turbidity, and other chemical characteristics necessary for normal behavior, growth, and viability of all life stages.
+
+(v) The presence of fish hosts necessary for recruitment of the Suwannee moccasinshell. The presence of blackbanded darters (*Percina nigrofasciata*) and brown darters (*Etheostoma edwini*) will serve as an indication of fish host presence.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, dams, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on August 2, 2021.
+
+(4) Data layers defining map units were created with U.S. Geological Survey National Hydrography Dataset GIS data. The high-resolution 1:24,000 flowlines were used to calculate river kilometers and miles. ESRIs ArcGIS 10.2.2 software was used to determine longitude and latitude coordinates using decimal degrees. The projection used in mapping all units was Universal Transverse Mercator, NAD 83, Zone 16 North. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates on which each map is based are available at *http://www.regulations.gov* at Docket No. FWS-R4-ES-2019-0059, the Service's internet site (*https://www.fws.gov/panamacity*), and at the field office responsible for this designation. You may obtain field office location by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map of critical habitat units for the Suwannee moccasinshell in Florida and Georgia follows:
+
+![](/graphics/er01jy21.000.gif)
+
+(6) Unit 1: Suwannee River in Alachua, Columbia, Dixie, Gilchrist, Lafayette, Madison, and Suwannee Counties, Florida.
+
+(i) Unit 1 consists of approximately 187 kilometers (km) (116 miles (mi)) of the Suwannee River and lower Santa Fe River in Alachua, Columbia, Dixie, Gilchrist, Lafayette, Madison, and Suwannee Counties, Florida. The unit includes the Suwannee River mainstem from the confluence of Hart Springs in Dixie and Gilchrist Counties, upstream 137 km (85 mi) to the confluence of the Withlacoochee River in Madison and Suwannee Counties; and the Santa Fe River from its confluence with the Suwannee River in Suwannee and Gilchrist Counties, upstream 50 km (31 mi) to the river's rise (the Santa Fe River runs underground for more than 3 miles, emerging at River Rise Preserve State Park) in Alachua County.
+
+(ii) Map of Unit 1, Suwannee River, follows:
+
+![](/graphics/er01jy21.001.gif)
+
+(7) Unit 2: Upper Santa Fe River in Alachua, Bradford, Columbia, and Union, Counties, Florida.
+
+(i) The Upper Santa Fe River Unit consists of approximately 43 km (27 mi) of the Santa Fe River and New River in Alachua, Bradford, Columbia, and Union Counties, Florida. The unit includes the Santa Fe River from the river's sink in Alachua County, upstream 36.5 km (23 mi) to the confluence of Rocky Creek in Bradford and Alachua Counties; and the New River from its confluence with the Santa Fe River, upstream 6.5 km (4 mi) to the confluence of Five Mile Creek in Union and Bradford Counties.
+
+(ii) Map of Unit 2, Upper Santa Fe River, follows:
+
+![](/graphics/er01jy21.002.gif)
+
+(8) Unit 3: Withlacoochee River in Hamilton and Madison Counties, Florida; Brooks and Lowndes Counties, Georgia.
+
+(i) The Withlacoochee River Unit consists of approximately 75.5 km (47 mi) of the Withlacoochee River in Hamilton and Madison Counties, Florida, and Brooks and Lowndes Counties, Georgia. The unit includes the Withlacoochee River from its confluence with the Suwannee River in Madison and Hamilton Counties, FL, upstream 75.5 km (47 mi) to the confluence of Okapilco Creek in Brooks and Lowndes Counties, GA.
+
+(ii) Map of Unit 3, Withlacoochee River, follows:
+
+![](/graphics/er01jy21.003.gif)Slabside Pearlymussel (*Pleuronaia dolabelloides*)
 
 (1) Critical habitat units are depicted on the maps below for Colbert, Jackson, Limestone, Madison, and Marshall Counties, Alabama; Tishomingo County, Mississippi; Bedford, Bledsoe, Claiborne, Cocke, Franklin, Giles, Greene, Hamblen, Hancock, Hickman, Humphreys, Lincoln, Marion, Marshall, Maury, Moore, Perry, Polk, and Sequatchie Counties, Tennessee; and Bland, Lee, Russell, Scott, Smyth, Tazewell, Washington, and Wythe Counties, Virginia.
 
@@ -20789,7 +22021,271 @@ Table of Five Tennessee and Cumberland River Basin Mussels, Their Critical Habit
 
 (ii) Map of Unit RF31 follows:
 
-![](/graphics/er30ap15.049.gif)Tumbling Creek Cavesnail (*Antrobia culveri*)
+![](/graphics/er30ap15.049.gif)Atlantic Pigtoe (Fusconaia masoni)
+
+(1) Critical habitat units are depicted for Bath, Botetourt, Brunswick, Craig, Dinwiddie, Greensville, Halifax, Lunenburg, Mecklenburg, Nottoway, Pittsylvania, and Sussex Counties in Virginia, and Durham, Edgecombe, Franklin, Granville, Halifax, Johnston, Montgomery, Nash, Orange, Person, Pitt, Randolph, Rockingham, Vance, Wake, Warren, and Wilson Counties in North Carolina, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Atlantic pigtoe consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater mussel and native fish (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel and coarse sand substrates).
+
+(ii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the mussel's and fish hosts' habitat, food availability, spawning habitat for native fishes, and the ability for newly transformed juveniles to settle and become established in their habitats.
+
+(iii) Water and sediment quality (including, but not limited to, conductivity, hardness, turbidity, temperature, pH, ammonia, heavy metals, and chemical constituents) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) The presence and abundance of fish hosts necessary for recruitment of the Atlantic pigtoe.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on December 16, 2021.
+
+(4) Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey (USGS) hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the USGS 1:1M scale nationwide hydrologic layer (*https://nationalmap.gov/small\_scale/mld/1nethyd.html)* with a projection of EPSG:4269-North American Datum of 1983 (NAD83) Geographic. The North Carolina and Virginia Natural Heritage program species presence data and the Virginia Department of Wildlife Resources species data were used to select specific stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0046 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er16no21.196.gif)
+
+(6) Unit 1: JR1 - Craig Creek, Craig and Botetourt Counties, Virginia.
+
+(i) This unit consists of 29 river miles (46.7 river kilometers (km)) of Craig Creek near VA Route 616 northeast of New Castle downstream to just below VA Route 817 crossing.
+
+(ii) Map of Unit 1 (Craig Creek) follows:
+
+![](/graphics/er16no21.197.gif)
+
+(7) Unit 2: JR2 - Mill Creek, Bath County, Virginia.
+
+(i) This unit consists of a 1-mile (1.6-km) segment of Mill Creek at the VA39 (Mountain Valley Road) crossing.
+
+(ii) Map of Unit 2 (Mill Creek) follows:
+
+![](/graphics/er16no21.198.gif)
+
+(8) Unit 3: CR1 - Sappony Creek, Dinwiddie County, Virginia.
+
+(i) This unit consists of 4 river miles (6.6 river km) of Sappony Creek beginning just upstream of the Seaboard Railroad crossing and ending just downstream of the Shippings Road (SR709) crossing.
+
+(ii) Map of Unit 3 (Sappony Creek) follows:
+
+![](/graphics/er16no21.199.gif)
+
+(9) Unit 4: CR2 - Nottoway River Subbasin, Nottoway, Lunenburg, Brunswick, Dinwiddie, Greensville, and Sussex Counties, Virginia.
+
+(i) This unit consists of 64 river miles (103 river km) of the Nottoway River, and a portion of Sturgeon Creek, beginning downstream of the Nottoway River's confluence with Dickerson Creek and ending just downstream of Little Mill Road, and includes Sturgeon Creek upstream of Old Stage Road. Land bordering the river is primarily privately owned, although some of the land along the river is part of the Fort Pickett National Guard Installation.
+
+(ii) Map of Unit 4 (Nottoway River Subbasin) follows:
+
+![](/graphics/er16no21.200.gif)
+
+(10) Unit 5: CR3 - Meherrin River, Brunswick County, Virginia.
+
+(i) This unit consists of 5 river miles (8 river km) of the Meherrin River from approximately 1.5 miles below the confluence with Saddletree Creek under VA Highway 46 (Christana Highway) to VA715 (Iron Bridge Road).
+
+(ii) Map of Unit 5 (Meherrin River) follows:
+
+![](/graphics/er16no21.201.gif)
+
+(11) Unit 6: RR1 - Dan River, Pittsylvania County, Virginia, and Rockingham County, North Carolina.
+
+(i) This unit consists of 14 river miles (22.5 river km) of the Dan River along the border of Virginia and North Carolina from just upstream of NC Highway 700 near Eden, North Carolina, into Pittsylvania County, Virginia, and downstream to the confluence with Williamson Creek in Rockingham County, North Carolina.
+
+(ii) Map of Unit 6 (Dan River) follows:
+
+![](/graphics/er16no21.202.gif)
+
+(12) Unit 7: RR2 - Aarons Creek, Granville County, North Carolina, and Mecklenburg and Halifax Counties, Virginia.
+
+(i) This unit consists of 12 river miles (19.3 river km) of Aarons Creek, from NC96 in Granville County, North Carolina, downstream across the North Carolina-Virginia border to just upstream of VA602 (White House Road) along the Mecklenburg County-Halifax County line in Virginia.
+
+(ii) Map of Unit 7 (Aarons Creek) follows:
+
+![](/graphics/er16no21.203.gif)
+
+(13) Unit 8: RR3 - Little Grassy Creek, Granville County, North Carolina.
+
+(i) This unit consists of 3 river miles (4.8 river km) of Little Grassy Creek in Granville County, North Carolina, beginning at the Crawford Currin Road crossing and ending at the confluence with Grassy Creek.
+
+(ii) Map of Unit 8 (Little Grassy Creek) follows:
+
+![](/graphics/er16no21.204.gif)
+
+(14) Unit 9: TR1 - Upper/Middle Tar River Subbasin, Granville, Vance, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of 91 river miles (146.5 river km) of the mainstem of the upper and middle Tar River as well as several tributaries (Bear Swamp Creek, Fox Creek, Crooked Creek, Cub Creek, and Shelton Creek), all in North Carolina. The portion of Cub Creek starts near Hobgood Road and continues to the confluence with the Tar River; the Tar River portion starts just upstream of the NC158 bridge and goes downstream to the NC581 crossing; the Shelton Creek portion starts upstream of NC158 and goes downstream to the confluence with the Tar River; the Bear Swamp Creek portion begins upstream of Dyking Road and goes downstream to the confluence with the Tar River (and includes an unnamed tributary upstream of Beasley Road); the Fox Creek portion begins downstream of NC561 and goes to the confluence with the Tar River; and the Crooked Creek portion begins upstream of NC98 crossing and goes downstream to confluence with Tar River.
+
+(ii) Map of Unit 9 (Upper/Middle Tar River Subbasin) follows:
+
+![](/graphics/er16no21.205.gif)
+
+(15) Unit 10: TR2 - Sandy/Swift Creek, Warren, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of a 50-mile (80.5-km) segment of Sandy/Swift Creek beginning at Southerland Mill Road and continuing downstream to NC301.
+
+(ii) Map of Unit 10 (Sandy/Swift Creek) follows:
+
+![](/graphics/er16no21.206.gif)
+
+(16) Unit 11: TR3 - Fishing Creek Subbasin, Warren, Halifax, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of 85 river miles (136.8 river km) in Fishing Creek, Little Fishing Creek, Shocco Creek, and Maple Branch. The Shocco Creek portion begins downstream of the NC58 bridge and continues to the confluence with Fishing Creek; the entirety of Maple Branch is included, down to the confluence with Fishing Creek; Fishing Creek begins at Axtell Ridgeway Road (SR1112) and goes downstream to I-95; and Little Fishing Creek begins upstream of Briston Brown Road (SR1532) and goes downstream to the confluence with Fishing Creek.
+
+(ii) Map of Unit 11 (Fishing Creek Subbasin) follows:
+
+![](/graphics/er16no21.207.gif)
+
+(17) Unit 12: TR4 - Lower Tar River, Edgecombe and Pitt Counties, North Carolina.
+
+(i) This unit consists of 30 river miles (48.3 river km) of the Lower Tar River, lower Swift Creek, and Fishing Creek in Edgecombe County, North Carolina, from NC97 near Leggett, North Carolina, to the Edgecombe County-Pitt County line near NC33.
+
+(ii) Map of Unit 12 (Lower Tar River) follows:
+
+![](/graphics/er16no21.208.gif)
+
+(18) Unit 13: NR1 - Upper Neuse River Subbasin, Person, Durham, and Orange Counties, North Carolina.
+
+(i) This unit consists of 60 river miles (95 river km) in four reaches including Flat River, Little River, Eno River, and the Upper Eno River. The Flat River reach consists of 19 river miles (30.6 river km) in the Flat River Subbasin in Person and Durham Counties, North Carolina, including the South Flat River downstream of Dick Coleman Road, the North Flat River near Parsonage Road, and Deep Creek near Helena-Moriah Road downstream where each river converges into the Flat River downstream of State Forest Road. The Little River Subbasin includes 18 river miles (29 river km) of the North Fork and South Fork Little Rivers in Orange and Durham Counties, North Carolina. The Upper Eno River reach consists of 4 river miles (6.4 river km) in Orange County, North Carolina, including the West Fork Eno River upstream of Cedar Grove Road to the confluence with McGowan Creek. The Eno River reach consists of 18 river miles (29 river km) in Orange and Durham Counties, North Carolina, from below Eno Mountain Road to NC15-501.
+
+(ii) Map of Unit 13 (Upper Neuse River Subbasin) follows:
+
+![](/graphics/er16no21.209.gif)
+
+(19) Unit 14: NR2 - Middle Neuse River Subbasin, Wake, Johnston, and Wilson Counties, North Carolina.
+
+(i) This unit consists of 61 river miles (98.2 river km) in five reaches including Swift Creek, Middle Creek, Upper Little River, Middle Little River, and Contentnea Creek, all in North Carolina. The Middle Creek reach is 19 river miles (30.6 river km) below Old Stage Road downstream to below Crantock Road, and the Swift Creek reach is 25 river miles (40.2 river km) from Lake Benson downstream to its confluence with the Neuse, both in Wake and Johnston Counties. The Upper Little River reach includes 4 river miles (6.4 river km) of the Upper Little River from the confluence with Perry Creek to Fowler Road in Wake County, North Carolina. The Middle Little River reach includes 11 river miles (17.7 river km) from Atkinsons Mill downstream to NC301 in Johnston County, North Carolina. The Contentnea Creek reach consists of 2 river miles (3.2 river km) below Buckhorn Reservoir to just below Sadie Road near NC581 in Wilson County, North Carolina.
+
+(ii) Map of Unit 14 (Middle Neuse River Subbasin) follows:
+
+![](/graphics/er16no21.210.gif)
+
+(20) Unit 15: CF1 - New Hope Creek, Orange County, North Carolina.
+
+(i) This unit consists of 4 river miles (6.4 river km) of habitat in the New Hope Creek from NC86 to Mimosa Road.
+
+(ii) Map of Unit 15 (New Hope Creek) follows:
+
+![](/graphics/er16no21.211.gif)
+
+(21) Unit 16: CF2 - Deep River Subbasin, Randolph County, North Carolina.
+
+(i) The Deep River Subbasin unit consists of 10 river miles (16.1 river km), including the mainstem between Richland and Brush Creeks as well as Richland Creek from Little Beane Store Road to the confluence with the Deep River and Brush Creek from Brush Creek Road to the confluence with the Deep River.
+
+(ii) Map of Unit 16 (Deep River Subbasin) follows:
+
+![](/graphics/er16no21.212.gif)
+
+(22) Unit 17: YR1 - Little River, Randolph and Montgomery Counties, North Carolina.
+
+(i) This unit consists of 40 river miles (64.4 river km) of Little River from SR1114 downstream to Okeewemee Star Road, including the West Fork Little River from NC134 to the confluence with the Little River.
+
+(ii) Map of Unit 17 (Little River) follows:
+
+![](/graphics/er16no21.213.gif)Yellow Lance (*Elliptio lanceolata*)
+
+(1) Critical habitat units are depicted for Franklin, Granville, Halifax, Johnston, Nash, Vance, Wake, and Warren Counties, North Carolina; Brunswick, Craig, Culpeper, Dinwiddie, Fauquier, Louisa, Lunenburg, Madison, Nottoway, Orange, and Rappahannock Counties, Virginia; and Howard and Montgomery Counties, Maryland, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to yellow lance conservation consist of the following components:
+
+(i) Suitable substrates and connected instream habitats, characterized by geomorphically stable stream channels and banks (*i.e.,* channels that maintain lateral dimensions, longitudinal profiles, and sinuosity patterns over time without an aggrading or degrading bed elevation) with habitats that support a diversity of freshwater mussel and native fish (such as stable riffle-run-pool habitats that provide flow refuges consisting of silt-free gravel and coarse sand substrates).
+
+(ii) Adequate flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the mussel's and fish host's habitat, food availability, spawning habitat for native fishes, and the ability for newly transformed juveniles to settle and become established in their habitats.
+
+(iii) Water and sediment quality (including, but not limited to, conductivity, hardness, turbidity, temperature, pH, ammonia, heavy metals, and chemical constituents) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) The presence and abundance of fish hosts necessary for yellow lance recruitment.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 10, 2021.
+
+(4) *Critical habitat map units.* Data layers defining map units were created by overlaying Natural Heritage Element Occurrence data and U.S. Geological Survey (USGS) hydrologic data for stream reaches. The hydrologic data used in the critical habitat maps were extracted from the USGS 1:1M scale nationwide hydrologic layer (*https://nationalmap.gov/small\_scale/mld/1nethyd.html*) with a projection of EPSG:4269-NAD83 Geographic. The North Carolina, Virginia, and Maryland Natural Heritage program species presence data were used to select specific stream segments for inclusion in the critical habitat layer. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0094 and at the Raleigh Ecological Services Field Office. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er08ap21.000.gif)
+
+(6) Unit 1: PR1 - Patuxent River, Montgomery and Howard Counties, Maryland.
+
+(i) This unit consists of approximately 10 river miles (16.1 kilometers (km)) of occupied habitat, including 3 miles (4.8 km) of the Patuxent River and 7 miles (11.3 km) of the Hawlings River. Unit 1 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er08ap21.001.gif)
+
+(7) Unit 2: RR1 - Rappahannock Subbasin, Rappahannock, Fauquier, and Culpeper Counties, Virginia.
+
+(i) This unit consists of approximately 44 river miles (70.8 km) of occupied habitat in the Rappahannock Subbasin, including 1.7 miles (2.7 km) in Hungry Run, 7.9 miles (12.7 km) in Thumb Run, 5.9 miles (9.5 km) in South Run/Carter Run, 2.7 miles (4.3 km) in Great Run, and 25.8 miles (41.6 km) in Rappahannock River. Unit 2 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er08ap21.002.gif)
+
+(8) Unit 3: RR2 - Rapidan Subbasin, Madison and Orange Counties, Virginia.
+
+(i) This unit consists of 9 river miles (14.5 km) of occupied habitat in the Rapidan Subbasin, including 1.2 miles (1.9 km) in Marsh Run, 3.1 miles (5.0 km) in Blue Run, and 4.7 miles (7.6 km) in the Rapidan River. Unit 3 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er08ap21.003.gif)
+
+(9) Unit 4: YR1 - South Anna River, Louisa County, Virginia.
+
+(i) This unit consists of approximately 8 river miles (12.9 km) of occupied habitat in the South Anna River. Unit 4 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 4 follows:
+
+![](/graphics/er08ap21.004.gif)
+
+(10) Unit 5: JR1 - Johns Creek, Craig County, Virginia.
+
+(i) This unit consists of approximately 14 river miles (22.5 km) of occupied habitat in the Johns Creek. Unit 5 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 5 follows:
+
+![](/graphics/er08ap21.005.gif)
+
+(11) Unit 6: CR1 - Nottoway Subbasin, Nottoway, Lunenburg, Brunswick, and Dinwiddie Counties, Virginia.
+
+(i) This unit consists of approximately 41 river miles (66 km) of occupied habitat in the Nottoway Subbasin, including 1.4 miles (2.3 km) in Crooked Creek, 3.3 miles (5.3 km) in Sturgeon Creek, and 36.3 miles (58.4 km) in the Nottoway River. Unit 6 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 6 follows:
+
+![](/graphics/er08ap21.006.gif)
+
+(12) Unit 7: TR1 - Tar River, Granville, Vance, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of approximately 91 river miles (146.5 km) of occupied habitat in the Tar River, including 4.4 miles (7.1 km) in Ruin Creek, 11.9 miles (19.2 km) in Tabbs Creek, 6.8 miles (10.9 km) in Crooked Creek, and 67.9 miles (109.3 km) in the Tar River. Unit 7 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 7 follows:
+
+![](/graphics/er08ap21.007.gif)
+
+(13) Unit 8: TR2 - Sandy/Swift Creek, Vance, Warren, Halifax, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of 31 river miles (50 km) of occupied habitat in the Sandy and Swift Creeks. Unit 8 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 8 follows:
+
+![](/graphics/er08ap21.008.gif)
+
+(14) Unit 9: TR3 - Fishing Creek Subbasin, Vance, Warren, Halifax, Franklin, and Nash Counties, North Carolina.
+
+(i) This unit consists of approximately 37 river miles (59.5 km) of occupied habitat in the Fishing Creek Subbasin, including 1.6 miles (2.6 km) in Richneck Creek, 8.0 miles (12.9 km) in Shocco Creek, and 27.4 miles (44 km) in Fishing Creek. Unit 9 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 9 follows:
+
+![](/graphics/er08ap21.009.gif)
+
+(15) Unit 10: NR1 - Swift Creek, Wake and Johnston Counties, North Carolina.
+
+(i) This unit consists of approximately 24 river miles (38.6 km) of occupied habitat in the Swift Creek. Unit 10 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 10 follows:
+
+![](/graphics/er08ap21.010.gif)
+
+(16) Unit 11: NR2 - Little River, Johnston County, North Carolina.
+
+(i) This unit consists of approximately 10 river miles (16.1 km) of occupied habitat in the Little River. Unit 11 includes stream habitat up to bank full height.
+
+(ii) Map of Unit 11 follows:
+
+![](/graphics/er08ap21.011.gif)Tumbling Creek Cavesnail (*Antrobia culveri*)
 
 (1) The critical habitat unit is depicted for Taney County, Missouri, on the map at paragraph (f)(5)(ii) of this section. The maps provided are for informational purposes only.
 
@@ -21375,7 +22871,7 @@ Cokendolpher Cave Harvestman (*Texella cokendolpheri*)
 
 (ii) Map 3 of Unit 25 follows:
 
-![](/graphics/er14fe12.011.gif)Government Canyon Bat Cave Spider (*Neoleptoneta microps*)
+![](/graphics/er14fe12.011.gif)Government Canyon Bat Cave Spider (*Tayshaneta microps*)
 
 (1) Critical habitat for the Government Canyon Bat Cave spider in Bexar County, Texas, occurs in Unit 1b, as described at paragraph (4)(i) of the entry for the Government Canyon Bat Cave meshweaver in this paragraph (g). Unit 1b is also depicted on Map 1 (index map) provided at paragraph (5) of the entry for the Cokendolpher Cave harvestman in this paragraph (g), and on Map 2 (Unit 1b) provided at paragraph (4)(ii) of the entry for the Government Canyon Bat Cave meshweaver in this paragraph (g).
 
@@ -21789,7 +23285,421 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (5) Diamond Y Spring Unit, Pecos County, Texas. Map of Diamond Y Spring Unit follows:
 
-![](/graphics/er09jy13.013.gif)Conservancy Fairy Shrimp (*Branchinecta conservatio*).
+![](/graphics/er09jy13.013.gif)Big Sandy Crayfish (Cambarus callainus)
+
+(1) Critical habitat units are depicted for Martin, Pike, Johnson, and Floyd Counties, Kentucky; Buchanan, Dickenson, and Wise Counties, Virginia; and McDowell, Mingo, and Wayne Counties, West Virginia, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Big Sandy crayfish consist of the following components:
+
+(i) Fast-flowing stream reaches with unembedded slab boulders, cobbles, or isolated boulder clusters within an unobstructed stream continuum (*i.e.,* riffle, run, pool complexes) of permanent, moderate- to large-sized (generally third order and larger) streams and rivers (up to the ordinary high water mark as defined at 33 CFR 329.11).
+
+(ii) Streams and rivers with natural variations in flow and seasonal flooding sufficient to effectively transport sediment and prevent substrate embeddedness.
+
+(iii) Water quality characterized by seasonally moderated temperatures and physical and chemical parameters (*e.g.,* pH, conductivity, dissolved oxygen) sufficient for the normal behavior, growth, reproduction, and viability of all life stages of the species.
+
+(iv) An adequate food base, indicated by a healthy aquatic community structure including native benthic macroinvertebrates and fishes, and plant matter (*e.g.,* leaf litter, algae, detritus).
+
+(v) Aquatic habitats protected from riparian and instream activities that degrade the physical and biological features described in paragraphs (2)(i) through (iv) of this entry or cause physical (*e.g.,* crushing) injury or death to individual Big Sandy crayfish.
+
+(vi) An interconnected network of streams and rivers that have the physical and biological features described in paragraphs (2)(i) through (iv) of this entry and that allow for the movement of individual crayfish in response to environmental, physiological, or behavioral drivers. The scale of the interconnected stream network should be sufficient to allow for gene flow within and among watersheds.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on April 14, 2022.
+
+(4) Data layers defining map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 15N coordinates. ESRI's ArcGIS 10.0 software was used to determine latitude and longitude coordinates using decimal degrees. The USA Topo ESRI online basemap service was referenced to identify features (like roads and streams) used to delineate the upstream and downstream extents of critical habitat units. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/westvirginiafieldoffice/*, at *https://www.regulations.gov* at Docket No. FWS-R5-ES-2019-0098, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat Units 1 and 2 for the Big Sandy crayfish follows:
+
+![](/graphics/er15mr22.009.gif)
+
+(6) Unit 1: Upper Levisa Fork - Dismal Creek, Buchanan County, Virginia.
+
+(i) Unit 1 includes approximately 29.2 stream kilometers (skm) (18.1 smi) of Dismal Creek from its confluence with Laurel Fork downstream to its confluence with Levisa Fork in Buchanan County, Virginia.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er15mr22.010.gif)
+
+(7) Unit 2: Russell Fork - Buchanan, Dickenson, and Wise Counties, Virginia, and Pike County, Kentucky.
+
+(i) Subunit 2a: Russell Fork, Buchanan and Dickenson Counties, Virginia, and Pike County, Kentucky.
+
+(A) Subunit 2a consists of approximately 83.8 skm (52.1 smi) of Russell Fork from its confluence with Ball Creek at Council, Virginia, downstream to its confluence with Levisa Fork at Levisa Junction, Kentucky.
+
+(B) Map of Subunit 2a follows:
+
+![](/graphics/er15mr22.011.gif)
+
+(ii) Subunit 2b: Hurricane Creek, Buchanan County, Virginia.
+
+(A) Subunit 2b consists of approximately 5.9 skm (3.7 smi) of Hurricane Creek from its confluence with Gilbert Fork downstream to its confluence with Russell Fork at Davenport, Virginia.
+
+(B) Map of Subunit 2b follows:
+
+![](/graphics/er15mr22.012.gif)
+
+(iii) Subunit 2c: Indian Creek, Buchanan and Dickenson Counties, Virginia.
+
+(A) Subunit 2c consists of approximately 7.4 skm (4.6 smi) of Indian Creek from its confluence with Three Forks in Buchanan County, Virginia, downstream to its confluence with Russell Fork in Buchanan and Dickenson Counties, Virginia.
+
+(B) Map of Subunit 2c follows:
+
+![](/graphics/er15mr22.013.gif)
+
+(iv) Subunit 2d: Fryingpan Creek, Dickenson County, Virginia.
+
+(A) Subunit 2d consists of approximately 4.6 skm (2.9 smi) of Fryingpan Creek from its confluence with Priest Fork downstream to its confluence with Russell Fork.
+
+(B) Map of Subunit 2d follows:
+
+![](/graphics/er15mr22.014.gif)
+
+(v) Subunit 2e: Lick Creek, Dickenson County, Virginia.
+
+(A) Subunit 2e consists of approximately 16.2 skm (10.1 smi) of Lick Creek from its confluence with Cabin Fork near Aily, Virginia, downstream to its confluence with Russell Fork at Birchfield, Virginia.
+
+(B) Map of Subunit 2e follows:
+
+![](/graphics/er15mr22.015.gif)
+
+(vi) Subunit 2f: Russell Prater Creek, Dickenson County, Virginia.
+
+(A) Subunit 2f consists of approximately 8.4 skm (5.2 smi) of Russell Prater Creek from its confluence with Greenbrier Creek downstream to its confluence with Russell Fork at Haysi, Virginia.
+
+(B) Map of Subunit 2f follows:
+
+![](/graphics/er15mr22.016.gif)
+
+(vii) Subunit 2g: McClure River, Open Fork and McClure Creek, Dickenson County, Virginia.
+
+(A) Subunit 2g consists of approximately 35.6 skm (22.1 smi) of the McClure River and McClure Creek from the confluence of McClure Creek and Honey Branch downstream to the confluence of McClure River and Russell Fork; and approximately 4.9 km (3.0 mi) of Open Fork from the confluence of Middle Fork Open Fork and Coon Branch downstream to the confluence of Open Fork and McClure Creek at Nora, Virginia.
+
+(B) Map of Subunit 2g follows:
+
+![](/graphics/er15mr22.017.gif)
+
+(viii) Subunit 2h: Elkhorn Creek, Pike County, Kentucky.
+
+(A) Subunit 2h consists of approximately 8.5 skm (5.3 smi) of Elkhorn Creek from its confluence with Mountain Branch downstream to its confluence with Russell Fork at Elkhorn City, Kentucky.
+
+(B) Map of Subunit 2h follows:
+
+![](/graphics/er15mr22.018.gif)
+
+(ix) Subunit 2i: Cranes Nest River and Birchfield Creek, Dickenson and Wise Counties, Virginia.
+
+(A) Subunit 2i consists of approximately 24.6 skm (19.0 smi) of the Cranes Nest River from its confluence with Birchfield Creek downstream to its confluence with Lick Branch and approximately 6.9 skm (4.3 smi) of Birchfield Creek from its confluence with Dotson Creek downstream to its confluence with Cranes Nest River.
+
+(B) Map of Subunit 2i follows:
+
+![](/graphics/er15mr22.019.gif)
+
+(x) Subunit 2j: Pound River, Dickenson and Wise Counties, Virginia.
+
+(A) Subunit 2j consists of approximately 28.5 skm (17.7 smi) of the Pound River from its confluence with Bad Creek downstream to the confluence of the Pound River and Jerry Branch.
+
+(B) Map of Subunit 2j follows:
+
+![](/graphics/er15mr22.020.gif)
+
+(8) Index map of critical habitat Unit 3 for the Big Sandy crayfish follows:
+
+![](/graphics/er15mr22.021.gif)
+
+(9) Unit 3: Lower Levisa Fork - Floyd, Johnson, and Pike Counties, Kentucky.
+
+(i) Subunit 3a: Levisa Fork, Floyd, Johnson, and Pike Counties, Kentucky.
+
+(A) Subunit 3a consists of approximately 15.9 km (9.9 mi) of Levisa Fork from its confluence with Russell Fork at Levisa Junction, Kentucky, downstream to its confluence with Island Creek at Pikeville, Kentucky; and 17.5 skm (10.9 smi) of Levisa Fork from its confluence with Abbott Creek downstream to its confluence with Miller Creek at Auxier, Kentucky.
+
+(B) Map of Subunit 3a follows:
+
+![](/graphics/er15mr22.022.gif)
+
+(ii) Subunit 3b: Shelby Creek and Long Fork, Pike County, Kentucky.
+
+(A) Subunit 3b consists of approximately 32.2 skm (20.0 smi) of Shelby Creek from its confluence with Burk Branch downstream to its confluence with Levisa Fork at Shelbiana, Kentucky; and approximately 12.9 skm (8.0 smi) of Long Fork from the confluence of Right Fork Long Fork and Left Fork Long Fork downstream to the confluence of Long Fork and Shelby Creek at Virgie, Kentucky.
+
+(B) Map of Subunit 3b follows:
+
+![](/graphics/er15mr22.023.gif)
+
+(10) Index map of critical habitat Unit 4 for the Big Sandy crayfish follows:
+
+![](/graphics/er15mr22.024.gif)
+
+(11) Unit 4: Tug Fork - McDowell, Mingo, and Wayne Counties, West Virginia; Buchanan County, Virginia; and Pike and Martin Counties, Kentucky.
+
+(i) Subunit 4a: Tug Fork, McDowell, Mingo, and Wayne Counties, West Virginia; Buchanan County, Virginia; and Pike and Martin Counties, Kentucky.
+
+(A) Subunit 4a consists of approximately 106.1 skm (65.9 smi) of the Tug Fork from its confluence with Elkhorn Creek at Welch, West Virginia, downstream to its confluence with Blackberry Creek in Pike County, Kentucky; and 11.7 skm (7.3 smi) of the Tug Fork from its confluence with Little Elk Creek downstream to its confluence with Bull Creek at Crum, West Virginia.
+
+(B) Map of Subunit 4a follows:
+
+![](/graphics/er15mr22.025.gif)
+
+(ii) Subunit 4b: Dry Fork and Bradshaw Creek, McDowell County, West Virginia.
+
+(A) Subunit 4b consists of approximately 45.2 skm (28.1 smi) of Dry Fork from its confluence with Jacobs Fork downstream to its confluence with Tug Fork at Iaeger, West Virginia; and approximately 4.6 skm (2.9 smi) of Bradshaw Creek from its confluence with Hite Fork at Jolo, West Virginia, downstream to its confluence with Dry Fork at Bradshaw, West Virginia.
+
+(B) Map of Subunit 4b follows:
+
+![](/graphics/er15mr22.026.gif)
+
+(iii) Subunit 4c: Panther Creek, McDowell County, West Virginia.
+
+(A) Subunit 4c consists of approximately 10.7 skm (6.6 smi) of Panther Creek from its confluence with George Branch downstream to its confluence with Tug Fork at Panther, West Virginia.
+
+(B) Map of Subunit 4c follows:
+
+![](/graphics/er15mr22.027.gif)
+
+(iv) Subunit 4d: Knox Creek, Buchanan County, Virginia, and Pike County, Kentucky.
+
+(A) Subunit 4d consists of approximately 16.6 skm (10.3 smi) of Knox Creek from its confluence with Cedar Branch downstream to its confluence with Tug Fork in Pike County, Kentucky.
+
+(B) Map of Subunit 4d follows:
+
+![](/graphics/er15mr22.028.gif)
+
+(v) Subunit 4e: Peter Creek, Pike County, Kentucky.
+
+(A) Subunit 4e consists of approximately 10.1 skm (6.3 smi) of Peter Creek from the confluence of Left Fork Peter Creek and Right Fork Peter Creek at Phelps, Kentucky, downstream to the confluence of Peter Creek and Tug Fork at Freeburn, Kentucky.
+
+(B) Map of Subunit 4e follows:
+
+![](/graphics/er15mr22.029.gif)
+
+(vi) Subunit 4f: Blackberry Creek, Pike County, Kentucky.
+
+(A) Subunit 4f consists of approximately 9.1 skm (5.7 smi) of Blackberry Creek its confluence with Bluespring Branch downstream to the confluence of Blackberry Creek and Tug Fork.
+
+(B) Map of Subunit 4f follows:
+
+![](/graphics/er15mr22.030.gif)
+
+(vii) Subunit 4g: Pigeon Creek and Laurel Fork, Mingo County, West Virginia.
+
+(A) Subunit 4g consists of approximately 14.0 skm (8.7 smi) of Pigeon Creek from its confluence with Trace Fork downstream to its confluence with Tug Fork; and approximately 11.1 skm (6.9 smi) of Laurel Fork from its confluence with Lick Branch downstream to its confluence with Pigeon Creek at Lenore, West Virginia.
+
+(B) Map of Subunit 4g follows:
+
+![](/graphics/er15mr22.031.gif)Guyandotte River Crayfish (Cambarus veteranus)
+
+(1) Critical habitat units are depicted for Logan and Wyoming Counties, West Virginia, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the Guyandotte River crayfish consist of the following components:
+
+(i) Fast-flowing stream reaches with unembedded slab boulders, cobbles, or isolated boulder clusters within an unobstructed stream continuum (*i.e..* riffle, run, pool complexes) of permanent, moderate- to large-sized (generally third order and larger) streams and rivers (up to the ordinary high water mark as defined at 33 CFR 329.11).
+
+(ii) Streams and rivers with natural variations in flow and seasonal flooding sufficient to effectively transport sediment and prevent substrate embeddedness.
+
+(iii) Water quality characterized by seasonally moderated temperatures and physical and chemical parameters (*e.g.,* pH, conductivity, dissolved oxygen) sufficient for the normal behavior, growth, reproduction, and viability of all life stages of the species.
+
+(iv) An adequate food base, indicated by a healthy aquatic community structure including native benthic macroinvertebrates, fishes, and plant matter (*e.g.,* leaf litter, algae, detritus).
+
+(v) Aquatic habitats protected from riparian and instream activities that degrade the physical and biological features described in paragraphs (2)(i) through (iv) of this entry or cause physical (*e.g.,* crushing) injury or death to individual Guyandotte River crayfish.
+
+(vi) An interconnected network of streams and rivers that have the physical and biological features described in paragraphs (2)(i) through (iv) of this entry and that allow for the movement of individual crayfish in response to environmental, physiological, or behavioral drivers. The scale of the interconnected stream network should be sufficient to allow for gene flow within and among watersheds.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on April 14, 2022.
+
+(4) Data layers defining map units were created on a base of U.S. Geological Survey digital ortho-photo quarter-quadrangles, and critical habitat units were then mapped using Universal Transverse Mercator (UTM) Zone 15N coordinates. ESRI's ArcGIS 10.0 software was used to determine latitude and longitude coordinates using decimal degrees. The USA Topo ESRI online basemap service was referenced to identify features (like roads and streams) used to delineate the upstream and downstream extents of critical habitat units. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/westvirginiafieldoffice/*, at *https://www.regulations.gov* at Docket No. FWS-R5-ES-2019-0098, and at the North Atlantic-Appalachian Regional Office. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map of critical habitat for the Guyandotte River crayfish follows:
+
+![](/graphics/er15mr22.032.gif)
+
+(6) Unit 1: Upper Guyandotte - Logan and Wyoming Counties, West Virginia.
+
+(i) Subunit 1a: Pinnacle Creek, Wyoming County, West Virginia.
+
+(A) Subunit 1a consists of approximately 28.6 skm (17.8 smi) of Pinnacle Creek from its confluence with Beartown Fork downstream to its confluence with the Guyandotte River at Pineville, West Virginia.
+
+(B) Map of Subunit 1a follows:
+
+![](/graphics/er15mr22.033.gif)
+
+(ii) Subunit 1b: Clear Fork and Laurel Fork, Wyoming County, West Virginia.
+
+(A) Subunit 1b consists of approximately 38.0 skm (23.6 smi) of Clear Fork and its primary tributary Laurel Fork from the confluence of Laurel Creek and Acord Branch downstream to the confluence of Clear Fork and the Guyandotte River.
+
+(B) Map of Subunit 1b follows:
+
+![](/graphics/er15mr22.034.gif)
+
+(iii) Subunit 1c: Guyandotte River, Wyoming County, West Virginia.
+
+(A) Subunit 1c consists of approximately 35.8 skm (22.2 smi) of the Guyandotte River from its confluence with Pinnacle Creek at Pineville, West Virginia, downstream to its confluence with Clear Fork.
+
+(B) Map of Subunit 1c follows:
+
+![](/graphics/er15mr22.035.gif)
+
+(iv) Subunit 1d: Indian Creek, Wyoming County, West Virginia.
+
+(A) Subunit 1d consists of approximately 4.2 skm (2.6 smi) of Indian Creek from the confluence of Indian Creek and Brier Creek at Fanrock, West Virginia, to the confluence of Indian Creek and the Guyandotte River.
+
+(B) Map of Subunit 1d follows:
+
+![](/graphics/er15mr22.036.gif)
+
+(v) Subunit 1e: Huff Creek, Wyoming and Logan Counties, West Virginia.
+
+(A) Subunit 1e consists of approximately 28.0 skm (17.4 smi) of Huff Creek from its confluence with Straight Fork downstream to its confluence with the Guyandotte River at Huff, West Virginia.
+
+(B) Map of Subunit 1e follows:
+
+![](/graphics/er15mr22.037.gif)Panama City Crayfish (*Procambarus econfinae*)
+
+(1) Critical habitat units are depicted for Bay County, Florida, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Panama City crayfish consist of the following components:
+
+(i) Undeveloped lands, including cropland, utilities rights-of-way, timberlands, and grazing lands, that support open wet pine flatwoods and wet prairie habitats that contain the following:
+
+(A) Appropriate herbaceous ground cover vegetation;
+
+(B) Permanent or temporary pools of shallow (usually less than 1 foot) freshwater locations; and
+
+(C) Gently sloped ground-level swales with a 3:1 or shallower slope ratio along ecotonal or transitional areas.
+
+(ii) Soil types within undeveloped lands that provide sediment structure needed for burrow construction and that support mostly native herbaceous vegetation needed for additional food and shelter, and where the ground water is always within 3 feet of the ground surface and surface waters occur on occasion. These soil types include:
+
+(A) Core soils for Panama City crayfish, including Pamlico-Dorovan Complex, Rutlege Sand, Plummer Sand, Pelham Sand, Pantego Sandy Loam, and Rutledge-Pamlico Complex;
+
+(B) Secondary soils within 50 feet (15 meters) of core soils: Albany Sand, Leefield Sand, Leon Fine Sand, Osier Fine Sand, and Alapaha Loamy Sand; and
+
+(C) Soils that currently, or can eventually, support native herbaceous vegetation such as, but not limited to, wiregrass (*Aristida beyrichiana*), redroot (*Lachnanthes caroliniana*), beakrushes (*Rhynchospora* spp.), pitcher plants (*Sarracenia* spp.), sundews (*Drosera* spp.), butterworts (*Pinguicula* spp.), and lilies (*Hymenocallis* spp.).
+
+(iii) Undeveloped lands that contain surface and groundwater of sufficient quality to support all life stages of the Panama City crayfish and the herbaceous vegetation on which they rely, specifically surface waters with:
+
+(A) Oxygen levels that range between 2 and 9 milligrams per liter;
+
+(B) pH levels between 4.1 and 9.2; and
+
+(C) Temperatures between 42 and 94 degrees Fahrenheit ( °F) (5 and 34.4 degrees Celsius ( °C)), although optimum temperatures are thought to be in the range of 68 to 79 °F (20 to 26 °C).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on February 4, 2022.
+
+(4) Data layers defining map units were created based on known occurrences and habitat requirements. Critical habitat units were mapped in ArcMap (ESRI, Inc.) using the U.S. Department of Agriculture, Natural Resources Conservation Service, Soil Survey Geographic Database dataset. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2020-0137 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er05ja22.002.gif)
+
+(6) Unit 1: 19th Street, Bay County, Florida.
+
+(i) Unit 1 consists of 23.2 acres (9.4 ha) and is composed of lands in State, county, or city ownership (3.7 ac (1.5 ha)), and private ownership (19.5 ac (7.9 ha)).
+
+(ii) Map of Units 1, 2, 3, and 4 follows:
+
+![](/graphics/er05ja22.003.gif)
+
+(7) Unit 2: Talkington, Bay County, Florida.
+
+(i) Unit 2 consists of 37.2 acres (15.1 ha) and is composed of lands in State, county, or city ownership (4.09 ac (1.7 ha)), and private ownership (33.08 ac (13.4 ha)).
+
+(ii) Map of Unit 2 is provided at paragraph (6)(ii) of this entry.
+
+(8) Unit 3: Minnesota, Bay County, Florida.
+
+(i) Unit 3 consists of 49.0 acres (19.8 ha) and is composed of lands in State, county, or city ownership (30.0 ac (12.1 ha)), and private ownership (19.1 ac (7.7 ha)).
+
+(ii) Map of Unit 3 is provided at paragraph (6)(ii) of this entry.
+
+(9) Unit 4: Transmitter West, Bay County, Florida.
+
+(i) Unit 4 consists of 181.8 acres (73.6 ha) and is composed of lands in State, county, or city ownership (2.2 ac (0.9 ha)), and private ownership (179.6 ac (72.7 ha)).
+
+(ii) Map of Unit 4 is provided at paragraph (6)(ii) of this entry.
+
+(10) Unit 5: Deer Point, Bay County, Florida.
+
+(i) Unit 5 consists of 278.8 ac (112.8 ha) and is composed of lands in State, county, or city ownership (4.5 ac (1.8 ha)), and private ownership (274.3 ac (111.0 ha)).
+
+(ii) Map of Units 5 and 6 follows:
+
+![](/graphics/er05ja22.004.gif)
+
+(11) Unit 6: High Point, Bay County, Florida.
+
+(i) Unit 6 consists of 36.8 ac (14.9 ha) and is composed of lands in State, county, or city ownership (0.5 ac (0.2 ha)), and private ownership (36.3 ac (14.7 ha)).
+
+(ii) Map of Unit 6 is provided at paragraph (10)(ii) of this entry.
+
+(12) Unit 7: Star, Bay County, Florida.
+
+(i) Unit 7 consists of 1,424.3 ac (576.4 ha) and is composed of lands in State, county, or city ownership (6.5 ac (2.6 ha)), and private ownership (1,417.8 ac (573.8 ha)).
+
+(ii) Map of Units 7 and 8 follows:
+
+![](/graphics/er05ja22.005.gif)
+
+(13) Unit 8: Transmitter East, Bay County, Florida.
+
+(i) Unit 8 consists of 2,107.4 ac (852.8 ha) and is composed of lands in State, county, or city ownership (49.9 ac (20.2 ha)), and private ownership (2,057.5 ac (832.6 ha)).
+
+(ii) Map of Unit 8 is provided at paragraph (12)(ii) of this entry.
+
+Slenderclaw Crayfish (*Cambarus cracens*)
+
+(1) Critical habitat units are depicted for DeKalb and Marshall Counties, Alabama, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the slenderclaw crayfish consist of the following components:
+
+(i) Geomorphically stable, small to medium, flowing streams:
+
+(A) That are typically 19.8 feet (ft) (6 meters (m)) wide or smaller;
+
+(B) With attributes ranging from:
+
+(*1*) Streams with predominantly large boulders and fractured bedrock, with widths from 16.4 to 19.7 ft (5 to 6 m), low to no turbidity, and depths up to 2.3 ft (0.7 m); to
+
+(*2*) Streams dominated by small substrate types with a mix of cobble, gravel, and sand, with widths of approximately 9.8 feet (3 m), low to no turbidity, and depths up to 0.5 feet (0.15 m);
+
+(C) With substrate consisting of boulder and cobble containing abundant interstitial spaces for sheltering and breeding; and
+
+(D) With intact riparian cover to maintain stream morphology and to reduce erosion and sediment inputs.
+
+(ii) Seasonal water flows, or a hydrologic flow regime (which includes the severity, frequency, duration, and seasonality of discharge over time), necessary to maintain benthic habitats where the species is found and to maintain connectivity of streams with the floodplain, allowing the exchange of nutrients and sediment for maintenance of the crayfish's habitat and food availability.
+
+(iii) Appropriate water and sediment quality (including, but not limited to, conductivity; hardness; turbidity; temperature; pH; and minimal levels of ammonia, heavy metals, pesticides, animal waste products, and nitrogen, phosphorus, and potassium fertilizers) necessary to sustain natural physiological processes for normal behavior, growth, and viability of all life stages.
+
+(iv) Prey base of aquatic macroinvertebrates and detritus. Prey items may include, but are not limited to, insect larvae, snails and their eggs, fish and their eggs, and plant and animal detritus.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on October 8, 2021.
+
+(4) Data layers defining map units were created using Universal Transverse Mercator (UTM) Zone 16N coordinates and species' occurrence data. The hydrologic data used in the maps were extracted from U.S. Geological Survey National Hydrography Dataset High Resolution (1:24,000 scale) using Geographic Coordinate System North American 1983 coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *http://www.regulations.gov* under Docket No. FWS-R4-ES-2018-0069 and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er08se21.000.gif)
+
+(6) Unit 1: Town Creek, DeKalb County, Alabama.
+
+(i) This unit consists of 41.8 river miles (67.2 river kilometers) of occupied habitat in Bengis and Town Creeks. Unit 1 includes stream habitat up to bank full height consisting of the headwaters of Bengis Creek to its confluence with Town Creek and upstream to the headwaters of Town Creek.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er08se21.001.gif)
+
+(7) Unit 2: Short Creek, DeKalb and Marshall Counties, Alabama.
+
+(i) Subunit 2a: Shoal Creek and Short Creek, DeKalb and Marshall Counties, Alabama.
+
+(A) This subunit consists of 10.3 river miles (16.6 river kilometers) of occupied habitat in Scarham, Shoal, Short, and Whippoorwill Creeks. Subunit 2a includes stream habitat up to bank full height consisting of the headwaters of Shoal Creek to its confluence with Whippoorwill Creek, Whippoorwill Creek to its confluence with Scarham Creek, Scarham Creek to its confluence with Short Creek, and Short Creek to its downstream extent to the Guntersville Lake Tennessee Valley Authority project boundary.
+
+(B) Map of Subunit 2a follows:
+
+![](/graphics/er08se21.002.gif)
+
+(ii) Subunit 2b: Scarham-Laurel Creek, DeKalb and Marshall Counties, Alabama.
+
+(A) This subunit consists of 25.9 river miles (41.7 river kilometers) of unoccupied habitat in Scarham-Laurel Creek. Subunit 2b includes stream habitat up to bank full height consisting of the headwaters of Scarham-Laurel Creek to its confluence with Whippoorwill Creek. This subunit is a small to medium, flowing stream with substrate consisting of boulder and cobble containing interstitial spaces for sheltering and breeding and connected to the occupied subunit 2a.
+
+(B) Map of Subunit 2b follows:
+
+![](/graphics/er08se21.003.gif)Conservancy Fairy Shrimp (*Branchinecta conservatio*).
 
 (1) Critical habitat units are depicted for Butte, Colusa, Mariposa, Merced, Solano, Stanislaus, Tehama, and Ventura Counties, California, on the maps below.
 
@@ -23135,7 +25045,47 @@ Fender's Blue butterfly (*Icaricia icarioides fenderi*)
 
 (B) Map B of Unit FLB4 follows:
 
-![](/graphics/er12au14.018.gif)Island Marble Butterfly (*Euchloe ausonides insulanus*)
+![](/graphics/er12au14.018.gif)Hermes Copper Butterfly (*Lycaena hermes*)
+
+(1) Critical habitat units are depicted for San Diego County, California, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Hermes copper butterfly consist of the following components when found between 30 m and 1,341 m above sea level, and located in habitat providing an appropriate quality, quantity, and spatial and temporal arrangement of these habitat characteristics in the context of the life-history needs, condition, and status of the species:
+
+(i) Spiny redberry host plants (*Rhamnus crocea*).
+
+(ii) Nectar sources for adult butterflies.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on January 20, 2022.
+
+(4) Critical habitat was mapped using GIS analysis tools and refined using 2016 NAIP imagery and/or the World Imagery layer from ArcGIS Online. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at *https://www.regulations.gov* at Docket No. FWS-R8-ES-2017-0053, on our internet site *https://www.fws.gov/carlsbad/gis/cfwogis.html,* and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er21de21.002.gif)
+
+(6) Unit 1: Lopez Canyon, San Diego County, California.
+
+(i) Unit 1 consists of 166 hectares (ha) (410 acres (ac)) in San Diego County and is composed of lands jointly owned and managed by the City and County of San Diego (88 ha (218 ac)) and private or other ownership (77 ha (191 ac)).
+
+(ii) Map of Unit 1, Lopez Canyon, follows:
+
+![](/graphics/er21de21.003.gif)
+
+(7) Unit 2: Miramar/Santee, San Diego County, California.
+
+(i) Unit 2 consists of 2,870 ha (7,092 ac) in San Diego County and is composed of lands owned and managed by the State of California (111 ha (275 ac)), local jurisdictions (primarily the County of San Diego; 1,113 ha (2,750 ac)), and private or other ownership (1,646 ha (4,068 ac)).
+
+(ii) Map of Unit 2, Miramar/Santee, follows:
+
+![](/graphics/er21de21.004.gif)
+
+(8) Unit 3: Southeast San Diego, San Diego County, California.
+
+(i) Unit 3 consists of 11,213 ha (27,709 ac) in San Diego County and is composed of lands owned by the Federal Government (4,213 ha (10,411 ac)), the State of California (2,000 ha (4,940 ac)), local jurisdictions (primarily the City and County of San Diego; 1,162 ha (2,871 ac)), and private or other ownership (3,765 ha (9,303 ac)).
+
+(ii) Map of Unit 3, Southeast San Diego, follows:
+
+![](/graphics/er21de21.005.gif)Island Marble Butterfly (*Euchloe ausonides insulanus*)
 
 (1) The critical habitat unit is depicted for San Juan County, Washington, on the map below.
 
@@ -24304,7 +26254,7 @@ Blackburn's Sphinx Moth (*Manduca blackburni*)
 
 (4) Critical habitat units are described below. Coordinates are in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The following index map shows the general locations of the 9 critical habitat units designated on the islands of Hawaii, Kahoolawe, Maui, and Molokai.
 
-(i) Note:Map 1 - State of Hawaii General Locations of Units for Blackburn's Sphinx Moth on Molokai, Maui, Kahoolawe, and Hawaii follows:
+(i) Note: Map 1 - State of Hawaii General Locations of Units for Blackburn's Sphinx Moth on Molokai, Maui, Kahoolawe, and Hawaii follows:
 
 ![](/graphics/er10jn03.004.gif)
 
