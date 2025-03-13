@@ -1154,7 +1154,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.020.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 88 FR 49355, July 31, 2023.
+![](/graphics/ec01jn91.020.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 
@@ -1374,7 +1374,7 @@ Note:
 
 No map.
 
-Mississippi Sandhill Crane (*Grus canadensis pulla*).
+MISSISSIPPI SANDHILL CRANE (*Antigone canadensis pulla*)
 
 *Mississippi.* Areas of land, water, and airspace in Jackson County, with the following components (St. Stephens Base Meridian): T6S R6W Sec. 31; T6S R7W E1/2 of E1/2 Sec. 34, Sec. 35-36, S1/2 Sec. 38; T6S R8W Sec. 27, those portions of Sec. 28-31 south of Seaman Road, Sec. 32-34; T7S R6W N1/2 of N1/2 Sec. 3, Sec. 6; T7S R7W Sec. 2-11, Sec. 13-16, Sec. 20-22, W1/2 Sec. 23, W1/2 of E1/2 Sec. 23, NE1/4 of NE1/4 Sec. 23, N1/2 of N1/2 Sec. 24, that portion of the SW1/4 of SW1/4 Sec. 30 south of the Louisville and Nashville Railroad, W1/2 of W1/2 Sec. 31, W1/2 Sec. 37, that portion of the E1/2 Sec. 37 north of U.S. Interstate Highway 10; T7S R8W Sec. 1-3, that portion of Sec. 4 north of U.S. Interstate Highway 10, Sec. 5-6, those portions of Sec. 7-8 north of U.S. Interstate Highway 10, Sec. 10-12, W1/2 of W1/2 Sec. 14, Sec. 15, that portion of Sec. 25 south of the Louisville and Nashville Railroad, that portion of the SE1/4 of Sec. 26 south of the Louisville and Nashville Railroad and southeast of Davis Bayou, N1/2 of NE1/4 Sec. 35, Sec. 36.
 
@@ -9044,7 +9044,7 @@ Map follows:
 
 (ii) Map of Unit 6, Gunnison Basin: Gunnison, Saguache, Montrose, and Hinsdale Counties, Colorado, follows:
 
-![](/graphics/er20no14.010.gif)Cape Sable Seaside Sparrow (*Ammodramus maritimus mirabilis*)
+![](/graphics/er20no14.010.gif)CAPE SABLE SEASIDE SPARROW (*Ammospiza maritima mirabilis*)
 
 (1) Critical habitat units are depicted for Miami-Dade County, Florida, on the map at paragraph (10) of this entry.
 
@@ -9094,7 +9094,7 @@ Map follows:
 
 (10) Map of Designated Units follows:
 
-![](/graphics/er06no07.000.gif)Inyo Brown Towhee (*Pipilo fuscus eremophilus*)
+![](/graphics/er06no07.000.gif)INYO CALIFORNIA TOWHEE (*Melozone crissalis eremophilus*)
 
 California, Inyo County: lands within and adjacent to the China Lake Naval Weapons Center identified as follows:
 
