@@ -120,7 +120,7 @@ Figure 8 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (12)(ii)![](/gr
 
 (ii) Maps of Unit 9 follow:
 
-![](/graphics/er07mr24.009.gif)Figure 10 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii)![](/graphics/er07mr24.010.gif)Figure 11 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii)![](/graphics/er07mr24.011.gif)Figure 12 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii)Indiana Bat (*Myotis sodalis*)
+![](/graphics/er07mr24.009.gif)Figure 10 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii)![](/graphics/er07mr24.010.gif)Figure 11 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii)![](/graphics/er07mr24.011.gif)Figure 12 to Florida Bonneted Bat (*Eumops floridanus*) paragraph (14)(ii) Indiana Bat (*Myotis sodalis*)
 
 *Illinois.* The Blackball Mine, La Salle County.
 
@@ -206,7 +206,7 @@ The map provided is for informational purposes only. Map follows:
 
 (i) The critical terrestrial denning habitat area extends from the mainland coast of Alaska 32 kilometers (20 mi) landward (primarily south) from the United States-Canada border to the Kavik River to the west. From the Kavik River to Barrow, the critical terrestrial denning habitat extends landward 8 kilometers (5 mi) south from the mainland coast of Alaska.
 
-(ii) The village district of Barrow is excluded from the critical terrestrial denning habitat area. The excluded area is delineated as follows: Beginning at the southeast corner of the northeast1/4 of Section 29, Unsurveyed T22N, R18W, Umiat Meridian, Alaska; thence North to the southeast corner of the northeast1/4 of Section 17, Unsurveyed T22N, R18W; thence East to the southeast corner of the northeast1/4 of Section 16, Unsurveyed T22N, R18W, Umiat Meridian, Alaska; thence North to the northeast corner of Section 16, Unsurveyed T22N, R18W; thence East to the southeast corner of southwest1/4 of Section 10, Unsurveyed T22N, R18W; thence North to the northwest corner of the southwest1/4 of northeast1/4 of Section 34, Unsurveyed T23N, R18W; thence East to the southeast corner of the northeast1/4 of the northeast1/4 of Section 34, Unsurveyed T23N, R18W; thence North to the point where the section line common to Sections 14 and 15, Unsurveyed T23N, R18W; intersects the mean low water line of the Chukchi Sea; thence in a southwesterly direction along the mean low water line of the Chukchi Sea to the point where the mean low water line of the Chukchi Sea intersects the east-west center line of Section 27, Unsurveyed T22N, R19W; thence East to the point of beginning, containing 21 square miles, more or less. You can view legal descriptions and detailed, colored maps of the exclusions in this final rule at *http://alaska.fws.gov/fisheries/mmm/polarbear/criticalhabitat.htm.*
+(ii) The village district of Barrow is excluded from the critical terrestrial denning habitat area. The excluded area is delineated as follows: Beginning at the southeast corner of the northeast 1/4 of Section 29, Unsurveyed T22N, R18W, Umiat Meridian, Alaska; thence North to the southeast corner of the northeast 1/4 of Section 17, Unsurveyed T22N, R18W; thence East to the southeast corner of the northeast 1/4 of Section 16, Unsurveyed T22N, R18W, Umiat Meridian, Alaska; thence North to the northeast corner of Section 16, Unsurveyed T22N, R18W; thence East to the southeast corner of southwest 1/4 of Section 10, Unsurveyed T22N, R18W; thence North to the northwest corner of the southwest 1/4 of northeast 1/4 of Section 34, Unsurveyed T23N, R18W; thence East to the southeast corner of the northeast 1/4 of the northeast 1/4 of Section 34, Unsurveyed T23N, R18W; thence North to the point where the section line common to Sections 14 and 15, Unsurveyed T23N, R18W; intersects the mean low water line of the Chukchi Sea; thence in a southwesterly direction along the mean low water line of the Chukchi Sea to the point where the mean low water line of the Chukchi Sea intersects the east-west center line of Section 27, Unsurveyed T22N, R19W; thence East to the point of beginning, containing 21 square miles, more or less. You can view legal descriptions and detailed, colored maps of the exclusions in this final rule at *http://alaska.fws.gov/fisheries/mmm/polarbear/criticalhabitat.htm.*
 
 (iii) The village district of Kaktovik is excluded from the critical terrestrial denning habitat area. The excluded area is delineated as follows: From the P.O.B. (which is also the point of beginning for the U.S. Survey No. 4234) at approximately 2,828 feet distant on a bearing of N 01° 40′ E from Tri. Sta. U. S. C. and G. S. “Barter Astro”; the boundary thence shall run West for approximately 325′; thence South approximately 600′; thence West approximately 500′; thence South approximately 100′; thence West approximately 4,000′; thence South approximately 3,550′; thence East approximately 4,000′; thence in a northeasterly direction approximately 3,225′ to a point on the mean high water line of the Kaktovik Lagoon which is approximately 2,478′ distant on a bearing S 78 53′ E from Tri. Sta. U. S. C. and G. S. “Barter Astro”; thence northerly along the meandering mean high water line of the Kaktovik Lagoon, around Pipsuk Point, and westerly continuing on the meandering mean high water line to a point on the mean high water line of the Kaktovik Lagoon which is approximately 477′ distant on a bearing of N 88 58′ E from another point which is approximately 1,503′ distant on a bearing of N 01 24′ W from the point of beginning; thence approximately 477′ in a westerly direction, a bearing of S 88; 58′ W; thence approximately 1,503′ in a southerly direction on a bearing of S 01 24′ E to the point of beginning, containing one square mile, more or less. You can view legal descriptions and detailed, colored maps of the exclusions in this final rule at *http://alaska.fws.gov/fisheries/mmm/polarbear/criticalhabitat.htm.*
 
@@ -852,8 +852,7 @@ Figure 6 to Pacific Marten (*Martes caurina*), Coastal DPS paragraph (10)(ii)![]
 
 ![](/graphics/er15de10.007.gif)(14) Unit 9: West Plum Creek, Douglas County, Colorado.
 
-(i) This unit consists of 90.3 mi (145.3 km) of streams. Plum Creek from Chatfield Lake (39 32 35N 105 03 07W, T.6S., R.68W., Sec. 7) upstream to its confluence with West Plum Creek and East Plum Creek (39 25 49N 104 58 8W, T.7S., R.68W., Sec. 23), excluding 0.14 mi (0.23 km) of Plum Creek owned by Denver Water at the Highline Canal crossing (excluding from 39 30 44N 105 01 41W, T.6S., R.68W., Sec. 20 downstream to 39 30 41N 105 01 32W, T.6S., R.68W., Sec. 20). West Plum Creek from the aforementioned confluence (39 25 49N 104 58 8W, T.7S., R.68W., Sec. 23) upstream to the boundary of Pike-San Isabel National Forest and 7,600 ft (2,317 m) elevation (39 13 07N 104 59 20W, T.9S., R.68W., Sec. 34). Includes Indian Creek from its confluence with Plum Creek (39 28 22N 104 59 57W, T.7S., R.68W., Sec. 4) upstream to Silver State Youth Camp (39 22 24N 105 05 13W, T.8S., R.69W., Sec. 11). Indian Creek includes an unnamed tributary from its confluence with Indian Creek at Pine Nook (39 23 01N 105 04 24W, T.8S., R.69W., Sec. 2) upstream to (39 22 10N 105 04 08W, T.8S., R.69W., Sec. 12). Also includes Jarre Creek from its confluence
-with Plum Creek (39 25 50N 104 58 15W, T.7S., R.68W., Sec. 23) upstream to 7,600 ft (2,317 m) elevation (39 21 50N 105 03 20W, T.8S., R.69W., Sec. 12). Jarre Creek includes an unnamed tributary from its confluence with Jarre Creek (39 22 58N 105 01 52W, T.8S., R.68W., Sec. 5) upstream to (39 22 44N 105 02 14W, T.8S., R.68W., Sec. 8). Also includes an unnamed tributary from its confluence with West Plum Creek (39 22 20N 104 57 39W, T.8S., R.68W., Sec. 11) upstream to (39 21 36N 104 55 40W, T.8S, R67W., Sec.18). Unit 9 also includes Garber Creek from its confluence with Plum Creek (39 22 10N 104 57 49W, T.8S., R.68W., Sec. 11) upstream to its confluence with South Garber Creek and Middle Garber Creek (39 21 02N 105 02 13W, T.8S., R.68W., Sec. 18). Including South Garber Creek from its confluence with Garber Creek (39 21 02N 105 02 13W, T.8S., R.68W., Sec. 18) upstream to 7,600 ft (2,317 m) elevation (39 19 14N 105 03 13W, T.8S., R.69W., Sec. 25). Including Middle Garber Creek from its confluence with Garber Creek (39 20 55N 105 02 35W, T.8S., R.68W., Sec. 18) upstream to (39 19 48N 105 04 09W, T.8S., R.69W., west boundary Sec. 25). Including North Garber Creek from its confluence with Middle Garber Creek (39 20 55N 105 02 35W, T.8S., R.68W., Sec. 18) upstream to 7,600 ft (2,317 m) elevation (39 20 47N 105 04 37W, T.8S., R.69W., Sec. 23). Includes Jackson Creek from its confluence with Plum Creek (39 21 02N 104 58 30W, T.8S., R.68W., Sec. 14) upstream to 7,600 ft (2,317 m) elevation (39 17 59N 105 03 57W, T.9S., R.69W., Sec. 1). Includes Spring Creek from its confluence with West Plum Creek at (39 19 04N 104 58 26W, T.8S., R.68W., Sec. 35) upstream to (39 15 21N 105 01 40W, T.9S., R.68W., Sec. 20). Including Dry Gulch from its confluence with Spring Creek (39 17 54N 104 59 58W, T.9S., R.68W., Sec. 4) upstream to 7,600 ft (2,317 m) elevation (39 16 07N 105 02 33W, T.9S., R.68W., Sec. 18). Including Bear Creek from its confluence with West Plum Creek (39 17 30N 104 58 25W, T.9S., R.68W., Sec. 2) upstream to the base of the Waconda Lake dam (39 15 43 N, 104 59 09 W, T.9S, R.68W, Sec.15). Including Gove Creek from its confluence with West Plum Creek (39 14 07N 104 57 42W, T.9S., R.68W., Sec. 26) upstream to 7,600 ft (2,317 m) elevation (39 11 50N 104 58 32W, T.10S., R.68W., Sec. 11). Includes Merz Canyon stream from its confluence with Gove Creek (39 13 05N 104 57 33W, T.9S., R.68W., Sec. 36) upstream to (39 12 39N 104 57 04 W, T.10S., R.68W., Sec.1). Includes Starr Canyon stream from its confluence with West Plum Creek (39 13 07N 104 58 41W, T.9S., R.68W., Sec. 35) upstream to 7,600 ft (2,317 m) elevation (39 12 32N 104 59 01W, T.10S., R.68W., Sec. 3).
+(i) This unit consists of 90.3 mi (145.3 km) of streams. Plum Creek from Chatfield Lake (39 32 35N 105 03 07W, T.6S., R.68W., Sec. 7) upstream to its confluence with West Plum Creek and East Plum Creek (39 25 49N 104 58 8W, T.7S., R.68W., Sec. 23), excluding 0.14 mi (0.23 km) of Plum Creek owned by Denver Water at the Highline Canal crossing (excluding from 39 30 44N 105 01 41W, T.6S., R.68W., Sec. 20 downstream to 39 30 41N 105 01 32W, T.6S., R.68W., Sec. 20). West Plum Creek from the aforementioned confluence (39 25 49N 104 58 8W, T.7S., R.68W., Sec. 23) upstream to the boundary of Pike-San Isabel National Forest and 7,600 ft (2,317 m) elevation (39 13 07N 104 59 20W, T.9S., R.68W., Sec. 34). Includes Indian Creek from its confluence with Plum Creek (39 28 22N 104 59 57W, T.7S., R.68W., Sec. 4) upstream to Silver State Youth Camp (39 22 24N 105 05 13W, T.8S., R.69W., Sec. 11). Indian Creek includes an unnamed tributary from its confluence with Indian Creek at Pine Nook (39 23 01N 105 04 24W, T.8S., R.69W., Sec. 2) upstream to (39 22 10N 105 04 08W, T.8S., R.69W., Sec. 12). Also includes Jarre Creek from its confluence with Plum Creek (39 25 50N 104 58 15W, T.7S., R.68W., Sec. 23) upstream to 7,600 ft (2,317 m) elevation (39 21 50N 105 03 20W, T.8S., R.69W., Sec. 12). Jarre Creek includes an unnamed tributary from its confluence with Jarre Creek (39 22 58N 105 01 52W, T.8S., R.68W., Sec. 5) upstream to (39 22 44N 105 02 14W, T.8S., R.68W., Sec. 8). Also includes an unnamed tributary from its confluence with West Plum Creek (39 22 20N 104 57 39W, T.8S., R.68W., Sec. 11) upstream to (39 21 36N 104 55 40W, T.8S, R67W., Sec.18). Unit 9 also includes Garber Creek from its confluence with Plum Creek (39 22 10N 104 57 49W, T.8S., R.68W., Sec. 11) upstream to its confluence with South Garber Creek and Middle Garber Creek (39 21 02N 105 02 13W, T.8S., R.68W., Sec. 18). Including South Garber Creek from its confluence with Garber Creek (39 21 02N 105 02 13W, T.8S., R.68W., Sec. 18) upstream to 7,600 ft (2,317 m) elevation (39 19 14N 105 03 13W, T.8S., R.69W., Sec. 25). Including Middle Garber Creek from its confluence with Garber Creek (39 20 55N 105 02 35W, T.8S., R.68W., Sec. 18) upstream to (39 19 48N 105 04 09W, T.8S., R.69W., west boundary Sec. 25). Including North Garber Creek from its confluence with Middle Garber Creek (39 20 55N 105 02 35W, T.8S., R.68W., Sec. 18) upstream to 7,600 ft (2,317 m) elevation (39 20 47N 105 04 37W, T.8S., R.69W., Sec. 23). Includes Jackson Creek from its confluence with Plum Creek (39 21 02N 104 58 30W, T.8S., R.68W., Sec. 14) upstream to 7,600 ft (2,317 m) elevation (39 17 59N 105 03 57W, T.9S., R.69W., Sec. 1). Includes Spring Creek from its confluence with West Plum Creek at (39 19 04N 104 58 26W, T.8S., R.68W., Sec. 35) upstream to (39 15 21N 105 01 40W, T.9S., R.68W., Sec. 20). Including Dry Gulch from its confluence with Spring Creek (39 17 54N 104 59 58W, T.9S., R.68W., Sec. 4) upstream to 7,600 ft (2,317 m) elevation (39 16 07N 105 02 33W, T.9S., R.68W., Sec. 18). Including Bear Creek from its confluence with West Plum Creek (39 17 30N 104 58 25W, T.9S., R.68W., Sec. 2) upstream to the base of the Waconda Lake dam (39 15 43 N, 104 59 09 W, T.9S, R.68W, Sec.15). Including Gove Creek from its confluence with West Plum Creek (39 14 07N 104 57 42W, T.9S., R.68W., Sec. 26) upstream to 7,600 ft (2,317 m) elevation (39 11 50N 104 58 32W, T.10S., R.68W., Sec. 11). Includes Merz Canyon stream from its confluence with Gove Creek (39 13 05N 104 57 33W, T.9S., R.68W., Sec. 36) upstream to (39 12 39N 104 57 04 W, T.10S., R.68W., Sec.1). Includes Starr Canyon stream from its confluence with West Plum Creek (39 13 07N 104 58 41W, T.9S., R.68W., Sec. 35) upstream to 7,600 ft (2,317 m) elevation (39 12 32N 104 59 01W, T.10S., R.68W., Sec. 3).
 
 (ii) Note: Map of Unit 9 follows:
 
@@ -865,8 +864,7 @@ with Plum Creek (39 25 50N 104 58 15W, T.7S., R.68W., Sec. 23) upstream to 7,600
 
 (A) The Chatfield Subunit, on the border of Jefferson County and Douglas County entirely within Chatfield State Park from Chatfield Lake (39 31 32N 105 04 45W, T.6S., R.69W., Sec. 14) upstream to the northern boundary of the Kassler Center land owned by Denver Water (39 29 35N 105 05 14W, T.6S., R.69W., Sec. 26).
 
-(B) The Bear Creek Subunit, Douglas County from Pike-San Isabel National Forest boundary (39 25 27N 105 07 40W, T.7S., R.69W., west
-boundary Sec. 21) upstream to (39 22 32N 105 06 40W, T.8S., R.69W., south boundary Sec. 4). Includes West Bear Creek from its confluence with Bear Creek (39 25 15N 105 07 30W, T.7S., R.69W., Sec. 21) upstream to a confluence with an unnamed tributary (39 24 17N 105 07 38W, T.7S., R.69W., Sec. 33).
+(B) The Bear Creek Subunit, Douglas County from Pike-San Isabel National Forest boundary (39 25 27N 105 07 40W, T.7S., R.69W., west boundary Sec. 21) upstream to (39 22 32N 105 06 40W, T.8S., R.69W., south boundary Sec. 4). Includes West Bear Creek from its confluence with Bear Creek (39 25 15N 105 07 30W, T.7S., R.69W., Sec. 21) upstream to a confluence with an unnamed tributary (39 24 17N 105 07 38W, T.7S., R.69W., Sec. 33).
 
 (C) The South Platte River Subunit, on the border of Jefferson County and Douglas County from the southern boundary of Denver Water land near Nighthawk (39 21 04N 105 10 28W, T.8S., R.70W., Sec. 13) upstream to the north eastern boundary of Denver Water land at (39 18 47N 105 11 33W, T.8S., R.70W., Sec. 35), excluding Denver Water lands along this stretch (39 19 10N 105 11 17W, T.8S., R.70W., Sec. 26), and utilizing the Douglas County Riparian Conservation Zones on non-Federal lands. Also included in this subunit from the southwestern boundary of Denver Water property at (39 18 04N 105 12 03W, T.9S., R.70W., Sec. 2) to the north eastern boundary of Denver Water property at (39 17 27N 105 12 24W, T.9S., R.70W., Sec. 3). Includes Sugar Creek, within Douglas County from the eastern boundary of Denver Water land near Oxyoke (39 18 24N 105 11 32W, T.8S., R.70W., Sec. 35) upstream to 7,600 ft (2,317 m) elevation (39 18 31N 105 08 09W, T.8S., R.69W., Sec. 32). Includes Gunbarrel Creek, within Jefferson County from the western boundary of Denver Water land near Oxyoke (39 18 27N 105 12 06W, T.8S., R.70W., Sec. 34) upstream to (39 18 41N 105 14 36W, T.8S., R.70W., Sec. 32).
 
@@ -1102,7 +1100,7 @@ Map follows:
 
 ![](/graphics/er09ap14.002.gif)Silver Rice Rat (*Oryzomys palustris natator* (=*O. argentatus*)).
 
-Monroe County, Florida: Little Pine Key, Water Keys, Big Torch Key, Middle Torch Key, Summerland Key north of U.S. Highway 1, Cudjoe Key north of U.S. Highway 1, Johnston Key, Raccoon Key, and Lower Saddlebunch Keys, south of U.S. Highway 1 but not including lands in T. 67 S., R. 27 E., Section 8 and north1/5 of Section 17. Included are all lands and waters above mean low tide.
+Monroe County, Florida: Little Pine Key, Water Keys, Big Torch Key, Middle Torch Key, Summerland Key north of U.S. Highway 1, Cudjoe Key north of U.S. Highway 1, Johnston Key, Raccoon Key, and Lower Saddlebunch Keys, south of U.S. Highway 1 but not including lands in T. 67 S., R. 27 E., Section 8 and north 1/5 of Section 17. Included are all lands and waters above mean low tide.
 
 Within these areas the major constituent elements that are known to require special management considerations or protection are mangrove swamps containing red (*Rhizophora mangle*), black (*Avicennia germinans*), and white (*Laguncularia racemosa*) mangroves, and buttonwood (*Conocarpus erectus*); salt marshes, swales, and adjacent transitional wetlands containing saltwort (*Batis maritima*), perennial glasswort (*Salicornia virginica*), saltgrass (*Distichlis spicata*), sea ox-eye (*Borrichia frutescens*), keygrass (*Monanthochloe littoralis*), and coastal dropseed (*Sporobolus virginicus*); and fresh water marshes containing cattails (*Typha domingensis*), saw-grass (*Cladium jamaicense*), and cordgrass (*Spartina* spp.).
 
@@ -1110,7 +1108,7 @@ Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.018.gif)(critical habitat map)Peninsular Bighorn Sheep, a Distinct Population Segment of Desert Bighorn Sheep (*Ovis canadensis nelsoni*)
+![](/graphics/ec01jn91.018.gif)(critical habitat map) Peninsular Bighorn Sheep, a Distinct Population Segment of Desert Bighorn Sheep (*Ovis canadensis nelsoni*)
 
 (1) Critical habitat units are depicted for Riverside, San Diego, and Imperial Counties, California, on the maps below.
 
@@ -1562,7 +1560,7 @@ Matilija Condor Area: An area of land, water, and airspace to an elevation of no
 
 Sisquoc-San Rafael Condor Area: An area of land, water, and airspace to an elevation of not less than 3,000 feet above the terrain, Santa Barbara County, with the following components (San Bernardino Meridian): T6N R26W Sec. 5, 6; T6N R27W Sec. 1, 2; T7N R26W Sec. 5-8, 17-20, 29-32; T7N R27W Sec. 1-14, 23-26, 35, 36; T7N R28W Sec. 1, 2, 11, 12; T8N R26W Sec. 19-22, 27-34; T8N R27W Sec. 19-36.
 
-Hi Mountain-Beartrap Condor Areas: Areas of land, water, and airspace to an elevation of not less than 3,000 feet above the terrain in San Luis Obispo County, with the following components (Mt. Diablo Meridian): T30S R16E Sec. 13, 14, 23-26, SE1/4 Sec. 11, S1/2 Sec. 12; T30S R17E Sec. 17-20, 29, 30; T31S R14E Sec. 1, 2, 11, 12, E1/2 Sec. 3, E1/2 Sec. 10, N1/2 Sec. 14, N1/2 Sec. 13; T31S R15E W1/2 Sec. 6, W1/2 Sec. 7, NW1/4 Sec. 18.
+Hi Mountain-Beartrap Condor Areas: Areas of land, water, and airspace to an elevation of not less than 3,000 feet above the terrain in San Luis Obispo County, with the following components (Mt. Diablo Meridian): T30S R16E Sec. 13, 14, 23-26, SE1/4 Sec. 11, S1/2 Sec. 12; T30S R17E Sec. 17-20, 29, 30; T31S R14E Sec. 1, 2, 11, 12, E1/2 Sec. 3, E1/2 Sec. 10, N1/2 Sec. 14, N1/2 Sec. 13; T31S R15E W1/2 Sec. 6, W 1/2 Sec. 7, NW1/4 Sec. 18.
 
 Mt. Pinos Condor Area: An area of land, water, and airspace in Ventura and Kern Counties, with the following components (San Bernardino Meridian): T8N R21W W1/2 Sec. 5, Sec. 6 N1/2 Sec. 7, NW1/4 Sec. 8; T8N R22W Sec. 1, 2, E1/2 Sec. 3, NE1/4 Sec. 10, N1/2 Sec. 11, N1/2 Sec. 12; T9N R21W Sec. 31, 32, W1/2 Sec. 33; T9N R22W E1/2 Sec. 35, Sec. 36.
 
@@ -3130,7 +3128,7 @@ T.28N., R.10W. Willamette Meridian: W1/2 W1/2 Section 1; Sections 2-8; NW1/4, N1
 
 T.28N., R.11W. Willamette Meridian: Sections 1-5; S1/2 SW1/4, SE1/4, S1/2 NE1/4, NE1/4 NE1/4 Section 6; Sections 7-12; N1/2 NW1/4 Section 13; N1/2 Section 14; N1/2 N1/2 Section 15; N1/2 Section 16; N1/2, N1/2 SW1/4 Section 17; N1/2 N1/2 Section 18.
 
-T.28N., R.12W. Willamette Meridian: SW1/4 SW1/4 Section 1; SW1/4, S1/2 SE1/4 Section 2; S1/2 SW1/4, SE1/4 Section 3; N1/2 N1/2 Section 10; N1/2 Section 11; Section 12 except SW1/4 SW1/4, N1/2 NE1/4 Section 13.
+T.28N., R.12W. Willamette Meridian: SW1/4 SW1/4 Section 1; SW 1/4, S1/2 SE1/4 Section 2; S1/2 SW1/4, SE1/4 Section 3; N1/2 N1/2 Section 10; N1/2 Section 11; Section 12 except SW1/4 SW1/4, N1/2 NE1/4 Section 13.
 
 T.29N., R.10W. Willamette Meridian: SW1/4 NW1/4, W1/2 SW1/4, SE1/4 SW1/4 Section 1; Section 2 except N1/2 NE1/4; Section 3 except N1/2 NE1/4; Sections 4-5; SE1/4 NW1/4, SW1/4 SW1/4, E1/2 Section 6; Sections 7-24; Section 25 except SE1/4 SE1/4; Sections 26-35; NW1/4, N1/2 SW1/4, SW1/4 SW1/4, W1/2 NE1/4 Section 36.
 
@@ -3776,7 +3774,7 @@ T.26N., R.11E. Willamette Meridian: Section 2; Sections 4-7; NW1/4, W1/2 SW1/4, 
 
 T.27N., R.09E. Willamette Meridian: S1/2 SE1/4 Section 19; Section 30 except NW1/4 NW1/4; Section 31; W1/2, NW1/4 SE1/4, W1/2 NE1/4 Section 32.
 
-T.27N., R.10E. Willamette Meridian: Section 1 except NW1/4 NW1/4; E1/2 SE1/4, SW1/4 SE1/4 Section 2; E1/2, E1/2 SW1/4 Section 11; Sections 12-13; Section 14 except SW1/4; E1/2 SE1/4 Section 15; NE1/4 NE1/4 Section 22; N1/2, N1/2 SW1/4, SE1/4 Section 23; Section 24; N1/2 N1/2, SE1/4 NE1/4 Section 25; SW1/4 SW1/4, E1/2 SW1/4, E1/2 Section 26; E1/2 NW1/4, NE1/4 SW1/4, E1/2 Section 31; Section 32; Sections 35-36.
+T.27N., R.10E. Willamette Meridian: Section 1 except NW1/4 NW 1/4; E1/2 SE1/4, SW1/4 SE1/4 Section 2; E1/2, E1/2 SW1/4 Section 11; Sections 12-13; Section 14 except SW1/4; E1/2 SE1/4 Section 15; NE1/4 NE1/4 Section 22; N1/2, N1/2 SW1/4, SE1/4 Section 23; Section 24; N1/2 N1/2, SE1/4 NE1/4 Section 25; SW1/4 SW1/4, E1/2 SW1/4, E1/2 Section 26; E1/2 NW1/4, NE1/4 SW1/4, E1/2 Section 31; Section 32; Sections 35-36.
 
 T.27N., R.11E. Willamette Meridian: Sections 1-20; W1/2 NW1/4, N1/2 SW1/4, SE1/4 Section 21; Sections 22-36.
 
@@ -4342,7 +4340,7 @@ T.21S., R.10W. Willamette Meridian: Section 2-3; NE1/4 NE1/4 Section 4; SW1/4, S
 
 T.21S., R.11W. Willamette Meridian: SE1/4 SE1/4 Section 1; E1/2 NE1/4 Section 12; S1/2 NE1/4, S1/2 SW1/4, NW1/4, S1/2 SE1/4, NE1/4 SE1/4 Section 23; Sections 24-25; Section 26 except N1/2 NW1/4; Section 27 except N1/2 N1/2; Section 28 except N1/2 N1/2, N1/2 SW1/4; NW1/4, N1/2 NE1/4, SW1/4 NE1/4 Section 33; N1/2, N1/2 SE1/4 Section 34; Section 35 except S1/2 NW1/4, SW1/4, S1/2 SE1/4; Section 36 except SW1/4 SW1/4.
 
-T.22S., R.09W. Willamette Meridian: NE1/4 NE1/4, N1/2 NW1/4, SW1/4 NW1/4, SW1/4 Section 4; Section 5 except SW1/4, S1/2 NW1/4; Section 6 except SE1/4, S1/2 NE1/4; Section 7 except E1/2 SE1/4; Section 9 W1/2 SW1/4; NW1/4 SW1/4, NW1/4 NW1/4 Section 17.
+T.22S., R.09W. Willamette Meridian: NE1/4 NE1/4, N1/2 NW1/4, SW1/4 NW1/4, SW1/4 Section 4; Section 5 except SW1/4, S1/2 NW1/4; Section 6 except SE1/4, S1/2 NE 1/4; Section 7 except E1/2 SE1/4; Section 9 W1/2 SW1/4; NW1/4 SW1/4, NW1/4 NW1/4 Section 17.
 
 T.22S., R.10W. Willamette Meridian: Sections 1-5; E1/2 Section 6; Section 8 except W1/2 W1/2; Sections 9-12; N1/2 Section 13; N1/2 N1/2, SE1/4 NE1/4, SW1/4 NW1/4, NE1/4 SE1/4 Section 14; NW1/4, W1/2 NE1/4, NW1/4 SW1/4 Section 15; NE1/4 Section 17.
 
@@ -4610,7 +4608,7 @@ T.36S., R.12W. Willamette Meridian: Sections 1-4; NE1/4, E1/2 SE1/4, SE1/4 NW1/4
 
 T.36S., R.13W. Willamette Meridian: S1/2 S1/2, E1/2 NE1/4, NE1/4 SE1/4, N1/2 NW1/4 Section 1; SW1/4, S1/2 SE1/4, NE1/4 NE1/4 Section 2; Section 3; NE1/4, N1/2 SE1/4, N1/2 NW1/4 Section 4; Section 5; NW1/4, SE1/4, NE1/4 SW1/4, E1/2 NE1/4, SW1/4 NE1/4 Section 6; N1/2, SW1/4 SE1/4, NW1/4 SW1/4 Section 7; Section 8 except SE1/4 NE1/4, NE1/4 SE1/4; Section 9 except NW1/4 NE1/4, NE1/4 NW1/4, SW1/4 NW1/4, NW1/4 SW1/4; Sections 10-11; Section 12 except E1/2 SE1/4, SE1/4 NE1/4; Section 13 except SE1/4, E1/2 SW1/4; Section 14 except SW1/4; Section 15 except W1/2 NW1/4, NW1/4 SW1/4; N1/2 NE1/4, SW1/4, S1/2 SE1/4 Section 17; E1/2, E1/2 SW1/4 Section 18; E1/2 SE1/4, NE1/4, S1/2 SW1/4, NE1/4 NW1/4 Section 19; NW1/4, SW1/4 NE1/4 Section 20; E1/2, NE1/4 SW1/4 Section 22; Section 23; Section 24 except NE1/4; Sections 25-26; Section 27 except N1/2 NW1/4, SW1/4 NW1/4; SE1/4 SE1/4, NW1/4 NW1/4 Section 28; Sections 29-32; W1/2 W1/2, E1/2 E1/2 Section 33; Section 34; N1/2, W1/2 SW1/4 Section 35; N1/2 N1/2 Section 36.
 
-T.36S., R.121/2W. Willamette Meridian: Section 1 except SE1/4 NE1/4, SE1/4; S1/2, NW1/4 Section 12; NW1/4, N1/2 NE1/4 Section 13; W1/2 Section 24; W1/2 Section 25; W1/2 NW1/4 Section 36.
+T.36S., R.12 1/2W. Willamette Meridian: Section 1 except SE1/4 NE1/4, SE1/4; S1/2, NW1/4 Section 12; NW1/4, N1/2 NE1/4 Section 13; W1/2 Section 24; W1/2 Section 25; W1/2 NW1/4 Section 36.
 
 T.37S., R.12W. Willamette Meridian: NW1/4 NW1/4 Section 1; Section 2 except SE1/4, SE1/4 SW1/4; Section 3 except NW1/4 SW1/4; Section 4 except NE1/4 SE1/4; N1/2 N1/2, S1/2 NW1/4 Section 5; Section 6 except S1/2, SE1/4 NW1/4; NE1/4, E1/2 SE1/4, N1/2 NW1/4 Section 9; W1/2, NW1/4 NE1/4 Section 10.
 
@@ -4618,7 +4616,7 @@ T.37S., R.13W. Willamette Meridian: W1/2, N1/2 NE1/4 Section 5; Sections 6-8; W1
 
 T.37S., R.14W. Willamette Meridian: Section 1 except SW1/4 SW1/4; E1/2 SE1/4, NE1/4 Section 2; E1/2 Section 11; Section 12 except W1/2 NW1/4, N1/2 SW1/4; SE1/4, N1/2 N1/2 Section 13; Section 24 except NW1/4 NE1/4.
 
-T.37S., R.121/2W. Willamette Meridian: Section 1 except N1/2 NW1/4, S1/2 SW1/4.
+T.37S., R.12 1/2W. Willamette Meridian: Section 1 except N1/2 NW1/4, S1/2 SW1/4.
 
 ![](/graphics/er24my96.068.gif)
 
@@ -4630,11 +4628,11 @@ T.37S., R.12W. Willamette Meridian: E1/2 SW1/4, W1/2 SE1/4, SE1/4 SE1/4 Section 
 
 T.37S., R.13W. Willamette Meridian: SE1/4, E1/2 SW1/4, S1/2 NE1/4 Section 24; Section 25; Section 26 except NE1/4 NW1/4, NW1/4 NE1/4; E1/2 E1/2 Section 27; SE1/4, E1/2 NE1/4, E1/2 SW1/4 Section 34; Sections 35-36.
 
-T.37S., R.121/2W. Willamette Meridian: Section 24 except NW1/4 NW1/4; Sections 24-25; Section 36.
+T.37S., R.12 1/2W. Willamette Meridian: Section 24 except NW1/4 NW1/4; Sections 24-25; Section 36.
 
-T.371/2S. R.11W. Willamette Meridian: W1/2 SW1/4, SW1/4 NW1/4 Section 31.
+T.37 1/2S. R.11W. Willamette Meridian: W1/2 SW1/4, SW1/4 NW1/4 Section 31.
 
-T.371/2S. R.12.W. Willamette Meridian: Section 25 except E1/2; Section 26 except E1/2 NW1/4; Sections 27-32; Section 33 except S1/2 SW1/4; Sections 34-35; Section 36 except N1/2 NE1/4.
+T.37 1/2S. R.12.W. Willamette Meridian: Section 25 except E1/2; Section 26 except E1/2 NW1/4; Sections 27-32; Section 33 except S1/2 SW1/4; Sections 34-35; Section 36 except N1/2 NE1/4.
 
 T.38S., R.11W. Willamette Meridian: Section 6 except N1/2 NE1/4, S1/2 SE1/4, NE1/4 SE1/4; W1/2, W1/2 SE1/4, Section 7; NW1/4, W1/2 SW1/4, NW1/4 NE1/4 Section 18.
 
@@ -4650,27 +4648,27 @@ Unit OR-07-d: Curry and Josephine Counties, Oregon. From United States Fish and 
 
 Critical habitat includes only Federal lands designated as Late Successional Reserves described within the following areas:
 
-T.38S., R.11W. Willamette Meridian: S1/2 SE1/4, NE1/4 SE1/4, SE1/4 NE1/4 Section 31.
+T.38S., R.11W. Willamette Meridian: S 1/2 SE 1/4, NE 1/4 SE 1/4, SE 1/4 NE 1/4 Section 31.
 
-T.39S., R.11W. Willamette Meridian: SW1/4, SW1/4 SE1/4 Section 4; S1/2,1/2 NW1/4 Section 5; E1/2, E1/2 W1/2 Section 6; Section 7 except NW1/4 NW1/4; Section 8 except SW1/4 SW1/4; Section 9; W1/2 W1/2, E1/2 SW1/4 Section 10; NW1/4, SW1/4 SW1/4 Section 15; Section 16 except NW1/4 SW1/4, SW1/4 NW1/4; N1/2 NE1/4, SE1/4 SW1/4, S1/2 SE1/4 Section 17; Section 18 except N1/2 NE1/4; Sections 19-20; Section 21 except SE1/4 SE1/4; W1/2 NW1/4 Section 22; NW1/4 NW1/4, W1/2 SW1/4, SE1/4 SW1/4, SW1/4 SE1/4 Section 29; Sections 30-32; SW1/4, S1/2 NW1/4, W1/2 SE1/4 Section 33.
+T.39S., R.11W. Willamette Meridian: SW 1/4, SW 1/4 SE 1/4 Section 4; S 1/2, 1/2 NW 1/4 Section 5; E 1/2, E 1/2 W 1/2 Section 6; Section 7 except NW 1/4 NW 1/4; Section 8 except SW 1/4 SW 1/4; Section 9; W 1/2 W 1/2, E 1/2 SW 1/4 Section 10; NW 1/4, SW 1/4 SW 1/4 Section 15; Section 16 except NW 1/4 SW 1/4, SW 1/4 NW 1/4; N 1/2 NE 1/4, SE 1/4 SW 1/4, S 1/2 SE 1/4 Section 17; Section 18 except N 1/2 NE 1/4; Sections 19-20; Section 21 except SE 1/4 SE 1/4; W 1/2 NW 1/4 Section 22; NW 1/4 NW 1/4, W 1/2 SW 1/4, SE 1/4 SW 1/4, SW 1/4 SE 1/4 Section 29; Sections 30-32; SW 1/4, S 1/2 NW 1/4, W 1/2 SE 1/4 Section 33.
 
-T.39S., R.12W. Willamette Meridian: S1/2 S1/2 Section 1; S1/2 S1/2, N1/2 SE1/4 Section 2; S1/2 Section 3; Section 10 except SE1/4 SE1/4; Section 11 except S1/2 SW1/4; Section 12; Section 13 except SW1/4, SW1/4 NW1/4; NE1/4 NE1/4 Section 14; W1/2, W1/2 E1/2, E1/2 SE1/4 Section 19; S1/2, E1/2 NE1/4 Section 20; Section 21; S1/2 S1/2, NW1/4 SW1/4, W1/2 NW1/4, NE1/4 SE1/4 Section 22; S1/2, S1/2 N1/2 Section 23; Sections 24-36.
+T.39S., R.12W. Willamette Meridian: S 1/2 S 1/2 Section 1; S 1/2 S 1/2, N 1/2 SE 1/4 Section 2; S 1/2 Section 3; Section 10 except SE 1/4 SE 1/4; Section 11 except S 1/2 SW 1/4; Section 12; Section 13 except SW 1/4, SW 1/4 NW 1/4; NE 1/4 NE 1/4 Section 14; W 1/2, W 1/2 E 1/2, E 1/2 SE 1/4 Section 19; S 1/2, E 1/2 NE 1/4 Section 20; Section 21; S 1/2 S 1/2, NW 1/4 SW 1/4, W 1/2 NW 1/4, NE 1/4 SE 1/4 Section 22; S 1/2, S 1/2 N 1/2 Section 23; Sections 24-36.
 
 T.39S., R.13W. Willamette Meridian: Section 33.
 
-T.40S., R.10W. Willamette Meridian: SE1/4, S1/2 SW1/4, E1/2 NE1/4 Section 2; S1/2 SW1/4 Section 3; SE1/4 SE1/4 Section 4; SE1/4, S1/2 NE1/4 Section 8; Section 9 except N1/2 NW1/4; Section 10; Section 11 except E1/2 NW1/4, NE1/4 SE1/4, S1/2 SE1/4; NW1/4 NW1/4 Section 14; Section 15 except SE1/4 SE1/4; Section 16; Section 17 except N1/2 NW1/4, SW1/4 NW1/4; Section 19 except NW1/4, NW1/4 SW1/4, NW1/4 NE1/4; Section 20; Section 21 except SE1/4 SE1/4; N1/2 NW1/4, SW1/4 NW1/4 Section 22; N1/2 NW1/4, SW1/4 NW1/4 Section 28; Section 29; Sections 30-31; Section 32 except SE1/4 SE1/4.
+T.40S., R.10W. Willamette Meridian: SE 1/4, S 1/2 SW 1/4, E 1/2 NE 1/4 Section 2; S 1/2 SW 1/4 Section 3; SE 1/4 SE 1/4 Section 4; SE 1/4, S 1/2 NE 1/4 Section 8; Section 9 except N 1/2 NW 1/4; Section 10; Section 11 except E 1/2 NW 1/4, NE 1/4 SE 1/4, S 1/2 SE 1/4; NW 1/4 NW 1/4 Section 14; Section 15 except SE 1/4 SE 1/4; Section 16; Section 17 except N 1/2 NW 1/4, SW 1/4 NW 1/4; Section 19 except NW 1/4, NW 1/4 SW 1/4, NW 1/4 NE 1/4; Section 20; Section 21 except SE 1/4 SE 1/4; N 1/2 NW 1/4, SW 1/4 NW 1/4 Section 22; N 1/2 NW 1/4, SW 1/4 NW 1/4 Section 28; Section 29; Sections 30-31; Section 32 except SE 1/4 SE 1/4.
 
-T.40S., R.11W. Willamette Meridian: N1/2 NW1/4, SW1/4 NW1/4, NW1/4 NE1/4 Section 4; Sections 5-8; W1/2 NW1/4, S1/2 SE1/4, SW1/4 Section 9; Section 16 except E1/2 E1/2; Sections 17-21; E1/2 SE1/4, SW1/4 SE1/4 Section 25; Section 27 except E1/2, NE1/4 NW1/4; Sections 28-33; W1/2 Section 34; SE1/4 SE1/4, SE1/4 NE1/4 Section 35; Section 36.
+T.40S., R.11W. Willamette Meridian: N 1/2 NW 1/4, SW 1/4 NW 1/4, NW 1/4 NE 1/4 Section 4; Sections 5-8; W 1/2 NW 1/4, S 1/2 SE 1/4, SW 1/4 Section 9; Section 16 except E 1/2 E 1/2; Sections 17-21; E 1/2 SE 1/4, SW 1/4 SE 1/4 Section 25; Section 27 except E 1/2, NE 1/4 NW 1/4; Sections 28-33; W 1/2 Section 34; SE 1/4 SE 1/4, SE 1/4 NE 1/4 Section 35; Section 36.
 
-T.40S., R.12W. Willamette Meridian: Sections 1-30; Section 31 except W1/2 SW1/4, SW1/4 NW1/4; Sections 32-36.
+T.40S., R.12W. Willamette Meridian: Sections 1-30; Section 31 except W 1/2 SW 1/4, SW 1/4 NW 1/4; Sections 32-36.
 
-T.40S., R.13W. Willamette Meridian: Section 4 except SE1/4 SE1/4; W1/2, NW1/4 NE1/4, S1/2 SE1/4, NE1/4 SE1/4 Section 9; W1/2, NE1/4 Section 10; SE1/4 SW1/4 Section 12; N1/2 NW1/4 Section 13.
+T.40S., R.13W. Willamette Meridian: Section 4 except SE 1/4 SE 1/4; W 1/2, NW 1/4 NE 1/4, S 1/2 SE 1/4, NE 1/4 SE 1/4 Section 9; W 1/2, NE 1/4 Section 10; SE 1/4 SW 1/4 Section 12; N 1/2 NW 1/4 Section 13.
 
-T.41S., R.10W. Willamette Meridian: Section 5 except E1/2 E1/2; Sections 6-7; Section 8 except E1/2 E1/2; Section 17 except E1/2 E1/2; Section 18.
+T.41S., R.10W. Willamette Meridian: Section 5 except E 1/2 E 1/2; Sections 6-7; Section 8 except E 1/2 E 1/2; Section 17 except E 1/2 E 1/2; Section 18.
 
-T.41S., R.11W. Willamette Meridian: Section 1; Section 2 except NW1/4 NE1/4, NE1/4 NW1/4; Sections 3-15; Sections 17-18.
+T.41S., R.11W. Willamette Meridian: Section 1; Section 2 except NW 1/4 NE 1/4, NE 1/4 NW 1/4; Sections 3-15; Sections 17-18.
 
-T.41S., R.12W. Willamette Meridian: Sections 1-4; Section 5 except W1/2, SW1/4 SE1/4; Section 7 except NW1/4, W1/2 SW1/4, NW1/4 NE1/4; W1/2, S1/2 SE1/4 Section 8; Section 9 except S1/2 S1/2, NW1/4 SW1/4; Section 10; Section 11 except SE1/4 SW1/4, W1/2 SW1/4; Sections 12-13; Section 14 except NE1/4 NW1/4, NW1/4 NE1/4; Section 15; Section 17; Section 18 except W1/2 W1/2.
+T.41S., R.12W. Willamette Meridian: Sections 1-4; Section 5 except W 1/2, SW 1/4 SE 1/4; Section 7 except NW 1/4, W 1/2 SW 1/4, NW 1/4 NE 1/4; W 1/2, S 1/2 SE 1/4 Section 8; Section 9 except S 1/2 S 1/2, NW 1/4 SW 1/4; Section 10; Section 11 except SE 1/4 SW 1/4, W 1/2 SW 1/4; Sections 12-13; Section 14 except NE 1/4 NW 1/4, NW 1/4 NE 1/4; Section 15; Section 17; Section 18 except W 1/2 W 1/2.
 
 ![](/graphics/er05oc11.010.gif)
 
@@ -4680,23 +4678,23 @@ Critical habitat includes only Federal lands designated as Late Successional Res
 
 T.32S., R.09W. Willamette Meridian: Section 34.
 
-T.32S., R.10W. Willamette Meridian: Section 25; E1/2, NE1/4 NW1/4, SE1/4 SW1/4 Section 26; Section 35 except W1/2 NW1/4; Section 36 except SE1/4 SW1/4, SW1/4 SE1/4.
+T.32S., R.10W. Willamette Meridian: Section 25; E 1/2, NE 1/4 NW 1/4, SE 1/4 SW 1/4 Section 26; Section 35 except W 1/2 NW 1/4; Section 36 except SE 1/4 SW 1/4, SW 1/4 SE 1/4.
 
-T.33S., R.09W. Willamette Meridian: NW1/4 SW1/4 Section 2; Sections 3-4; Section 5 except SE1/4 NW1/4, E1/2 SW1/4; Section 6 except SE1/4; Section 7 except E1/2 NW1/4, W1/2 NE1/4; Section 8 except NE1/4 NW1/4; Section 9 except S1/2 SE1/4; NW1/4 NE1/4, N1/2 NW1/4, SW1/4 NW1/4 Section 10; NW1/4, N1/2 NE1/4, SW1/4 NE1/4, N1/2 SW1/4 Section 17; Section 18; NW1/4 NE1/4, N1/2 NW1/4, SW1/4 NW1/4 Section 19.
+T.33S., R.09W. Willamette Meridian: NW 1/4 SW 1/4 Section 2; Sections 3-4; Section 5 except SE 1/4 NW 1/4, E 1/2 SW 1/4; Section 6 except SE 1/4; Section 7 except E 1/2 NW 1/4, W 1/2 NE 1/4; Section 8 except NE 1/4 NW 1/4; Section 9 except S 1/2 SE 1/4; NW 1/4 NE 1/4, N 1/2 NW 1/4, SW 1/4 NW 1/4 Section 10; NW 1/4, N 1/2 NE 1/4, SW 1/4 NE 1/4, N 1/2 SW 1/4 Section 17; Section 18; NW 1/4 NE 1/4, N 1/2 NW 1/4, SW 1/4 NW 1/4 Section 19.
 
-T.33S., R.10W. Willamette Meridian: Section 1 except NE1/4, N1/2 SW1/4, S1/2 NW1/4; Section 2 except NE1/4 SE1/4; Section 3 except NW1/4, N1/2 NE1/4, SW1/4 SW1/4, N1/2 SW1/4; Section 9 except W1/2, N1/2 NE1/4, SW1/4 SE1/4; Section 10; Section 11 except NE1/4 NW1/4; Section 12 except NW1/4, SE1/4 NE1/4; Sections 13-14; Section 15 except W1/2 SW1/4; Section 21 except W1/2; Sections 22-23; Section 24 except S1/2 SE1/4, SE1/4 SW1/4; Section 26 except SE1/4, E1/2 NE1/4, SE1/4 SW1/4; Section 27; Section 28 except N1/2 NW1/4; Section 29 except NW1/4 SW1/4; SE1/4 SE1/4 Section 30; Section 31 except W1/2, W1/2 SE1/4; Sections 32-33; Section 34 except SE1/4, SE1/4 NE1/4, SE1/4 SW1/4.
+T.33S., R.10W. Willamette Meridian: Section 1 except NE 1/4, N 1/2 SW 1/4, S 1/2 NW 1/4; Section 2 except NE 1/4 SE 1/4; Section 3 except NW 1/4, N 1/2 NE 1/4, SW 1/4 SW 1/4, N 1/2 SW 1/4; Section 9 except W 1/2, N 1/2 NE 1/4, SW 1/4 SE 1/4; Section 10; Section 11 except NE 1/4 NW 1/4; Section 12 except NW 1/4, SE 1/4 NE 1/4; Sections 13-14; Section 15 except W 1/2 SW 1/4; Section 21 except W 1/2; Sections 22-23; Section 24 except S 1/2 SE 1/4, SE 1/4 SW 1/4; Section 26 except SE 1/4, E 1/2 NE 1/4, SE 1/4 SW 1/4; Section 27; Section 28 except N 1/2 NW 1/4; Section 29 except NW 1/4 SW 1/4; SE 1/4 SE 1/4 Section 30; Section 31 except W 1/2, W 1/2 SE 1/4; Sections 32-33; Section 34 except SE 1/4, SE 1/4 NE 1/4, SE 1/4 SW 1/4.
 
-T.34S., R.10W. Willamette Meridian: NW1/4, NW1/4 NE1/4, NW1/4 SW1/4 Section 4; Section 5; Section 6 except NW1/4 NE1/4, N1/2 NW1/4, SW1/4 NW1/4; Section 7; NW1/4, NW1/4 NE1/4, NW1/4 SW1/4 Section 8; N1/2 NW1/4, NW1/4 NE1/4, SW1/4 NW1/4 Section 18.
+T.34S., R.10W. Willamette Meridian: NW 1/4, NW 1/4 NE 1/4, NW 1/4 SW 1/4 Section 4; Section 5; Section 6 except NW 1/4 NE 1/4, N 1/2 NW 1/4, SW 1/4 NW 1/4; Section 7; NW 1/4, NW 1/4 NE 1/4, NW 1/4 SW 1/4 Section 8; N 1/2 NW 1/4, NW 1/4 NE 1/4, SW 1/4 NW 1/4 Section 18.
 
-T.34S., R.101/2 W. Willamette Meridian: S1/2 Section 7; Section 18 except NW1/4 NW1/4; Section 19; N1/2 NW1/4, W1/2 SW1/4 Section 30; W1/2 NW1/4, SW1/4 Section 31.
+T.34S., R.10 1/2 W. Willamette Meridian: S 1/2 Section 7; Section 18 except NW 1/4 NW 1/4; Section 19; N 1/2 NW 1/4, W 1/2 SW 1/4 Section 30; W 1/2 NW 1/4, SW 1/4 Section 31.
 
-T.34S., R.11W. Willamette Meridian: E1/2 SE1/4, SE1/4 NE1/4 Section 11; Section 12 except E1/4; Section 13 except NE1/4; E1/2 E1/2, SW1/4 SW1/4 Section 14; SE1/4 SE1/4 Section 15; Section 21 except N1/2, E1/2 SE1/4, NW1/4 SW1/4; Section 22 except NW1/4, W1/2 NE1/4, NW1/4 SE1/4, N1/2 SW1/4, SW1/4 SW1/4; Section 23 except NE1/4 NW1/4, NW1/4 NE1/4; Sections 24-28; S1/2 NE1/4, SE1/4 Section 31; Section 32 except N1/2 NW1/4; Sections 33-36.
+T.34S., R.11W. Willamette Meridian: E 1/2 SE 1/4, SE 1/4 NE 1/4 Section 11; Section 12 except E 1/4; Section 13 except NE 1/4; E 1/2 E 1/2, SW 1/4 SW 1/4 Section 14; SE 1/4 SE 1/4 Section 15; Section 21 except N 1/2, E 1/2 SE 1/4, NW 1/4 SW 1/4; Section 22 except NW 1/4, W 1/2 NE 1/4, NW 1/4 SE 1/4, N 1/2 SW 1/4, SW 1/4 SW 1/4; Section 23 except NE 1/4 NW 1/4, NW 1/4 NE 1/4; Sections 24-28; S 1/2 NE 1/4, SE 1/4 Section 31; Section 32 except N 1/2 NW 1/4; Sections 33-36.
 
-T.35S., R.101/2 W. Willamette Meridian: Section 6 except E1/2 E1/2; Section 7 except E1/2 E1/2, W1/2 SE1/4, NE1/4 SW1/4; Section 18 except E1/2, E1/2 SW1/4; NW1/4, W1/2 SW1/4, NW1/4 NE1/4 Section 19; W1/2 SW1/4 Section 30.
+T.35S., R.10 1/2 W. Willamette Meridian: Section 6 except E 1/2 E 1/2; Section 7 except E 1/2 E 1/2, W 1/2 SE 1/4, NE 1/4 SW 1/4; Section 18 except E 1/2, E 1/2 SW 1/4; NW 1/4, W 1/2 SW 1/4, NW 1/4 NE 1/4 Section 19; W 1/2 SW 1/4 Section 30.
 
-T.35S., R.11W. Willamette Meridian: Sections 1-4; Section 5 except SW1/4 SW1/4; E1/2 NE1/4 Section 6; E1/2 E1/2 Section 7; Sections 8-15; Section 17; E1/2 NE1/4, NW1/4 NE1/4 Section 18; Section 20 except SW1/4 NW1/4, W1/2 SW1/4; Section 21 except SW1/4 NE1/4; Sections 22-28; NE1/4 NW1/4, E1/2 E1/2 Section 29; Section 33 except W1/2 SW1/4; Section 34-36.
+T.35S., R.11W. Willamette Meridian: Sections 1-4; Section 5 except SW 1/4 SW 1/4; E 1/2 NE 1/4 Section 6; E 1/2 E 1/2 Section 7; Sections 8-15; Section 17; E 1/2 NE 1/4, NW 1/4 NE 1/4 Section 18; Section 20 except SW 1/4 NW 1/4, W 1/2 SW 1/4; Section 21 except SW 1/4 NE 1/4; Sections 22-28; NE 1/4 NW 1/4, E 1/2 E 1/2 Section 29; Section 33 except W 1/2 SW 1/4; Section 34-36.
 
-T.36S., R.11W. Willamette Meridian: NW1/4, NW1/4 NE1/4, N1/2 SW1/4, SW1/4 SW1/4 Section 2; Section 3; N1/2 N1/2, SE1/4 NE1/4, E1/2 SE1/4 Section 4; NE1/4 NW1/4, N1/2 NE1/4 Section 5; E1/2 E1/2 Section 9; Section 10 except S1/2 SE1/4, NE1/4 SE1/4; NW1/4 NW1/4 Section 11; NW1/4 NW1/4 Section 15; E1/2 NE1/4 Section 16.
+T.36S., R.11W. Willamette Meridian: NW 1/4, NW 1/4 NE 1/4, N 1/2 SW 1/4, SW 1/4 SW 1/4 Section 2; Section 3; N 1/2 N 1/2, SE 1/4 NE 1/4, E 1/2 SE 1/4 Section 4; NE 1/4 NW 1/4, N 1/2 NE 1/4 Section 5; E 1/2 E 1/2 Section 9; Section 10 except S 1/2 SE 1/4, NE 1/4 SE 1/4; NW 1/4 NW 1/4 Section 11; NW 1/4 NW 1/4 Section 15; E 1/2 NE 1/4 Section 16.
 
 ![](/graphics/er05oc11.011.gif)
 
@@ -4712,7 +4710,7 @@ Map and description of CA-01-a taken from United States Fish and Wildlife Servic
 
 Critical Habitat includes only Federal lands designated as Late Successional Reserves described within the following areas:
 
-T.18N., R.01E. Humboldt Meridian: NW1/4 NW1/4 Section 1; W1/2, NE1/4, NW1/4 SE1/4 Section 2; Section 3; E1/2 Section 4; NE1/4, E1/2 SE1/4 Section 9; Section 10; W1/2 NE1/4, NW1/4, SW1/4, Section 11; W1/2 Section 14; Section 15; NE1/4 NE1/4 Section 16; Section 22; NW1/4, NW1/4 SW1/4 Section 23; N1/2, N1/2 SW1/4, NW1/4 SE1/4 Section 27.
+T.18N., R.01E. Humboldt Meridian: NW1/4 NW1/4 Section 1; W1/2, NE1/4, NW1/4 SE1/4 Section 2; Section 3; E1/2 Section 4; NE1/4, E1/2 SE1/4 Section 9; Section 10; W1/2 NE1/4, NW1/4, SW1/4, Section 11; W1/2 Section 14; Section 15; NE1/4 NE1/4 Section 16; Section 22; NW1/4, NW 1/4 SW1/4 Section 23; N1/2, N1/2 SW1/4, NW1/4 SE1/4 Section 27.
 
 T.19N., R.01E. Humboldt Meridian: Section 33 except W1/2 SW1/4; Sections 34-35; Section 36 except SE1/4 SE1/4.
 
@@ -4794,23 +4792,23 @@ Unit CA-01-d: Siskiyou County, California. From United States Fish and Wildlife 
 
 Critical habitat includes only Federal lands designated as Late Successional Reserves described within the following areas:
 
-T.18N., R.04E. Humboldt Meridian: SE1/4 SW1/4, SW1/4 SE1/4 Section 33; E1/2 SE1/4 Section 35; SW1/4, SW1/4 SE1/4, S1/2 NW1/4 Section 36.
+T.18N., R.04E. Humboldt Meridian: SE 1/4 SW 1/4, SW 1/4 SE 1/4 Section 33; E 1/2 SE 1/4 Section 35; SW 1/4, SW 1/4 SE 1/4, S 1/2 NW 1/4 Section 36.
 
-T.18N., R. 05E. Humboldt Meridian: S1/2 SW1/4 Section 31.
+T.18N., R. 05E. Humboldt Meridian: S 1/2 SW 1/4 Section 31.
 
-T.17N., R.03E. Humboldt Meridian: NE1/4, E1/2 SE1/4 Section 24; E1/2 NE1/4, SE1/4, Section 25; N1/2, E1/2 SE1/4 Section 36.
+T.17N., R.03E. Humboldt Meridian: NE 1/4, E 1/2 SE 1/4 Section 24; E 1/2 NE 1/4, SE 1/4, Section 25; N 1/2, E 1/2 SE 1/4 Section 36.
 
-T.17N., R.04E. Humboldt Meridian: Section 1 except SW1/4, SW1/4 NW1/4; Section 2 except NE1/4 NE1/4, N1/2 NW1/4, E1/2 SE1/4; Section 3 except N1/2 N1/2; Section 4; SE1/4 NE1/4, SE1/4 Section 5; Section 8 except NW1/4; Sections 9-10; NE1/4, NW1/4, NW1/4 SW1/4 Section 11; NE1/4 Section 12; Sections 16-17; W1/2, W1/2 E1/2 Section 20; SE1/4, NE1/4 SW1/4 Section 21; S1/2, S1/2 N1/2 Section 22; S1/2, S1/2 N1/2 Section 23; W1/2 SW1/4 Section 24; W1/2 NW1/4, NW1/4 SW1/4 Section 25; Section 26; Section 27 except SW1/4; NE1/4, SW1/4, SW1/4 SE1/4 Section 28; Section 29 except E1/2 NE1/4; SW1/4, W1/2 SE1/4 Section 32; Section 33; N1/2 NE1/4, SW1/4, SE1/4 Section 34; N1/2, N1/2 SE1/4, SW1/4 SW1/4 Section 35.
+T.17N., R.04E. Humboldt Meridian: Section 1 except SW 1/4, SW 1/4 NW 1/4; Section 2 except NE 1/4 NE 1/4, N 1/2 NW 1/4, E 1/2 SE 1/4; Section 3 except N 1/2 N 1/2; Section 4; SE 1/4 NE 1/4, SE 1/4 Section 5; Section 8 except NW 1/4; Sections 9-10; NE 1/4, NW 1/4, NW 1/4 SW 1/4 Section 11; NE 1/4 Section 12; Sections 16-17; W 1/2, W 1/2 E 1/2 Section 20; SE 1/4, NE 1/4 SW 1/4 Section 21; S 1/2, S 1/2 N 1/2 Section 22; S 1/2, S 1/2 N 1/2 Section 23; W 1/2 SW 1/4 Section 24; W 1/2 NW 1/4, NW 1/4 SW 1/4 Section 25; Section 26; Section 27 except SW 1/4; NE 1/4, SW 1/4, SW 1/4 SE 1/4 Section 28; Section 29 except E 1/2 NE 1/4; SW 1/4, W 1/2 SE 1/4 Section 32; Section 33; N 1/2 NE 1/4, SW 1/4, SE 1/4 Section 34; N 1/2, N 1/2 SE 1/4, SW 1/4 SW 1/4 Section 35.
 
-T.17N., R.05E. Humboldt Meridian: W1/2 except NE1/4 NE1/4 Section 4; Section 5; Section 6 except NE1/4 NE1/4; Sections 7-8; W1/2 NW1/4 Section 9.
+T.17N., R.05E. Humboldt Meridian: W 1/2 except NE 1/4 NE 1/4 Section 4; Section 5; Section 6 except NE 1/4 NE 1/4; Sections 7-8; W 1/2 NW 1/4 Section 9.
 
-T.16N., R.03E. Humboldt Meridian: S1/2 SW1/4, SE1/4, NE1/4 SW1/4 Section 1; E1/2 E1/2 Section 11; Section 12; Section 13 except W1/2 SW1/4, SW1/4 NW1/4; NE1/4, E1/2 NW1/4, E1/2 SE1/4 Section 24; SE1/4, SE1/4 NE1/4 Section 25; Section 36 except SW1/4, NW1/4 NW1/4, W1/2 SE1/4.
+T.16N., R.03E. Humboldt Meridian: S 1/2 SW 1/4, SE 1/4, NE 1/4 SW 1/4 Section 1; E 1/2 E 1/2 Section 11; Section 12; Section 13 except W 1/2 SW 1/4, SW 1/4 NW 1/4; NE 1/4, E 1/2 NW 1/4, E 1/2 SE 1/4 Section 24; SE 1/4, SE 1/4 NE 1/4 Section 25; Section 36 except SW 1/4, NW 1/4 NW 1/4, W 1/2 SE 1/4.
 
-T.16N., R.04E. Humboldt Meridian: S1/2 SW1/4, W1/2 SE1/4 Section 1; Section 2 except NE1/4; Sections 3-4; Section 5 except N1/2 NW1/4; Section 8; W1/2 W1/2, NE1/4 NE1/4 Section 9; Section 10 except W1/2 SW1/4; Section 11 except SE1/4, S1/2 SW1/4; S1/2 Section 12; E1/2 E1/2 Section 17; E1/2 E1/2 Section 20; Section 29 except SE1/4, E1/2 NE1/4; W1/2 Section 32.
+T.16N., R.04E. Humboldt Meridian: S 1/2 SW 1/4, W 1/2 SE 1/4 Section 1; Section 2 except NE 1/4; Sections 3-4; Section 5 except N 1/2 NW 1/4; Section 8; W 1/2 W 1/2, NE 1/4 NE 1/4 Section 9; Section 10 except W 1/2 SW 1/4; Section 11 except SE 1/4, S 1/2 SW 1/4; S 1/2 Section 12; E 1/2 E 1/2 Section 17; E 1/2 E 1/2 Section 20; Section 29 except SE 1/4, E 1/2 NE 1/4; W 1/2 Section 32.
 
-T.15N., R.03E. Humboldt Meridian: E1/2 E1/2 Section 1; E1/2, SE1/4 Section 12.
+T.15N., R.03E. Humboldt Meridian: E 1/2 E 1/2 Section 1; E 1/2, SE 1/4 Section 12.
 
-T.15N., R.04E. Humboldt Meridian: W1/2 Section 6; W1/2 NW1/4 Section 7.
+T.15N., R.04E. Humboldt Meridian: W 1/2 Section 6; W 1/2 NW 1/4 Section 7.
 
 ![](/graphics/er05oc11.012.gif)
 
@@ -4818,9 +4816,9 @@ Unit CA-01-e: Del Norte County, California. From United States Fish and Wildlife
 
 Critical habitat includes only Federal lands designated as Late Successional Reserves described within the following areas:
 
-T.18N., R.03E. Humboldt Meridian: W1/4 Section 1; SE1/4, E1/2 NE1/4, NE1/4 NE1/4, SE1/4 SW1/4 Section 2; SE1/4 SE1/4 Section 10; Section 11 except NW1/4 NW1/4; W1/2 NW1/4; NW1/4 SW1/4 Section 12; W1/2 NW1/4 Section 14; E1/2, E1/2 SW1/4 Section 15; W1/2, NW1/4 SE1/4, N1/2 NE1/4, SW1/4 NE1/4 Section 22; W1/2 Section 27; SE1/4, S1/2 NE1/4, NE1/4 NE1/4, E1/2 SW1/4 Section 28; E1/2 SE1/4, SE1/4 NE1/4 Section 32; Section 33; W1/2 Section 34.
+T.18N., R.03E. Humboldt Meridian: W 1/4 Section 1; SE 1/4, E 1/2 NE 1/4, NE 1/4 NE 1/4, SE 1/4 SW 1/4 Section 2; SE 1/4 SE 1/4 Section 10; Section 11 except NW 1/4 NW 1/4; W 1/2 NW 1/4; NW 1/4 SW 1/4 Section 12; W 1/2 NW 1/4 Section 14; E 1/2, E 1/2 SW 1/4 Section 15; W 1/2, NW 1/4 SE 1/4, N 1/2 NE 1/4, SW 1/4 NE 1/4 Section 22; W 1/2 Section 27; SE 1/4, S 1/2 NE 1/4, NE 1/4 NE 1/4, E 1/2 SW 1/4 Section 28; E 1/2 SE 1/4, SE 1/4 NE 1/4 Section 32; Section 33; W 1/2 Section 34.
 
-T.17N., R.03E. Humboldt Meridian: NW1/4, NW1/4 SW1/4 Section 3; Section 4 except S1/2 S1/2, NW1/4 SW1/4; NE1/4 NE1/4 Section 5.
+T.17N., R.03E. Humboldt Meridian: NW 1/4, NW 1/4 SW 1/4 Section 3; Section 4 except S 1/2 S 1/2, NW 1/4 SW 1/4; NE 1/4 NE 1/4 Section 5.
 
 ![](/graphics/er05oc11.013.gif)
 
@@ -4886,7 +4884,7 @@ T.02N., R.02E. Humboldt Meridian: Section 3; W1/2 Section 4; Section 5-6; N1/2 S
 
 T.03N., R.01E. Humboldt Meridian: S1/2 Section 3; Section 4-10; W1/2 Section 11; Section 13-18; W1/2 Section 19; Section 20-26; E1/2 Section 27; W1/2 Section 28; Section 29-35; Section 36 except NE1/4.
 
-T.03N., R.02E. Humboldt Meridian: Section 3 except NE1/4; Section 4; SE1/4 Section 5; S1/2 Section 6; Section 7; Section 9; Section 10; W1/2 Section 16; Section 18-20; Section 21 except NE1/4; SW1/4 Section 22; W1/2 Section 27; Section 28 except SW1/4; Section 29-30; Section 31 except SW1/4; Section 32; Section 33 except NW1/4.
+T.03N., R.02E. Humboldt Meridian: Section 3 except NE1/4; Section 4; SE1/4 Section 5; S1/2 Section 6; Section 7; Section 9; Section 10; W1/2 Section 16; Section 18-20; Section 21 except NE1/4; SW 1/4 Section 22; W1/2 Section 27; Section 28 except SW1/4; Section 29-30; Section 31 except SW1/4; Section 32; Section 33 except NW1/4.
 
 T.04N., R.02E. Humboldt Meridian: S1/2 S1/2 Section 33; SW1/4 Section 34.
 
@@ -4950,7 +4948,7 @@ Description of Lands Using Protracted Public Land Survey Lines
 
 Critical Habitat includes only Federal lands designated as Late Successional Reserves described within the following areas:
 
-T.05S., R.02E. Humboldt Meridian: Western1/2 of the Western1/2 of the Township T.05S., R.02E.
+T.05S., R.02E. Humboldt Meridian: Western 1/2 of the Western 1/2 of the Township T.05S., R.02E.
 
 ![](/graphics/er24my96.084.gif)
 
@@ -5014,7 +5012,7 @@ T.23N., R.17W. Mt. Diablo Meridian: Section 1 except S1/2 SW1/4; NE1/4 SE1/4 Sec
 
 T.24N., R.16W. Mt. Diablo Meridian: SE1/4 NE1/4, SE1/4 NW1/4, NW1/4 SW1/4, SE1/4 SW1/4, NE1/4 SE1/4 Section 17; W1/2 SE1/4, E1/2 SW1/4 Section 18; Section 19 except SW1/4 SE1/4; W1/2 NE1/4, E1/2 NW1/4 Section 20; S1/2 NW1/4, SW1/4 Section 27; Section 28 except N1/2 N1/2 and SE1/4 SW1/4; Section 29 except N1/2 NE1/4, NW1/4 NW1/4; Section 30 except N1/2 NE1/4; Section 31; Section 32 except SE1/4 NE1/4 and E1/2 SE1/4; N1/2 NE1/4, NW1/4 NW1/4 Section 33; NW1/4 Section 34.
 
-T.24N., R.17W. Mt. Diablo Meridian: NE1/4 NE1/4 Section 23; Section 24 except NE1/4 NW1/4, NW1/4 NE1/4; E1/2, E1/2 NW1/4, NW1/4 NW1/4, SW1/4 SW1/4 Section 25, N1/2 SE1/4 Section 26, Section 36.
+T.24N., R.17W. Mt. Diablo Meridian: NE1/4 NE1/4 Section 23; Section 24 except NE1/4 NW1/4, NW1/4 NE1/4; E1/2, E1/2 NW1/4, NW1/4 NW1/4, SW1/4 SW1/4 Section 25, N1/2 SE 1/4 Section 26, Section 36.
 
 Critical Habitat includes only State lands described within the following areas:
 
@@ -5132,29 +5130,29 @@ Unit CA-11-b: Humboldt County, California. From United States Fish and Wildlife 
 
 Critical habitat includes only Federal lands designated as Late Successional Reserves described within the following areas:
 
-T.03N., R.02E. Humboldt Meridian: SE1/4 NE1/4, SW1/4 NW1/4, N1/2 N1/2 Section 1; NE1/4, E1/2 NW1/4, N1/2 SE1/4 Section 2.
+T.03N., R.02E. Humboldt Meridian: SE 1/4 NE 1/4, SW 1/4 NW 1/4, N 1/2 N 1/2 Section 1; NE 1/4, E 1/2 NW 1/4, N 1/2 SE 1/4 Section 2.
 
-T.03N., R.03E. Humboldt Meridian: N1/2 NE1/4, SE1/4 NW1/4, NE1/4 SW1/4, W1/2 SE1/4, Section 6.
+T.03N., R.03E. Humboldt Meridian: N 1/2 NE 1/4, SE 1/4 NW 1/4, NE 1/4 SW 1/4, W 1/2 SE 1/4, Section 6.
 
-T.03N., R.04E. Humboldt Meridian: W1/2 NE1/4, NW1/4 Section 1; Section 2 except SE1/4 SE1/4; E1/2 NE1/4, SE1/4 SW1/4, SE1/4 Section 3; W1/2 NE1/4, NW1/4 Section 5; E1/2 NE1/4 Section 6.
+T.03N., R.04E. Humboldt Meridian: W 1/2 NE 1/4, NW 1/4 Section 1; Section 2 except SE 1/4 SE 1/4; E 1/2 NE 1/4, SE 1/4 SW 1/4, SE 1/4 Section 3; W 1/2 NE 1/4, NW 1/4 Section 5; E 1/2 NE 1/4 Section 6.
 
-T.03N., R.05E. Humboldt Meridian: NE1/4, N1/2 SE1/4 Section 6; SW1/4 NW1/4, N1/2 SW1/4, SW1/4 SW1/4 Section 7; NW1/4 NW1/4 Section 18.
+T.03N., R.05E. Humboldt Meridian: NE 1/4, N 1/2 SE 1/4 Section 6; SW 1/4 NW 1/4, N 1/2 SW 1/4, SW 1/4 SW 1/4 Section 7; NW 1/4 NW 1/4 Section 18.
 
-T.04N., R.02E. Humboldt Meridian: S1/2 SE1/4 Section 25.
+T.04N., R.02E. Humboldt Meridian: S 1/2 SE 1/4 Section 25.
 
-T.04N., R.03E. Humboldt Meridian: S1/2 NW1/4, NW1/4 SE1/4, SE1/4 SE1/4 Section 31.
+T.04N., R.03E. Humboldt Meridian: S 1/2 NW 1/4, NW 1/4 SE 1/4, SE 1/4 SE 1/4 Section 31.
 
-T.04N., R.04E. Humboldt Meridian: NE1/4 Section 1; E1/2 E1/2 Section 12; S1/2 Section 25; SE1/4 NW1/4, NW1/4 SW1/4, SE1/4 Section 26; S1/2 NE1/4, NW1/4, N1/2 SE1/4 Section 27; N1/2, S1/2 S1/2, NE1/4 SW1/4, NE1/4 SE1/4 Section 28; SW1/4 NW1/4 Section 29; S1/2 NE1/4, SW1/4, W1/2 SE1/4 Section 30; W1/2 NE1/4, NW1/4, N1/2 SE1/4, NW1/4 SW1/4 Section 31; SE1/4 NW1/4, SW1/4 Section 32; N1/2 N1/2, SE1/4 NE1/4, SE1/4 NW1/4, NE1/4 SE1/4 Section 33; Section 34 except N1/2 NE1/4, S1/2 SW1/4; Section 35 except N1/2 N1/2.
+T.04N., R.04E. Humboldt Meridian: NE 1/4 Section 1; E 1/2 E 1/2 Section 12; S 1/2 Section 25; SE 1/4 NW 1/4, NW 1/4 SW 1/4, SE 1/4 Section 26; S 1/2 NE 1/4, NW 1/4, N 1/2 SE 1/4 Section 27; N 1/2, S 1/2 S 1/2, NE 1/4 SW 1/4, NE 1/4 SE 1/4 Section 28; SW 1/4 NW 1/4 Section 29; S 1/2 NE 1/4, SW 1/4, W 1/2 SE 1/4 Section 30; W 1/2 NE 1/4, NW 1/4, N 1/2 SE 1/4, NW 1/4 SW 1/4 Section 31; SE 1/4 NW 1/4, SW 1/4 Section 32; N 1/2 N 1/2, SE 1/4 NE 1/4, SE 1/4 NW 1/4, NE 1/4 SE 1/4 Section 33; Section 34 except N 1/2 NE 1/4, S 1/2 SW 1/4; Section 35 except N 1/2 N 1/2.
 
-T.04N., R.05E. Humboldt Meridian: NW1/4, W1/2 SW1/4, NE1/4 SW1/4, Section 3; Sections 4-7; S1/2 S1/2 Section 8; Section 9; W1/2 NW1/4, NW1/4 SW1/4, Section 10; NE1/4 NW1/4, NW1/4 NE1/4 Section 16; NW1/4 SW1/4 Section 17; N1/2, N1/2 SE1/4 Section 18; Section 19 except W1/2 W1/2; Section 20; NE1/4 NW1/4, SW1/4 Section 21; NW1/4 NW1/4 Section 28; Section 29 except S1/2 NE1/4, N1/2 SE1/4, SE1/4 SE1/4; Section 30; Section 31 except SW1/4 SW1/4; NW1/4, W1/2 SW1/4 Section 32.
+T.04N., R.05E. Humboldt Meridian: NW 1/4, W 1/2 SW 1/4, NE 1/4 SW 1/4, Section 3; Sections 4-7; S 1/2 S 1/2 Section 8; Section 9; W 1/2 NW 1/4, NW 1/4 SW 1/4, Section 10; NE 1/4 NW 1/4, NW 1/4 NE 1/4 Section 16; NW 1/4 SW 1/4 Section 17; N 1/2, N 1/2 SE 1/4 Section 18; Section 19 except W 1/2 W 1/2; Section 20; NE 1/4 NW 1/4, SW 1/4 Section 21; NW 1/4 NW 1/4 Section 28; Section 29 except S 1/2 NE 1/4, N 1/2 SE 1/4, SE 1/4 SE 1/4; Section 30; Section 31 except SW 1/4 SW 1/4; NW 1/4, W 1/2 SW 1/4 Section 32.
 
-T.05N., R.04E. Humboldt Meridian: Sections 1-3; E1/2 NE1/4 Section 4; NE1/4, N1/2 NW1/4, E1/2 E1/2 Section 10; Sections 11-13; Section 14 except SW1/4, SW1/4 NW1/4; Section 23 except W1/2 SW1/4, W1/2 SE1/4; Section 24; N1/2 NW1/4, S1/2 SE1/4 Section 25; E1/2 NW1/4 Section 26.
+T.05N., R.04E. Humboldt Meridian: Sections 1-3; E 1/2 NE 1/4 Section 4; NE 1/4, N 1/2 NW 1/4, E 1/2 E 1/2 Section 10; Sections 11-13; Section 14 except SW 1/4, SW 1/4 NW 1/4; Section 23 except W 1/2 SW 1/4, W 1/2 SE 1/4; Section 24; N 1/2 NW 1/4, S 1/2 SE 1/4 Section 25; E 1/2 NW 1/4 Section 26.
 
-T.05N., R.05E. Humboldt Meridian: Section 4 except E1/2; Sections 5-8; Section 9 except E1/2; Section 16 except E1/2 E1/2; Sections 17-20; Section 21 except E1/2 NE1/4; W1/2 SW1/4 Section 22; Section 27, except NE1/4 NE1/4, E1/2 SE1/4; Sections 28-33; Section 34 except E1/4.
+T.05N., R.05E. Humboldt Meridian: Section 4 except E 1/2; Sections 5-8; Section 9 except E 1/2; Section 16 except E 1/2 E 1/2; Sections 17-20; Section 21 except E 1/2 NE 1/4; W 1/2 SW 1/4 Section 22; Section 27, except NE 1/4 NE 1/4, E 1/2 SE 1/4; Sections 28-33; Section 34 except E 1/4.
 
-T.06N., R.04E. Humboldt Meridian: Sections 13-15; Sections 21-27; Section 28 except SW1/4 NW1/4, NW1/4 SW1/4; Section 33 except W1/2 NW1/4, SW1/4; Sections 34-35.
+T.06N., R.04E. Humboldt Meridian: Sections 13-15; Sections 21-27; Section 28 except SW 1/4 NW 1/4, NW 1/4 SW 1/4; Section 33 except W 1/2 NW 1/4, SW 1/4; Sections 34-35.
 
-T.06N., R.05E. Humboldt Meridian: W1/2, W1/2 SE1/4 Section 18; Section 19 except E1/2 NE1/4; SW1/4 SW1/4 Section 29; Sections 30-31; Section 32 except NE1/4, NE1/4 SE1/4, NE1/4 NW1/4
+T.06N., R.05E. Humboldt Meridian: W 1/2, W 1/2 SE 1/4 Section 18; Section 19 except E 1/2 NE 1/4; SW 1/4 SW 1/4 Section 29; Sections 30-31; Section 32 except NE 1/4, NE 1/4 SE 1/4, NE 1/4 NW 1/4
 
 ![](/graphics/er05oc11.014.gif)
 
@@ -8654,13 +8652,13 @@ This unit is located on Bowdoin National Wildlife Refuge in Phillips County and 
 
 *Unit NE-1:* Platte, Loup, and Niobrara Rivers.
 
-a. Platte River1 Begins at the Lexington bridge over the main channel in Dawson County and extends downstream to its confluence with the Missouri River in Sarpy County and includes area within the river banks in the following Townships, Ranges, and Sections:
+a. Platte River 1 Begins at the Lexington bridge over the main channel in Dawson County and extends downstream to its confluence with the Missouri River in Sarpy County and includes area within the river banks in the following Townships, Ranges, and Sections:
 
 1 Sections T. 17 N., R. 01 E., sec. 32 and T. 17 N., R. 01 E., sec. 33 are designated CH for both Platte and Loup Rivers.
 
 T. 08 N., R. 13 W., Sec. 4-7; T. 08 N., R. 14 W., Sec. 9-12, 15-18; T. 08 N., R. 15 W., Sec. 13-21; T. 08 N., R. 16 W., Sec. 7,8, 13-18, 23, 24; T. 08 N., R. 17 W., Sec. 7,8,10-18; T. 08 N., R. 18 W., Sec. 2-12; T. 08 N., R. 19 W., Sec. 1-12; T. 08 N., R. 20 W., Sec. 1-12; T. 08 N., R. 21 W., Sec. 1,2, 12; T. 09 N., R. 10 W., Sec. 3-7; T. 09 N., R. 11 W., Sec. 1, 11, 12, 14-19; T. 09 N., R. 12 W., Sec. 13, 22-24; 26-31; T. 09 N., R. 13 W., Sec. 25-27, 31, 33-36; T. 09 N., R. 21 W., Sec. 20, 21, 27-29, 34-36; T. 10 N., R. 08 W., Sec. 6; T. 10 N., R. 09 W., Sec. 1, 11, 12, 14, 15, 21, 22, 28, 29; T. 10 N., R. 10 W., Sec. 25, 33, 34, 35, 36; T. 11 N., R. 07 W., Sec. 6; T. 11 N., R. 08 W., Sec. 1, 2, 10, 11, 15, 16, 20, 21, 29 30, 31; T. 11 N., R. 09 W., Sec.36; T. 12 N., R. 06 W., Sec. 6; T. 12 N., R. 07 W., Sec. 1, 2, 10-12, 14-16, 20-22, 29-31; T. 12 N., R. 08 W., Sec. 36; T. 13 N., R. 05 W., Sec. 5-7; T. 13 N., R. 06 W., Sec. 12-15, 21-23, 28, 29, 31, 32; T. 14 N., R. 04 W., Sec. 4, 5, 7-9, 18; T. 14 N., R. 05 W., Sec. 13, 14, 22, 23, 24, 27, 28, 32, 33; T. 14 N., R. 39 W., Sec. 2-5, 11; T. 15 N., R. 03 W., Sec. 3-5, 7-9, 17-19; T. 15 N., R. 04 W., Sec. 12-14, 23, 24, 26, 27, 33, 34; T. 15 N., R. 38 W., Sec. 19, 20, 21, 28-30, 33; T. 15 N., R. 39 W., Sec. 24, 25, 30, 31, 32, 33, 34; T. 15 N., R. 40 W., Sec. 10, 23, 24, 25, 26, 36; T. 16 N., R. 01 W., Sec. 1-4, 7-10, 17, 18; T. 16 N., R. 02 W., Sec. 10-16, 19-21 29, 30; T. 16 N., R. 03 W., Sec. 25, 26, 33-36; T. 17 N., R. 01 W., Sec. 36; T. 12 N., R. 10 E., Sec. 3-5, 9-13, 24; T. 12 N., R. 11 E., Sec. 1, 11, 12, 14-16, 18-21; T. 12 N., R. 12 E., Sec. 06; T. 13 N., R. 10 E., Sec. 4, 5, 7-9, 17-19, 29, 30, 32, 33; T. 13 N., R. 12 E., Sec. 25-28, 31-34, 36; T. 13 N., R. 13 E., Sec. 25, 26, 30-36; T. 14 N., R. 09 E., Sec. 1,12; T. 14 N., R. 10 E., Sec. 6-8, 17, 18, 20, 29, 32; T. 15 N., R. 09 E., Sec. 1-3, 11-13, 24, 25, 36; T. 15 N., R. 10 E., Sec. 19; T. 16 N., R. 01 E., Sec. 1, 2,4-6, 12; T. 16 N., R. 02 E., Sec. 1-12; T. 16 N., R. 03 E., Sec. 4-6; T. 16 N., R. 08 E., Sec. 1, 2, 12; T. 16 N., R. 09 E., Sec. 6-9, 16, 17, 21, 22, 27, 28, 33, 34; T. 17 N., R. 01 E., Sec. 31, 32, 33, 34, 35, 36, T. 17 N., R. 03 E., Sec. 25, 26, 27, 31, 32, 33, 34; T. 17 N., R. 04 E., Sec. 9-12, 14-17, 20, 21, 29, 30; T. 17 N., R. 05 E., Sec. 7-10, 13-15; T. 17 N., R. 06 E., Sec. 7-9, 14-18, 22-24; T. 17 N., R. 07 E., Sec. 13-24; T. 17 N., R. 08 E., Sec. 20, 21, 27-29, 34-36.
 
-b. Loup River2 Entire river beginning at the confluence of the North and Middle Loup Rivers to form the Loup River in Howard County, to its confluence with the Platte River in Platte County and includes area within the river banks in the following Townships, Ranges, and Sections:
+b. Loup River 2 Entire river beginning at the confluence of the North and Middle Loup Rivers to form the Loup River in Howard County, to its confluence with the Platte River in Platte County and includes area within the river banks in the following Townships, Ranges, and Sections:
 
 2 See footnote 1.
 
@@ -8770,7 +8768,7 @@ T. 129 N., R. 78 W., Sec. 19, 29-32 ; T. 129 N., R. 79 W., Sec. 3-6, 8-11, 13-16
 
 Approximately 159.7 mi (257 km) from the North Dakota/South Dakota border northeast of McLaughlin, Corson County, South Dakota, at RM 1232.0 downstream to RM 1072.3, just north of Oahe Dam (Oahe Reservoir) including the following TRS:
 
-T. 6 N., R. 29 E., Sec. 1-6, 8-11, 14-16, 21-23, 25-27, 35-36; T. 6 N., R. 30 E., Sec. 22-34; T. 6 N., R. 31 E., Sec. 19; T. 7 N., R. 28 E., Sec. 1,T. 7 N., R. 28 E., Sec. 12-13, 36; T. 7 N., R. 29 E., Sec. 5-9, 15-17, 20-28, 31-32, 34-36,3; T. 7 N., R. 30 E., Sec. 19-20, 29-32; T. 8 N., R. 23 E., Sec. 1; T. 8 N., R. 24 E., Sec. 4-6; T. 8 N., R. 26 E., Sec. 4; T. 8 N., R. 28 E., Sec. 1, 11-14, 23-25; T. 8 N., R. 29 E., Sec. 4-9, 16-20, 29-31; T. 9 N., R. 23 E., Sec. 36; T. 9 N., R. 24 E., Sec. 12-15, 22-28, 31-34, T. 9 N., R. 25 E., Sec. 1-2, 7-18, 20-25, 27; T. 9 N., R. 26 E., Sec. 1-9, 10-23, 26, 28-30, 32-33; T. 9 N., R. 27 E., Sec. 1-12; T. 9 N., R. 28 E., Sec. 3-9, 13-20, 22-26, 35-36; T. 9 N., R. 29 E., Sec. 1-4, 18-20, 29-32; T. 9 N., R. 30 E., Sec. 6; T. 10 N., R. 26 E., Sec. 10, 13, 15-16, 19-20, 22-29, 32-36; T. 10 N., R. 27 E., Sec. 9, 15-16, 21-36; T. 10 N., R. 28 E., Sec. 1-6, 8-17, 19-21, 24, 29-33; T. 10 N., R. 29 E., Sec. 1, 4-9, T. 10 N., R. 29 E., Sec. 12-13, 16-22, 24-25, 27-30, 32-36; T. 10 N., R. 30 E., Sec. 1-12, 14-19, 20, 29, 30-31, T. 10 N., R. 31 E., Sec. 6; T. 11 N., R. 27 E., Sec. 36; T. 11 N., R. 28 E., Sec. 25, 27-36; T. 11 N., R. 29 E., Sec. 24-26, 31, 36; T. 11 N., R. 30 E., Sec. 1-2, 11-14, 23-26, 31-33, 35-36; T. 11 N., R. 31 E., Sec. 30-31; T. 12 N., R. 30 E., Sec. 1-4, 10-14, 22-28, 34-36; T. 12 N., R. 31 E., Sec. 1-7, 10-12, T. 13 N., R. 30 E., Sec. 1, 31-34; T. 13 N., R. 30 E., Sec. 36; T. 13 N., R. 31 E., Sec. 3-10, 16-17, 20-21, 27-28, 30-35; T. 14 N., R. 30 E., Sec. 36; T. 14 N., R. 31 E., Sec. 1-5, 9-11, 14-15, 22-23, 26-28, 31-35; T. 15 N., R. 30 E., Sec. 1; T. 15 N., R. 31 E., Sec. 4-6, 10-11,13-15, 23-27, 32-33, 35-36; T. 16 N., R. 28 E., Sec. 13-14, 21-24, 26-28; T. 16 N., R. 29 E., Sec. 1-3, 7-22, 24, 29-30; T. 16 N., R. 30 E., Sec. 1-13, 16-18, 36; T. 16 N., R. 31 E., Sec. 1-2, 6-8, 10-11, 14-19, 20-22, 27-34; T. 17 N., R. 29 E., Sec. 36; T. 17 N., R. 30 E., Sec. 1, 28, 31, 33-34; T. 17 N., R. 31 E., Sec. 6-8, 16-18, 20-21, 27-28, 33-34; T. 18 N., R. 29 E., Sec. 1-2, 12-13; T. 18 N., R. 30 E., Sec. 18-27, 35-36; T. 18 N., R. 31 E., Sec. 31; T. 19 N., R. 28 E., Sec. 2-6; T. 19 N., R. 29 E., Sec. 1-18, 20-26, 34-36, T. 19 N., R. 30 E., Sec. 4, 7-9, 16-21, 28-32; T. 20 N., R. 27 E., Sec. 25, 36; T. 20 N., R. 28 E., Sec. 24-27, 30-36; T. 20 N., R. 29 E., Sec. 19, 29-32, 34; T. 20 N., R. 30 E., Sec. 22, 24-27,. 32-34, 36; T. 20 N., R. 31 E., Sec. 4-6, 8-9, 16, T. 20 N., R. 31 E., Sec. 19-21, 28-32; T. 21 N., R. 30 E., Sec. 2-4,10-11, 14, 23-26, 36; T. 21 N., R. 31 E., Sec. 31; T. 22 N., R. 29 E., Sec. 1-2, 11-12; T. 22 N., R. 30 E., Sec. 5-8, 14-17, 21-23, 27-28, 33-34,4; T. 23 N., R. 29 E., Sec. 20-22, 27-28, 33-36;5; T. 23 N., R. 30 E., Sec. 29-32; T. 107 N., R. 71 W., Sec. 30-32; T. 111 N., R. 80 W., Sec. 1-3, 6; T. 111 N., R. 81 W., Sec. 1-4; T. 112 N., R. 79 W., Sec. 31; T. 112 N., R. 80 W., Sec. 4-9, 17-18, 23, 25-36; T. 112 N., R. 81 W., Sec. 1, 12-15, 22-28, 33-36; T. 113 N., R. 80 W., Sec. 3-4, 9-10, T. 113 N., R. 80 W., Sec. 4, 9, 16-21, 28-34; T. 113 N., R. 81 W., Sec. 5-8, 13, 15-17, 20-29, 34-36; T. 114 N., R. 80 W., Sec. 33-34; T. 114 N., R. 81 W., Sec. 4-5, 9-10,16-17, 20-21, 27-29, 31-33; T. 115 N., R. 80 W., Sec. 2-5, 7-10, 16-20; T. 115 N., R. 81 W., Sec. 6-7, 16-21, 25-30, 32-33, 35-36; T. 115 N., R. 82 W., Sec. 1-4, 9-16, 22-25; T. 116 N., R. 79 W., Sec. 4-9, 17-20, T. 116 N., R. 80 W., Sec. 24-27, 33-35; T. 116 N., R. 82 W., Sec. 33-36; T. 117 N., R. 79 W., Sec. 5-8, 17-18, 20, 29, 32-33,6; T. 118 N., R. 78 W., Sec. 3-10, 16-18, 20-21, 29-30; T. 118 N., R. 79 W., Sec. 1, 12, 20-32; T. 119 N., R. 79 W., Sec. 3-5; T. 119 N., R. 78 W., Sec. 7-9, 17-20, 30-31; T. 119 N., R. 79 W., Sec. 24-25, 36; T. 120 N., R. 78 W., Sec. 2-4, 9-11, 15-17, 20-22, 27-29, 32-34,7; T. 121 N., R. 78 W., Sec. 3-11, 15-18, 20-22, 26-28, 34-35; T. 122 N., R. 78 W., Sec. 3-5, 9, 15-16, 21-22, 27-28, 32-34; T. 123 N., R. 78 W., Sec. 6-8, 18-20, 29-33; T. 123 N., R. 79 W., Sec. 1-3, 11-13, 24-25; T. 124 N., R. 78 W., Sec. 31; T. 124 N., R. 79 W., Sec. 5-7, 18, 29-34; T. 124 N., R. 80 W., Sec. 12-14, 23-26, 35-36; T. 125 N., R. 78 W., Sec. 4-5, 7-8; T. 125 N., R. 79 W., Sec. 9-17, 20-22, 27-29, 32-33,7; T. 126 N., R. 78 W., Sec. 5-8, 17-18, 20-21, 27-29, 32-33; T. 126 N., R. 79 W., Sec. 1, 12; T. 127 N., R. 78 W., Sec. 31; T. 127 N., R. 79 W., Sec. 1-2, 11, 14, 23-26, 36; T. 128 N., R. 78 W., Sec. 16-19, 29-31; T. 128 N., R. 79 W., Sec. 5-9, 13, 16-17, 20-22, 24-29, 35-36; T. 128 N., R. 80 W., Sec. 1-3, 10-12.
+T. 6 N., R. 29 E., Sec. 1-6, 8-11, 14-16, 21-23, 25-27, 35-36; T. 6 N., R. 30 E., Sec. 22-34; T. 6 N., R. 31 E., Sec. 19; T. 7 N., R. 28 E., Sec. 1,T. 7 N., R. 28 E., Sec. 12-13, 36; T. 7 N., R. 29 E., Sec. 5-9, 15-17, 20-28, 31-32, 34-36, 3; T. 7 N., R. 30 E., Sec. 19-20, 29-32; T. 8 N., R. 23 E., Sec. 1; T. 8 N., R. 24 E., Sec. 4-6; T. 8 N., R. 26 E., Sec. 4; T. 8 N., R. 28 E., Sec. 1, 11-14, 23-25; T. 8 N., R. 29 E., Sec. 4-9, 16-20, 29-31; T. 9 N., R. 23 E., Sec. 36; T. 9 N., R. 24 E., Sec. 12-15, 22-28, 31-34, T. 9 N., R. 25 E., Sec. 1-2, 7-18, 20-25, 27; T. 9 N., R. 26 E., Sec. 1-9, 10-23, 26, 28-30, 32-33; T. 9 N., R. 27 E., Sec. 1-12; T. 9 N., R. 28 E., Sec. 3-9, 13-20, 22-26, 35-36; T. 9 N., R. 29 E., Sec. 1-4, 18-20, 29-32; T. 9 N., R. 30 E., Sec. 6; T. 10 N., R. 26 E., Sec. 10, 13, 15-16, 19-20, 22-29, 32-36; T. 10 N., R. 27 E., Sec. 9, 15-16, 21-36; T. 10 N., R. 28 E., Sec. 1-6, 8-17, 19-21, 24, 29-33; T. 10 N., R. 29 E., Sec. 1, 4-9, T. 10 N., R. 29 E., Sec. 12-13, 16-22, 24-25, 27-30, 32-36; T. 10 N., R. 30 E., Sec. 1-12, 14-19, 20, 29, 30-31, T. 10 N., R. 31 E., Sec. 6; T. 11 N., R. 27 E., Sec. 36; T. 11 N., R. 28 E., Sec. 25, 27-36; T. 11 N., R. 29 E., Sec. 24-26, 31, 36; T. 11 N., R. 30 E., Sec. 1-2, 11-14, 23-26, 31-33, 35-36; T. 11 N., R. 31 E., Sec. 30-31; T. 12 N., R. 30 E., Sec. 1-4, 10-14, 22-28, 34-36; T. 12 N., R. 31 E., Sec. 1-7, 10-12, T. 13 N., R. 30 E., Sec. 1, 31-34; T. 13 N., R. 30 E., Sec. 36; T. 13 N., R. 31 E., Sec. 3-10, 16-17, 20-21, 27-28, 30-35; T. 14 N., R. 30 E., Sec. 36; T. 14 N., R. 31 E., Sec. 1-5, 9-11, 14-15, 22-23, 26-28, 31-35; T. 15 N., R. 30 E., Sec. 1; T. 15 N., R. 31 E., Sec. 4-6, 10-11,13-15, 23-27, 32-33, 35-36; T. 16 N., R. 28 E., Sec. 13-14, 21-24, 26-28; T. 16 N., R. 29 E., Sec. 1-3, 7-22, 24, 29-30; T. 16 N., R. 30 E., Sec. 1-13, 16-18, 36; T. 16 N., R. 31 E., Sec. 1-2, 6-8, 10-11, 14-19, 20-22, 27-34; T. 17 N., R. 29 E., Sec. 36; T. 17 N., R. 30 E., Sec. 1, 28, 31, 33-34; T. 17 N., R. 31 E., Sec. 6-8, 16-18, 20-21, 27-28, 33-34; T. 18 N., R. 29 E., Sec. 1-2, 12-13; T. 18 N., R. 30 E., Sec. 18-27, 35-36; T. 18 N., R. 31 E., Sec. 31; T. 19 N., R. 28 E., Sec. 2-6; T. 19 N., R. 29 E., Sec. 1-18, 20-26, 34-36, T. 19 N., R. 30 E., Sec. 4, 7-9, 16-21, 28-32; T. 20 N., R. 27 E., Sec. 25, 36; T. 20 N., R. 28 E., Sec. 24-27, 30-36; T. 20 N., R. 29 E., Sec. 19, 29-32, 34; T. 20 N., R. 30 E., Sec. 22, 24-27,. 32-34, 36; T. 20 N., R. 31 E., Sec. 4-6, 8-9, 16, T. 20 N., R. 31 E., Sec. 19-21, 28-32; T. 21 N., R. 30 E., Sec. 2-4,10-11, 14, 23-26, 36; T. 21 N., R. 31 E., Sec. 31; T. 22 N., R. 29 E., Sec. 1-2, 11-12; T. 22 N., R. 30 E., Sec. 5-8, 14-17, 21-23, 27-28, 33-34, 4; T. 23 N., R. 29 E., Sec. 20-22, 27-28, 33-36; 5; T. 23 N., R. 30 E., Sec. 29-32; T. 107 N., R. 71 W., Sec. 30-32; T. 111 N., R. 80 W., Sec. 1-3, 6; T. 111 N., R. 81 W., Sec. 1-4; T. 112 N., R. 79 W., Sec. 31; T. 112 N., R. 80 W., Sec. 4-9, 17-18, 23, 25-36; T. 112 N., R. 81 W., Sec. 1, 12-15, 22-28, 33-36; T. 113 N., R. 80 W., Sec. 3-4, 9-10, T. 113 N., R. 80 W., Sec. 4, 9, 16-21, 28-34; T. 113 N., R. 81 W., Sec. 5-8, 13, 15-17, 20-29, 34-36; T. 114 N., R. 80 W., Sec. 33-34; T. 114 N., R. 81 W., Sec. 4-5, 9-10,16-17, 20-21, 27-29, 31-33; T. 115 N., R. 80 W., Sec. 2-5, 7-10, 16-20; T. 115 N., R. 81 W., Sec. 6-7, 16-21, 25-30, 32-33, 35-36; T. 115 N., R. 82 W., Sec. 1-4, 9-16, 22-25; T. 116 N., R. 79 W., Sec. 4-9, 17-20, T. 116 N., R. 80 W., Sec. 24-27, 33-35; T. 116 N., R. 82 W., Sec. 33-36; T. 117 N., R. 79 W., Sec. 5-8, 17-18, 20, 29, 32-33, 6; T. 118 N., R. 78 W., Sec. 3-10, 16-18, 20-21, 29-30; T. 118 N., R. 79 W., Sec. 1, 12, 20-32; T. 119 N., R. 79 W., Sec. 3-5; T. 119 N., R. 78 W., Sec. 7-9, 17-20, 30-31; T. 119 N., R. 79 W., Sec. 24-25, 36; T. 120 N., R. 78 W., Sec. 2-4, 9-11, 15-17, 20-22, 27-29, 32-34, 7; T. 121 N., R. 78 W., Sec. 3-11, 15-18, 20-22, 26-28, 34-35; T. 122 N., R. 78 W., Sec. 3-5, 9, 15-16, 21-22, 27-28, 32-34; T. 123 N., R. 78 W., Sec. 6-8, 18-20, 29-33; T. 123 N., R. 79 W., Sec. 1-3, 11-13, 24-25; T. 124 N., R. 78 W., Sec. 31; T. 124 N., R. 79 W., Sec. 5-7, 18, 29-34; T. 124 N., R. 80 W., Sec. 12-14, 23-26, 35-36; T. 125 N., R. 78 W., Sec. 4-5, 7-8; T. 125 N., R. 79 W., Sec. 9-17, 20-22, 27-29, 32-33, 7; T. 126 N., R. 78 W., Sec. 5-8, 17-18, 20-21, 27-29, 32-33; T. 126 N., R. 79 W., Sec. 1, 12; T. 127 N., R. 78 W., Sec. 31; T. 127 N., R. 79 W., Sec. 1-2, 11, 14, 23-26, 36; T. 128 N., R. 78 W., Sec. 16-19, 29-31; T. 128 N., R. 79 W., Sec. 5-9, 13, 16-17, 20-22, 24-29, 35-36; T. 128 N., R. 80 W., Sec. 1-3, 10-12.
 
 3 Undefined—These are “lands” which were not surveyed during the original Government Land Office survey of South Dakota. They are now inundated and appear to fall in what was the described river channel at that time.
 
@@ -8788,7 +8786,7 @@ T. 6 N., R. 29 E., Sec. 1-6, 8-11, 14-16, 21-23, 25-27, 35-36; T. 6 N., R. 30 E.
 
 Approximately 127.8 mi (204.4 km) from RM 880.0, at Fort Randall Dam in Bon Homme (right bank) and Charles Mix Counties (left bank), South Dakota, downstream to RM 752.2 near Ponca in Dixon County, Nebraska (right bank), and Union County, South Dakota (left bank). One mainstem Missouri River reservoir, Lewis and Clark Lake, and two riverine reaches (Fort Randall and Gavins Point) are included in this unit. This unit consists of the following TRS:
 
-T. 90 N., R. 49 W., Sec. 6, T. 90 N., R. 50 W., Sec. 1, T. 90 N., R. 50 W., Sec. 11-14, T. 90 N., R. 50 W., Sec. 23-25, T. 91 N., R. 49 W., Sec. 31, T. 91 N., R. 50 W., Sec. 7, T. 91 N., R. 50 W., Sec. 18-19, T. 91 N., R. 50 W., Sec. 25-26, T. 91 N., R. 50 W., Sec. 28-30, T. 91 N., R. 50 W., Sec. 35-36, T. 91 N., R. 50 W., Sec.8, T. 91 N., R. 51 W., Sec. 3-6, T. 91 N., R. 51 W., Sec. 10-13, T. 91 N., R. 52 W., Sec. 1-3, T. 91 N., R. 52 W., Sec. 10-12, T. 92 N., R. 51 W., Sec. 31-32, T. 92 N., R. 52 W., Sec. 19-21, T. 92 N., R. 52 W., Sec. 26-30, T. 92 N., R. 52 W., Sec. 34-36, T. 92 N., R. 53 W., Sec. 7-8, T. 92 N., R. 53 W., Sec. 17-18, T. 92 N., R. 53 W., Sec. 20-24, T. 92 N., R. 54 W., Sec. 3, T. 92 N., R. 54 W., Sec. 10-12, T. 92 N., R. 60 W., Sec. 1-2, T. 92 N., R. 60 W., Sec. 10-11, T. 92 N., R. 60 W., Sec. 15-17, T. 92 N., R. 60 W., Sec. 19-21, T. 92 N., R. 61 W., Sec. 6-8, T. 92 N., R. 61 W., Sec. 15-17, T. 92 N., R. 61 W., Sec. 21-24, T. 92 N., R. 62 W., Sec. 1-2, T. 93 N., R. 54 W., Sec. 18-21, T. 93 N., R. 54 W., Sec. 27-28, T. 93 N., R. 54 W.,
+T. 90 N., R. 49 W., Sec. 6, T. 90 N., R. 50 W., Sec. 1, T. 90 N., R. 50 W., Sec. 11-14, T. 90 N., R. 50 W., Sec. 23-25, T. 91 N., R. 49 W., Sec. 31, T. 91 N., R. 50 W., Sec. 7, T. 91 N., R. 50 W., Sec. 18-19, T. 91 N., R. 50 W., Sec. 25-26, T. 91 N., R. 50 W., Sec. 28-30, T. 91 N., R. 50 W., Sec. 35-36, T. 91 N., R. 50 W., Sec. 8, T. 91 N., R. 51 W., Sec. 3-6, T. 91 N., R. 51 W., Sec. 10-13, T. 91 N., R. 52 W., Sec. 1-3, T. 91 N., R. 52 W., Sec. 10-12, T. 92 N., R. 51 W., Sec. 31-32, T. 92 N., R. 52 W., Sec. 19-21, T. 92 N., R. 52 W., Sec. 26-30, T. 92 N., R. 52 W., Sec. 34-36, T. 92 N., R. 53 W., Sec. 7-8, T. 92 N., R. 53 W., Sec. 17-18, T. 92 N., R. 53 W., Sec. 20-24, T. 92 N., R. 54 W., Sec. 3, T. 92 N., R. 54 W., Sec. 10-12, T. 92 N., R. 60 W., Sec. 1-2, T. 92 N., R. 60 W., Sec. 10-11, T. 92 N., R. 60 W., Sec. 15-17, T. 92 N., R. 60 W., Sec. 19-21, T. 92 N., R. 61 W., Sec. 6-8, T. 92 N., R. 61 W., Sec. 15-17, T. 92 N., R. 61 W., Sec. 21-24, T. 92 N., R. 62 W., Sec. 1-2, T. 93 N., R. 54 W., Sec. 18-21, T. 93 N., R. 54 W., Sec. 27-28, T. 93 N., R. 54 W.,
 
 8 Undefined—These are “lands” which were not surveyed during the original Government Land Office survey of South Dakota. They are now inundated and appear to fall in what was the described river channel at that time.
 
@@ -9300,25 +9298,25 @@ Map follows:
 
 California, Inyo County: lands within and adjacent to the China Lake Naval Weapons Center identified as follows:
 
-(1) Approximately 2.0 miles of streambed and1/8 mile on either side of the wash from Margaret Ann Spring and proceeding downstream to the eastern boundary of Section 3 near Snooky Spring. The above includes portions of Sections 3, 4, 9, and 10, T23S R42E. (Map location A)
+(1) Approximately 2.0 miles of streambed and 1/8 mile on either side of the wash from Margaret Ann Spring and proceeding downstream to the eastern boundary of Section 3 near Snooky Spring. The above includes portions of Sections 3, 4, 9, and 10, T23S R42E. (Map location A)
 
-(2) A circle1/8 mile in radius with the spring in T23S R42E W1/2 NE1/4 Section 8 as the center. (Map location B)
+(2) A circle 1/8 mile in radius with the spring in T23S R42E W1/2 NE1/4 Section 8 as the center. (Map location B)
 
-(3) Approximately 2 miles of streambed and1/8 mile on either side of the wash from Ruby Spring (T23S R42E, Section 22) and proceeding downstream to the boundary between Sections 25 and 26. The above includes portions of Sections 22, 23, 25, and 26, T23S R42E. (Map location C)
+(3) Approximately 2 miles of streambed and 1/8 mile on either side of the wash from Ruby Spring (T23S R42E, Section 22) and proceeding downstream to the boundary between Sections 25 and 26. The above includes portions of Sections 22, 23, 25, and 26, T23S R42E. (Map location C)
 
-(4) A circle1/8 mile in radius with Quail Spring as the center in T23S R42E, NE1/4 Section 28. (Map location D)
+(4) A circle 1/8 mile in radius with Quail Spring as the center in T23S R42E, NE1/4 Section 28. (Map location D)
 
-(5) A circle1/8 mile in radius with Benko Spring as the center in T23S R42E, Sections 34 and 35. (Map location E)
+(5) A circle 1/8 mile in radius with Benko Spring as the center in T23S R42E, Sections 34 and 35. (Map location E)
 
-(6) A circle1/8 mile in radius with Bench Mark 5485 (some USGS maps report this as 5484) near the common boundary of Sections 31 and 32, T23S R42E, as the center and lying within Sections 31 and 32. (Map location F)
+(6) A circle 1/8 mile in radius with Bench Mark 5485 (some USGS maps report this as 5484) near the common boundary of Sections 31 and 32, T23S R42E, as the center and lying within Sections 31 and 32. (Map location F)
 
 (7) T24S R42E, NW1/4 NW1/4 Section 2 and NE1/4 NE1/4 Section 3. (Map location G)
 
 (8) T24S R42E, E1/2 SE1/4 Section 6. (Map located H)
 
-(9) Approximately 1.8 miles of streambed and1/8 mile on either side of Great Falls Basin Wash commencing from the western boundary of E1/2 Section 11, T24S R42E, and proceeding downstream along the streambed to the eastern boundary of Section 13. The above includes portions of Sections 11, 12, 13, and 14, T24S R42E. (Map location I)
+(9) Approximately 1.8 miles of streambed and 1/8 mile on either side of Great Falls Basin Wash commencing from the western boundary of E1/2 Section 11, T24S R42E, and proceeding downstream along the streambed to the eastern boundary of Section 13. The above includes portions of Sections 11, 12, 13, and 14, T24S R42E. (Map location I)
 
-(10) Circles with1/8 mile radii around Mumford and Austin Springs in T24S R43E, Section 7 and Bainter Spring in Section 18 and around Indian Joe Spring in T24S R42E Section 24. (Map locations J)
+(10) Circles with 1/8 mile radii around Mumford and Austin Springs in T24S R43E, Section 7 and Bainter Spring in Section 18 and around Indian Joe Spring in T24S R42E Section 24. (Map locations J)
 
 Note:
 
@@ -9326,7 +9324,7 @@ The map provided is for informational purposes only.
 
 ![](/graphics/ec01jn91.039.gif)
 
-(11) Approximately 5 miles of streambed and1/8 mile on either side of Mountain Springs Canyon commencing from the southern border of Section 8 and continuing along the streambed to the point at which Mountain Springs Canyon Wash intersects the eastern boundary of SW1/4 Section 12. The above includes portions of Sections 8, 9, 10, 11, 12, 13, 14, and 17, T23S R41E. (Map location K)
+(11) Approximately 5 miles of streambed and 1/8 mile on either side of Mountain Springs Canyon commencing from the southern border of Section 8 and continuing along the streambed to the point at which Mountain Springs Canyon Wash intersects the eastern boundary of SW1/4 Section 12. The above includes portions of Sections 8, 9, 10, 11, 12, 13, 14, and 17, T23S R41E. (Map location K)
 
 Note:
 
@@ -9930,7 +9928,7 @@ San Bernardino Meridian: T. 6 N., R. 1 E., secs. 1-6, 10-15, 22-27, and 34-36; T
 
 4. *Chuckwalla Unit.* Imperial and Riverside Counties. From BLM Maps: Chuckwalla #18 1978, Parker-Blythe #16 1978, Salton Sea #20 1978, and Midway Well #21 1979. (Index map location D).
 
-San Bernardino Meridian: T. 3 S., R. 13 E., secs. 19-21 and 27-35; T. 4 S., R. 8 E., secs. 1-6, 8-16, 22-26, and 36; T. 4 S., R. 9 E., secs. 6-10, and 15-36; T. 4 S., R. 10 E., secs. 19-21, and 27-34; T. 4 S., R. 13 E., secs. 2-36 except secs. 12 and 13; T. 4 S., R. 14 E., secs. 27-36; T. 4 S., R. 15 E., secs. 31 and 32; T. 5 S., R. 9 E., secs. 1-4, 12, 13, and 24; T. 5 S., R. 10 E., secs. 2-36 except sec. 31; T. 5 S., R. 11 E., secs. 19-21 and 28-33; T. 5 S., R. 12 E., sec. 36; T. 5 S., R. 13 E., secs. 1-36 except secs. 6 and 7; T. 5 S., R. 14 E.; T. 5 S., R. 15 E., secs. 4-9, 16-21, 25, S1/2 sec. 26, S1/2 sec. 27, and secs. 28-36; T. 5 S., R. 16 E., secs. 28-35; T. 6 S., R. 10 E., secs. 1-4, 9-16, 21-26, 35 and 36; T. 6 S., R. 11 E., secs. 4-36; T. 6 S., R. 12 E.; T. 6 S., R. 13 E.; T. 6 S., R. 14 E.; T. 6 S., R. 15 E.; T. 6 S., R. 16 E.; T. 6 S., R. 17 E., secs. 5-9, and 14-36; T. 6 S., R. 18 E., secs. 29-36; T. 6 S., R. 19 E., secs. 31-36; T. 6 S., R. 20 E., secs. 31-34; T. 7 S., R. 11 E., sec. 1; T. 7 S., R. 12 E., secs. 1-6, 9-15, and 23-25; T. 7 S., R. 13 E., secs. 1-30 and 31-36; T. 7 S., R. 14 E.; T. 7 S., R. 15 E.; T. 7 S., R. 16 E.; T. 7 S., R. 17 E.; T. 7 S., R. 18 E.; T. 7 S., R. 19 E.; T. 7 S., R. 20 E., secs. 3-10, 14-23, and 26-35; T. 8 S., R. 13 E., secs. 1, 2, and 11-14; T. 8 S., R. 14 E., secs. 1-18, and secs. 21-26; T. 8 S., R. 15 E., secs. 1-30 and 34-36; T. 8 S., R. 16 E.; T. 8 S., R. 17 E.; T. 8 S., R. 18 E.; T. 8 S., R. 19 E.; T. 8 S., R. 20 E., secs. 3-10, 15-22, and 28-33; T. 9 S., R. 15 E., sec. 1; T. 9 S., R. 16 E., secs. 1-17, 20-29, and 32-36; T. 9 S., R. 17 E.; T. 9 S., R. 18 E.; T. 9 S., R. 19 E.; T. 9 S., R. 20 E., secs. 5-8, 17-20, and 29-33; T. 10 S., R. 16 E., secs. 1-5, 9-16, and 22-26; T. 10 S., R. 17 E.; T. 10 S., R. 18 E.; T. 10 S., R. 19 E.; T. 10 S., R. 20 E., secs. 3-36; T. 10 S., R. 21 E., secs. 18-21 and 28-34; T. 101/2 S., R. 21 E., secs. 31-33; T. 11 S., R. 17 E., secs. 1-5 and 8-15; T. 11 S., R. 18 E., secs. 1-24; T. 11 S., R. 19 E., secs. 1-26, 35, and 36; T. 11 S., R. 20 E., secs. 1-23 and 26-34; T. 11 S., R. 21 E., secs. 4-8; T. 12 S., R. 19 E., secs. 1, 2, 11-14, 23-26, 35, and 36; T. 12 S., R. 20 E., secs. 3-10, 15-22, and 27-34; T. 13 S., R. 19 E., secs. 1, 2, 11, 12, 22-27, and 34-36; T. 13 S., R. 20 E., secs. 3-10, 14-23, and 26-34.
+San Bernardino Meridian: T. 3 S., R. 13 E., secs. 19-21 and 27-35; T. 4 S., R. 8 E., secs. 1-6, 8-16, 22-26, and 36; T. 4 S., R. 9 E., secs. 6-10, and 15-36; T. 4 S., R. 10 E., secs. 19-21, and 27-34; T. 4 S., R. 13 E., secs. 2-36 except secs. 12 and 13; T. 4 S., R. 14 E., secs. 27-36; T. 4 S., R. 15 E., secs. 31 and 32; T. 5 S., R. 9 E., secs. 1-4, 12, 13, and 24; T. 5 S., R. 10 E., secs. 2-36 except sec. 31; T. 5 S., R. 11 E., secs. 19-21 and 28-33; T. 5 S., R. 12 E., sec. 36; T. 5 S., R. 13 E., secs. 1-36 except secs. 6 and 7; T. 5 S., R. 14 E.; T. 5 S., R. 15 E., secs. 4-9, 16-21, 25, S 1/2 sec. 26, S 1/2 sec. 27, and secs. 28-36; T. 5 S., R. 16 E., secs. 28-35; T. 6 S., R. 10 E., secs. 1-4, 9-16, 21-26, 35 and 36; T. 6 S., R. 11 E., secs. 4-36; T. 6 S., R. 12 E.; T. 6 S., R. 13 E.; T. 6 S., R. 14 E.; T. 6 S., R. 15 E.; T. 6 S., R. 16 E.; T. 6 S., R. 17 E., secs. 5-9, and 14-36; T. 6 S., R. 18 E., secs. 29-36; T. 6 S., R. 19 E., secs. 31-36; T. 6 S., R. 20 E., secs. 31-34; T. 7 S., R. 11 E., sec. 1; T. 7 S., R. 12 E., secs. 1-6, 9-15, and 23-25; T. 7 S., R. 13 E., secs. 1-30 and 31-36; T. 7 S., R. 14 E.; T. 7 S., R. 15 E.; T. 7 S., R. 16 E.; T. 7 S., R. 17 E.; T. 7 S., R. 18 E.; T. 7 S., R. 19 E.; T. 7 S., R. 20 E., secs. 3-10, 14-23, and 26-35; T. 8 S., R. 13 E., secs. 1, 2, and 11-14; T. 8 S., R. 14 E., secs. 1-18, and secs. 21-26; T. 8 S., R. 15 E., secs. 1-30 and 34-36; T. 8 S., R. 16 E.; T. 8 S., R. 17 E.; T. 8 S., R. 18 E.; T. 8 S., R. 19 E.; T. 8 S., R. 20 E., secs. 3-10, 15-22, and 28-33; T. 9 S., R. 15 E., sec. 1; T. 9 S., R. 16 E., secs. 1-17, 20-29, and 32-36; T. 9 S., R. 17 E.; T. 9 S., R. 18 E.; T. 9 S., R. 19 E.; T. 9 S., R. 20 E., secs. 5-8, 17-20, and 29-33; T. 10 S., R. 16 E., secs. 1-5, 9-16, and 22-26; T. 10 S., R. 17 E.; T. 10 S., R. 18 E.; T. 10 S., R. 19 E.; T. 10 S., R. 20 E., secs. 3-36; T. 10 S., R. 21 E., secs. 18-21 and 28-34; T. 10 1/2 S., R. 21 E., secs. 31-33; T. 11 S., R. 17 E., secs. 1-5 and 8-15; T. 11 S., R. 18 E., secs. 1-24; T. 11 S., R. 19 E., secs. 1-26, 35, and 36; T. 11 S., R. 20 E., secs. 1-23 and 26-34; T. 11 S., R. 21 E., secs. 4-8; T. 12 S., R. 19 E., secs. 1, 2, 11-14, 23-26, 35, and 36; T. 12 S., R. 20 E., secs. 3-10, 15-22, and 27-34; T. 13 S., R. 19 E., secs. 1, 2, 11, 12, 22-27, and 34-36; T. 13 S., R. 20 E., secs. 3-10, 14-23, and 26-34.
 
 ![](/graphics/ec01jn91.063.gif)
 
@@ -9962,13 +9960,13 @@ Nevada. Areas of land as follows:
 
 9. *Piute-Eldorado Unit.* Clark County. From BLM Maps: Mesquite Lake 1990, Boulder City 1978, Ivanpah 1979, and Davis Dam 1979. (Index map location H).
 
-Mt. Diablo Meridian: T. 23 S., R. 64 E., secs. 31-36 except that portion of sec. 31 lying northwesterly of the powerline and also except those portions of secs. 34-36 lying northeasterly of the powerline; T. 231/2 S., R. 64 E., secs. 31-36 except that portion of sec. 31 lying northwesterly of the powerline; T. 231/2 S., R. 65 E., that portion of sec. 31 lying southwesterly of the powerline; T. 24 S., R. 63 E., secs. 1, 2, 11-15, 22-28, and 33-36 except those portions of secs. 1, 2, 11, 14, and 15 lying northwesterly of the powerline and those portions of secs. 22, 27, 28, and 33 lying northwesterly of U.S. Hwy. 95; T. 24 S., R. 64 E.; T. 24 S., R. 65 E., secs. 6, 7, 18, 19, 30, and 31; T. 25 S., R. 61 E., secs. 13-15, E1/2 sec. 16, E1/2 sec. 21, secs. 22-27, E1/2 sec. 28, secs. 35 and 36; T. 25 S., R. 62 E., secs. 4-9, and secs. 16-36; T. 25 S., R. 63 E., secs. 1-4, 9-16, and 19-36 except those portions of secs. 4, 9, and 16 lying northwesterly of U.S. Hwy. 95; T. 25 S., R. 64 E., secs. 1-35 except secs. 13, 24, and 25,; T. 25 S. R. 65 E., sec. 6; T. 26 S., R. 61 E., secs. 1, 2, 11-14, 24, 25, and 36; T. 26 S., R. 62 E., secs. 1-36 except secs. 28 and 33; T. 26 S., R. 63 E., secs. 2-36 except sec. 12; T. 26 S., R. 64 E., secs. 18-20, and 29-33; T. 27 S., R. 62 E., secs. 1-3, 5-8, 10-15, 22-26, 35, and 36; T. 27 S., R. 621/2 E., secs. 1, 12, 13, 24, 25, and 36; T. 27 S., R. 63 E.; T. 27 S., R. 64 E., secs. 4-9, 16-21, and 26-36; T. 27 S., R. 65 E., secs. 31-35; T. 28 S., R. 62 E., secs. 1-3, 9-16, 21-28, and 33-36; T. 28 S., R. 63 E., secs. 1-20, and 29-32; T. 28 S., R. 64 E., secs. 1-18, 21-26, 35, and 36; T. 28 S., R. 65 E., secs. 2-11, 14-21, and 28-35; T. 29 S., R. 62 E., secs. 1-4, 9-16, 21-28, 34, 35 and 36; T. 29 S., R. 63 E., secs. 5-10, 15-23, and 26-36; T. 29 S., R. 64 E., secs. 1-3, 9-16, 21-28, and 31-36; T. 29 S., R. 65 E., secs. 2-36 except secs. 12 and 13; T. 29 S., R. 66 E., secs. 30-32; T. 30 S., R. 62 E., secs. 1, 2, and 11-14; T. 30 S., R. 63 E., secs. 1-36 except secs. 30 and 31; T. 30 S., R. 64 E.; T. 30 S., R. 65 E., secs. 1-26, 30, 31, 35, and 36; T. 30 S., R. 66 E., secs. 4-9, 16-21, and 28-33; T. 31 S., R. 63 E., secs. 1-5, 8-16, 22-26, and 36; T. 31 S., R. 64 E.; T. 31 S., R. 65 E., secs. 1, 2, 6, 11-14, and 23-36 except that portion of sec. 36 lying southwesterly of State Hwy. 163; T. 31 S., R. 66 E., secs. 3-10, 15-22, and 27-34 except that portion of sec. 31 lying southwesterly of State Hwy. 163; T. 32 S., R. 64 E., secs. 1-6, 8-16, 22-26, and 36; T. 32 S., R. 65 E., secs. 1-12, 17-20, and 29-32 except those portions of secs. 1 and 9-12 lying southeasterly or easterly of State Hwy. 163; T. 32 S., R. 66 E., those portions of secs. 3-6 lying northerly of State Hwy. 163; T. 33 S., R. 65 E., sec. 5.
+Mt. Diablo Meridian: T. 23 S., R. 64 E., secs. 31-36 except that portion of sec. 31 lying northwesterly of the powerline and also except those portions of secs. 34-36 lying northeasterly of the powerline; T. 23 1/2 S., R. 64 E., secs. 31-36 except that portion of sec. 31 lying northwesterly of the powerline; T. 23 1/2 S., R. 65 E., that portion of sec. 31 lying southwesterly of the powerline; T. 24 S., R. 63 E., secs. 1, 2, 11-15, 22-28, and 33-36 except those portions of secs. 1, 2, 11, 14, and 15 lying northwesterly of the powerline and those portions of secs. 22, 27, 28, and 33 lying northwesterly of U.S. Hwy. 95; T. 24 S., R. 64 E.; T. 24 S., R. 65 E., secs. 6, 7, 18, 19, 30, and 31; T. 25 S., R. 61 E., secs. 13-15, E 1/2 sec. 16, E 1/2 sec. 21, secs. 22-27, E 1/2 sec. 28, secs. 35 and 36; T. 25 S., R. 62 E., secs. 4-9, and secs. 16-36; T. 25 S., R. 63 E., secs. 1-4, 9-16, and 19-36 except those portions of secs. 4, 9, and 16 lying northwesterly of U.S. Hwy. 95; T. 25 S., R. 64 E., secs. 1-35 except secs. 13, 24, and 25,; T. 25 S. R. 65 E., sec. 6; T. 26 S., R. 61 E., secs. 1, 2, 11-14, 24, 25, and 36; T. 26 S., R. 62 E., secs. 1-36 except secs. 28 and 33; T. 26 S., R. 63 E., secs. 2-36 except sec. 12; T. 26 S., R. 64 E., secs. 18-20, and 29-33; T. 27 S., R. 62 E., secs. 1-3, 5-8, 10-15, 22-26, 35, and 36; T. 27 S., R. 62 1/2 E., secs. 1, 12, 13, 24, 25, and 36; T. 27 S., R. 63 E.; T. 27 S., R. 64 E., secs. 4-9, 16-21, and 26-36; T. 27 S., R. 65 E., secs. 31-35; T. 28 S., R. 62 E., secs. 1-3, 9-16, 21-28, and 33-36; T. 28 S., R. 63 E., secs. 1-20, and 29-32; T. 28 S., R. 64 E., secs. 1-18, 21-26, 35, and 36; T. 28 S., R. 65 E., secs. 2-11, 14-21, and 28-35; T. 29 S., R. 62 E., secs. 1-4, 9-16, 21-28, 34, 35 and 36; T. 29 S., R. 63 E., secs. 5-10, 15-23, and 26-36; T. 29 S., R. 64 E., secs. 1-3, 9-16, 21-28, and 31-36; T. 29 S., R. 65 E., secs. 2-36 except secs. 12 and 13; T. 29 S., R. 66 E., secs. 30-32; T. 30 S., R. 62 E., secs. 1, 2, and 11-14; T. 30 S., R. 63 E., secs. 1-36 except secs. 30 and 31; T. 30 S., R. 64 E.; T. 30 S., R. 65 E., secs. 1-26, 30, 31, 35, and 36; T. 30 S., R. 66 E., secs. 4-9, 16-21, and 28-33; T. 31 S., R. 63 E., secs. 1-5, 8-16, 22-26, and 36; T. 31 S., R. 64 E.; T. 31 S., R. 65 E., secs. 1, 2, 6, 11-14, and 23-36 except that portion of sec. 36 lying southwesterly of State Hwy. 163; T. 31 S., R. 66 E., secs. 3-10, 15-22, and 27-34 except that portion of sec. 31 lying southwesterly of State Hwy. 163; T. 32 S., R. 64 E., secs. 1-6, 8-16, 22-26, and 36; T. 32 S., R. 65 E., secs. 1-12, 17-20, and 29-32 except those portions of secs. 1 and 9-12 lying southeasterly or easterly of State Hwy. 163; T. 32 S., R. 66 E., those portions of secs. 3-6 lying northerly of State Hwy. 163; T. 33 S., R. 65 E., sec. 5.
 
 ![](/graphics/ec01jn91.068.gif)
 
 10. *Mormon Mesa Unit.* Clark and Lincoln Counties. From BLM Maps: Pahranagat 1978, Clover Mts. 1978, Overton 1978, Indian Springs 1979, Lake Mead 1979, and Las Vegas 1986. (Index map location I).
 
-Mt. Diablo Meridian: T. 9 S., R. 62 E., secs. 13-15, 22-27, and 34-36 except those portions of secs. 15, 22, 27, and 34 lying westerly of the easterly boundary line of the Desert National Wildlife Range; T. 9 S., R. 63 E., secs. 18, 19, 30, and 31; T. 10 S., R. 62 E., secs. 1, 2, 11-14, 23-25, and 36 except those portions of secs. 14, 23, 35, and 36 lying westerly of the easterly boundary line of the Desert National Wildlife Range; T. 10 S., R. 63 E., secs. 6, 7, 13-15, 18-20, and 22-36; T. 10 S., R. 64 E., secs. 13-24 and 26-34; T. 10 S., R. 65 E., secs. 18, and 19; T. 11 S., R. 62 E., that portion of sec. 1 lying easterly of the easterly boundary line of the Desert National Wildlife Range; T. 11 S., R. 63 E.; T. 11 S., R. 64 E., secs. 4-9, 17-20, 30, and 31; T. 11 S., R. 66 E., secs. 31-36; T. 12 S., R. 63 E.; T. 12 S., R. 64 E., secs. 6, 7, and 25-36; T. 12 S., R. 65 E., secs. 1, 12, 13, and 24-36 except those portions of secs. 1, 2, 13, and 24 lying westerly of Union Pacific Railroad; T. 12 S., R. 66 E.; T. 12 S., R. 67 E., secs. 6-8, 16-22, and 27-33; T. 12 S., R. 68 E., secs. 23-29 and 31-36; T. 12 S., R. 69 E., secs. 1-5, 8-17, and 19-36; T. 121/2 S., R. 62 E., that portion of sec. 36 lying easterly of the easterly boundary line of the Desert National Wildlife Range; T. 13 S., R. 62 E., those portions of secs. 1, 12, 13, 24, and 25 lying easterly of the easterly line of the Desert National Wildlife Range; T. 13 S., R. 63 E.; T. 13 S., R. 64 E.; T. 13 S., R. 65 E., secs. 1-24, N1/2 26, N1/2 27, N1/2 and SW1/4 sec. 28, 29-32, and W1/2 33; T. 13 S., R. 66 E., secs. 1-26, W1/2 sec. 27, 35, and 36; T. 13 S., R. 67 E.; T. 13 S., R. 68 E., secs. 1-36 except those portions of secs. 25 and 33-36 lying southeasterly of Interstate Hwy. 15; T. 13 S., R. 69 E., secs. 1-30 except those portions of secs. 25-30 lying southerly of Interstate Hwy. 15; T. 13 S., R. 70 E., secs. 6, 7, 18, 19, 30, and 31 except those portions of secs. 30 and 31 lying southerly of Interstate Hwy. 15; T. 131/2 S., R. 63 E., secs. 31-36; T. 131/2 S., R. 64 E., secs. 31-36 except that portion of sec. 36 lying southwesterly of State Hwy. 168; T. 14 S., R. 63 E., secs. 1-23, and 26-35; T. 14 S., R. 64 E., secs. 2-6, 8-11, 15, and 16; T. 14 S., R. 66 E., secs. 1, E1/2 sec. 2, 12, E1/2 sec. 13, and E1/2 sec. 24; T. 14 S., R. 67 E., secs. 1-12 and 14-22 except those portions of secs. 12, 14, 15, 21, and 22 lying southerly of Interstate Hwy. 15; T. 14 S., R. 68 E., those portions of secs. 4-7 lying northwesterly of Interstate Hwy. 15; T. 15 S., R. 63 E., secs. 2-11, 14-22, and 27-34; T. 16 S., R. 63 E., secs. 3-10, 15-22, and 28-33; T. 17 S., R. 63 E., secs. 7-9, 16-21, and 28-32 except those portions of secs. 29 and 32 lying easterly of the westerly boundary line of the Apex Disposal Road; T. 18 S., R. 63 E., secs. 5-8, 17-19, and 29-31 except those portions of secs. 5, 8, 17-19, and 29-31 lying easterly of the westerly boundary line of the Apex Disposal Road and that portion of sec. 31 lying westerly of the easterly boundary line of Desert National Wildlife Range.
+Mt. Diablo Meridian: T. 9 S., R. 62 E., secs. 13-15, 22-27, and 34-36 except those portions of secs. 15, 22, 27, and 34 lying westerly of the easterly boundary line of the Desert National Wildlife Range; T. 9 S., R. 63 E., secs. 18, 19, 30, and 31; T. 10 S., R. 62 E., secs. 1, 2, 11-14, 23-25, and 36 except those portions of secs. 14, 23, 35, and 36 lying westerly of the easterly boundary line of the Desert National Wildlife Range; T. 10 S., R. 63 E., secs. 6, 7, 13-15, 18-20, and 22-36; T. 10 S., R. 64 E., secs. 13-24 and 26-34; T. 10 S., R. 65 E., secs. 18, and 19; T. 11 S., R. 62 E., that portion of sec. 1 lying easterly of the easterly boundary line of the Desert National Wildlife Range; T. 11 S., R. 63 E.; T. 11 S., R. 64 E., secs. 4-9, 17-20, 30, and 31; T. 11 S., R. 66 E., secs. 31-36; T. 12 S., R. 63 E.; T. 12 S., R. 64 E., secs. 6, 7, and 25-36; T. 12 S., R. 65 E., secs. 1, 12, 13, and 24-36 except those portions of secs. 1, 2, 13, and 24 lying westerly of Union Pacific Railroad; T. 12 S., R. 66 E.; T. 12 S., R. 67 E., secs. 6-8, 16-22, and 27-33; T. 12 S., R. 68 E., secs. 23-29 and 31-36; T. 12 S., R. 69 E., secs. 1-5, 8-17, and 19-36; T. 121/2 S., R. 62 E., that portion of sec. 36 lying easterly of the easterly boundary line of the Desert National Wildlife Range; T. 13 S., R. 62 E., those portions of secs. 1, 12, 13, 24, and 25 lying easterly of the easterly line of the Desert National Wildlife Range; T. 13 S., R. 63 E.; T. 13 S., R. 64 E.; T. 13 S., R. 65 E., secs. 1-24, N 1/2 26, N 1/2 27, N 1/2 and SW 1/4 sec. 28, 29-32, and W 1/2 33; T. 13 S., R. 66 E., secs. 1-26, W 1/2 sec. 27, 35, and 36; T. 13 S., R. 67 E.; T. 13 S., R. 68 E., secs. 1-36 except those portions of secs. 25 and 33-36 lying southeasterly of Interstate Hwy. 15; T. 13 S., R. 69 E., secs. 1-30 except those portions of secs. 25-30 lying southerly of Interstate Hwy. 15; T. 13 S., R. 70 E., secs. 6, 7, 18, 19, 30, and 31 except those portions of secs. 30 and 31 lying southerly of Interstate Hwy. 15; T. 131/2 S., R. 63 E., secs. 31-36; T. 131/2 S., R. 64 E., secs. 31-36 except that portion of sec. 36 lying southwesterly of State Hwy. 168; T. 14 S., R. 63 E., secs. 1-23, and 26-35; T. 14 S., R. 64 E., secs. 2-6, 8-11, 15, and 16; T. 14 S., R. 66 E., secs. 1, E 1/2 sec. 2, 12, E 1/2 sec. 13, and E 1/2 sec. 24; T. 14 S., R. 67 E., secs. 1-12 and 14-22 except those portions of secs. 12, 14, 15, 21, and 22 lying southerly of Interstate Hwy. 15; T. 14 S., R. 68 E., those portions of secs. 4-7 lying northwesterly of Interstate Hwy. 15; T. 15 S., R. 63 E., secs. 2-11, 14-22, and 27-34; T. 16 S., R. 63 E., secs. 3-10, 15-22, and 28-33; T. 17 S., R. 63 E., secs. 7-9, 16-21, and 28-32 except those portions of secs. 29 and 32 lying easterly of the westerly boundary line of the Apex Disposal Road; T. 18 S., R. 63 E., secs. 5-8, 17-19, and 29-31 except those portions of secs. 5, 8, 17-19, and 29-31 lying easterly of the westerly boundary line of the Apex Disposal Road and that portion of sec. 31 lying westerly of the easterly boundary line of Desert National Wildlife Range.
 
 ![](/graphics/ec01jn91.069.gif)
 
@@ -14484,7 +14482,7 @@ Arizona, Santa Cruz County. An area of land and water in the Coronado National F
 
 3. Penasco Creek, including a riparian zone 25 feet wide along each side of the creek, from its confluence with Sycamore Creek (SW1/4 of the SW1/4 of sec. 23, T. 23 S.; R. 11 E.) upstream approximately 11/4 miles to the east boundary of sec. 26, T. 23 S. R. 11 E.;
 
-4. An unnamed tributary to Sycamore Creek, from its confluence with Sycamore Creek (SW1/4 of the NW1/4 of sec. 23, T. 23 S.; R. 11 E.) upstream approximately1/4 mile to the west boundary of the NE1/4 of the SE1/4 of the NE1/4 sec. 22, T. 23 S.; R. 11 E.
+4. An unnamed tributary to Sycamore Creek, from its confluence with Sycamore Creek (SW1/4 of the NW1/4 of sec. 23, T. 23 S.; R. 11 E.) upstream approximately 1/4 mile to the west boundary of the NE1/4 of the SE1/4 of the NE1/4 sec. 22, T. 23 S.; R. 11 E.
 
 Note:
 
@@ -16226,7 +16224,7 @@ The map provided is for informational purposes only. Map follows:
 
 ![](/graphics/ec01jn91.116.gif)California: Imperial County.
 
-1. *San Felipe Creek.* Approximately 81/2 stream miles and 100 feet on either side of San Felipe Creek or the stream channel commencing at the State Highway 86 bridge crossing (approximately1/4 mile south of intersection of Hwy. 78 and Hwy. 86) upstream to the eastern boundary of Section 31, T12S; R10E; including those areas of the stream channel in: T12S; R11E; Section 17, 18, and 19; T12S; R10E; Section 22, 23, 24, 26, 27, 28, 29, and 32.
+1. *San Felipe Creek.* Approximately 81/2 stream miles and 100 feet on either side of San Felipe Creek or the stream channel commencing at the State Highway 86 bridge crossing (approximately 1/4 mile south of intersection of Hwy. 78 and Hwy. 86) upstream to the eastern boundary of Section 31, T12S; R10E; including those areas of the stream channel in: T12S; R11E; Section 17, 18, and 19; T12S; R10E; Section 22, 23, 24, 26, 27, 28, 29, and 32.
 
 2. *Carrizo Wash.* Approximately 13/4 stream miles and 100 feet on either side of or the stream channel commencing at the confluence of Carrizo Wash with San Felipe Creek upstream to the southern boundary of N1/2 Section 33; T12S; R10E; including those areas of the stream channel in T12S; R10E; Section 27, 28, and N1/2 Section 33.
 
@@ -16290,7 +16288,7 @@ The map provided is for informational purposes only. Map follows:
 
 ![](/graphics/ec01jn91.120.gif)Pecos Bluntnose Shiner (*Notropis simus pecosensis*).
 
-1. New Mexico: De Baca and Chaves Counties. Pecos River from point at the north boundary of NE1/4 Sec. 2; T1N; R26E (approximately 10 mi. (16 km.) south of Fort Sumner) extending downstream approximately 64 mi. (103 km.) to a point at the south boundary SW1/4 Sec. 35; T5S; R25E.
+1. New Mexico: De Baca and Chaves Counties. Pecos River from point at the north boundary of NE 1/4 Sec. 2; T1N; R26E (approximately 10 mi. (16 km.) south of Fort Sumner) extending downstream approximately 64 mi. (103 km.) to a point at the south boundary SW 1/4 Sec. 35; T5S; R25E.
 
 Note:
 
@@ -16298,13 +16296,13 @@ The map provided is for informational purposes only. Map follows:
 
 ![](/graphics/ec01jn91.121.gif)
 
-2. New Mexico. Chaves and Eddy Counties. Pecos River from the west boundary NW1/4 Sec. 7; T14S; R27E, extending downstream approximately 37 mi. (60 km.) to the NW1/4 Sec. 18; T17S; R27E (to the U.S. highway 82 bridge near Artesia).
+2. New Mexico. Chaves and Eddy Counties. Pecos River from the west boundary NW 1/4 Sec. 7; T14S; R27E, extending downstream approximately 37 mi. (60 km.) to the NW 1/4 Sec. 18; T17S; R27E (to the U.S. highway 82 bridge near Artesia).
 
 Note:
 
 The map provided is for informational purposes only. Map follows:
 
-![](/graphics/ec01jn91.122.gif)Constituent elements include clean, permanent water; a main river channel habitat with sandy substrate; and a low velocity flow.Sharpnose Shiner (*Notropis oxyrhynchus*)
+![](/graphics/ec01jn91.122.gif)Constituent elements include clean, permanent water; a main river channel habitat with sandy substrate; and a low velocity flow. Sharpnose Shiner (*Notropis oxyrhynchus*)
 
 (1) Critical habitat units are depicted for Baylor, Crosby, Fisher, Garza, Haskell, Kent, King, Knox, Stonewall, Throckmorton, and Young Counties, Texas, on the maps below.
 
@@ -16834,7 +16832,7 @@ The map provided is for informational purposes only. Map follows:
 
 Arizona:
 
-1. Coconino County. East Clear Creek; approximately 18 miles of stream extending from the confluence with Leonard Canyon (NE1/4 Sec. 11 T14N R12E) upstream to the Blue Ridge Reservoir dam (SE1/4 Sec. 33 T14N R11E), and approximately 13 miles of stream extending from the upper end of Blue Ridge Reservoir (east boundary SE1/4 Sec. 36 T14N R10E) upstream to Potato Lake (NE1/4 Sec. 1 T12N R9E).
+1. Coconino County. East Clear Creek; approximately 18 miles of stream extending from the confluence with Leonard Canyon (NE 1/4 Sec. 11 T14N R12E) upstream to the Blue Ridge Reservoir dam (SE 1/4 Sec. 33 T14N R11E), and approximately 13 miles of stream extending from the upper end of Blue Ridge Reservoir (east boundary SE 1/4 Sec. 36 T14N R10E) upstream to Potato Lake (NE 1/4 Sec. 1 T12N R9E).
 
 Note:
 
@@ -16864,9 +16862,9 @@ White River Spinedace (*Lepidomeda albivallis*)
 
 Nevada, White Pine County. Each of the following springs and outflows plus surrounding land areas for a distance of 50 feet from these springs and outflows:
 
-Preston Big Spring and associated outflows within T12N, R61E, NE1/4 Sec. 2.
+Preston Big Spring and associated outflows within T12N, R61E, NE 1/4 Sec. 2.
 
-Lund Spring and associated outflows within T11N, R62E, NE1/4 of NE1/4 of Sec. 4; T12N, R62E, S1/2 of SE1/4 Sec. 33.
+Lund Spring and associated outflows within T11N, R62E, NE 1/4 of NE 1/4 of Sec. 4; T12N, R62E, S 1/2 of SE 1/4 Sec. 33.
 
 Note:
 
@@ -16874,7 +16872,7 @@ The map provided is for informational purposes only. Map follows:
 
 ![](/graphics/ec01jn91.132.gif)
 
-Nevada, Nye County. Flag Springs and associated outflows plus surrounding land areas for a distance of 50 feet from the springs and outflows within the following areas: T7N, R62E, E1/2 of NE1/4 Sec. 32, SW1/4 of NW1/4 Sec. 33.
+Nevada, Nye County. Flag Springs and associated outflows plus surrounding land areas for a distance of 50 feet from the springs and outflows within the following areas: T7N, R62E, E 1/2 of NE 1/4 Sec. 32, SW 1/4 of NW 1/4 Sec. 33.
 
 Note:
 
@@ -23513,7 +23511,7 @@ Figure 1 to False Spike (*Fusconaia mitchelli*) paragraph (5)(iii)![](/graphics/
 
 (4) Unit 1: Orton Pond; Brunswick County, North Carolina.
 
-(i) Unit 1 consists of 688 acres (ac) (278 hectares (ha)) in an impounded section of Orton Creek in Brunswick County, North Carolina, approximately1/2 mile upstream from the confluence with the Cape Fear River and east of the town of Boiling Spring Lakes. Unit 1 is composed of lands in private ownership.
+(i) Unit 1 consists of 688 acres (ac) (278 hectares (ha)) in an impounded section of Orton Creek in Brunswick County, North Carolina, approximately 1/2 mile upstream from the confluence with the Cape Fear River and east of the town of Boiling Spring Lakes. Unit 1 is composed of lands in private ownership.
 
 (ii) Map of Units 1 and 2 follows:
 
@@ -25513,7 +25511,7 @@ Casey's June Beetle (*Dinacoma caseyi*)
 
 ![](/graphics/er23oc13.012.gif)Delta Green Ground Beetle (*Elaphrus viridis*)
 
-California. Solano County. T.5N. R.1E. West1/2 Sec. 12, southwest1/4 Sec. 13, southeast1/4 Sec. 14, northeast1/4 Sec. 23, northwest1/4 Sec. 24.
+California. Solano County. T.5N. R.1E. West 1/2 Sec. 12, southwest 1/4 Sec. 13, southeast 1/4 Sec. 14, northeast 1/4 Sec. 23, northwest 1/4 Sec. 24.
 
 Note:
 
@@ -26647,8 +26645,7 @@ Quino Checkerspot Butterfly (*Euphydryas editha quino*)
 
 (10) Unit 6: Tule Peak Unit, Riverside County, California.
 
-(i)
-[Reserved]
+(i) [Reserved]
 
 (ii) Map of Unit 6 (Tule Peak) and Unit 7 (Bautista) follows:
 
