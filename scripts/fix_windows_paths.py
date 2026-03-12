@@ -160,12 +160,29 @@ def compute_all_renames(root, apply=False, max_workers=4):
     for dirpath, dirnames, _filenames in os.walk(root, topdown=True):
         display_dirpath = display_map.get(dirpath, dirpath) if not apply else dirpath
 
-        # Collect renames for this level
+        # Collect renames for this level, detecting collisions
         level_renames = []
         new_dirnames = []
+
+        # First pass: compute new names and detect collisions within this level
+        proposed = {}  # new_name_lower -> list of original names
+        for d in dirnames:
+            new_name = fix_component(d)
+            proposed.setdefault(new_name.lower(), []).append((d, new_name))
+
+        # Names that collide: keep their full original names
+        skip_rename = set()
+        for new_lower, entries in proposed.items():
+            if len(entries) > 1:
+                for orig, _ in entries:
+                    skip_rename.add(orig)
+
         for d in dirnames:
             new_name = fix_component(d)
             actual_full = os.path.join(dirpath, d)
+            if d in skip_rename:
+                # Collision: keep the full name to avoid conflicts
+                new_name = d
             if new_name != d:
                 old_path = os.path.join(display_dirpath, d)
                 new_path = os.path.join(display_dirpath, new_name)

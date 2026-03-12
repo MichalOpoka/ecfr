@@ -29,14 +29,9 @@ HTML entities in names (`&apos;`, `&mdash;`, `&#160;`) are also decoded and norm
 
 ## Known Collision
 
-There is **1 collision** that must be resolved before applying:
+There is **1 collision**: `cfr/title-02-Federal-Financial-Assistance` and `cfr/title-02-Grants-Agreements` both shorten to `title-02`.
 
-- `cfr/title-02-Federal-Financial-Assistance` and `cfr/title-02-Grants-Agreements` both shorten to `title-02`
-
-These are two separate CFR title 2 directories (the CFR was reorganized). Resolution options:
-1. Keep the full names for these two directories only (skip them during rename)
-2. Merge their contents into a single `title-02` directory
-3. Use disambiguated names like `title-02a` and `title-02b`
+**Resolution**: Keep the full names for these two directories only — they will be skipped during rename and retain their current names. Their child directories will still be shortened as normal.
 
 ## Steps
 
