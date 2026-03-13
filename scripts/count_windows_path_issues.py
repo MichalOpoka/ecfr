@@ -13,12 +13,22 @@ sys.path.insert(0, str(Path(__file__).parent))
 from check_windows_paths import validate_path, find_case_collisions
 
 
+def unquote_git_path(line):
+    """Decode git's C-style quoted path (e.g. \"path with \\n\" -> actual path)."""
+    if line.startswith('"') and line.endswith('"'):
+        line = line[1:-1]
+        # Decode C-style escapes
+        line = line.encode('utf-8').decode('unicode_escape').encode('latin-1').decode('utf-8')
+    return line
+
+
 def main():
     result = subprocess.run(
-        ["git", "ls-files"],
-        capture_output=True, text=True, check=True,
+        ["git", "ls-files", "-z"],
+        capture_output=True, check=True,
     )
-    paths = [line for line in result.stdout.splitlines() if line]
+    paths = [p.decode('utf-8', errors='replace')
+             for p in result.stdout.split(b'\x00') if p]
 
     counts = collections.Counter()
 

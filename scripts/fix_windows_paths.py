@@ -38,14 +38,16 @@ import unicodedata
 SHORTEN_RE = re.compile(
     r'^(title|subtitle|division|part|subpart|chapter|subchapter|subdivision|subjectgroup)'
     r'(-(?:[0-9]+(?:\.[0-9]+)?[a-zA-Z]?|[a-zA-Z]+|ECFR[0-9a-fA-F]+))'
-    r'(-.+)$'
+    r'(-.+)$',
+    re.DOTALL,
 )
 
 # Special case for "chapters-N-through-N-description"
 CHAPTERS_RE = re.compile(
     r'^(chapters-[0-9]+[a-zA-Z]?)'
     r'((?:\s|&#160;)?-?through-[0-9]+[a-zA-Z]?)'
-    r'(-.+)$'
+    r'(-.+)$',
+    re.DOTALL,
 )
 
 # HTML entity pattern for detection
@@ -112,7 +114,14 @@ def decode_entities(name):
 
 def fix_component(name):
     """Apply both shortening and entity decoding to a path component."""
-    shortened = shorten_component(name)
+    # Strip newlines and other control characters before processing
+    cleaned = re.sub(r'[\x00-\x1f\x7f]', '', name)
+    # Collapse runs of hyphens that may result from stripping
+    cleaned = re.sub(r'-{2,}', '-', cleaned)
+    cleaned = cleaned.strip('-')
+    if not cleaned:
+        return name
+    shortened = shorten_component(cleaned)
     decoded = decode_entities(shortened)
     return decoded
 
@@ -170,19 +179,34 @@ def compute_all_renames(root, apply=False, max_workers=4):
             new_name = fix_component(d)
             proposed.setdefault(new_name.lower(), []).append((d, new_name))
 
-        # Names that collide: keep their full original names
-        skip_rename = set()
+        # Check which shortened names already exist on disk (from prior runs)
+        existing_on_disk = set()
+        try:
+            existing_on_disk = {e.lower() for e in os.listdir(dirpath)}
+        except OSError:
+            pass
+
+        # Names that collide: don't shorten, but still strip control chars
+        skip_shorten = set()
         for new_lower, entries in proposed.items():
             if len(entries) > 1:
                 for orig, _ in entries:
-                    skip_rename.add(orig)
+                    skip_shorten.add(orig)
+            # Also skip shortening if the short name already exists on disk
+            # from a different original directory
+            elif new_lower in existing_on_disk:
+                for orig, new_name in entries:
+                    if orig != new_name:
+                        skip_shorten.add(orig)
 
         for d in dirnames:
             new_name = fix_component(d)
             actual_full = os.path.join(dirpath, d)
-            if d in skip_rename:
-                # Collision: keep the full name to avoid conflicts
-                new_name = d
+            if d in skip_shorten:
+                # Collision: can't shorten, but still strip control chars
+                sanitized = re.sub(r'[\x00-\x1f\x7f]', '', d)
+                sanitized = re.sub(r'-{2,}', '-', sanitized).strip('-')
+                new_name = sanitized if sanitized and sanitized != d else d
             if new_name != d:
                 old_path = os.path.join(display_dirpath, d)
                 new_path = os.path.join(display_dirpath, new_name)
