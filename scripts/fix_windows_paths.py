@@ -27,6 +27,7 @@ import concurrent.futures
 import html
 import os
 import re
+import shutil
 import subprocess
 import sys
 import unicodedata
@@ -38,14 +39,16 @@ import unicodedata
 SHORTEN_RE = re.compile(
     r'^(title|subtitle|division|part|subpart|chapter|subchapter|subdivision|subjectgroup)'
     r'(-(?:[0-9]+(?:\.[0-9]+)?[a-zA-Z]?|[a-zA-Z]+|ECFR[0-9a-fA-F]+))'
-    r'(-.+)$'
+    r'(-.+)$',
+    re.DOTALL,
 )
 
 # Special case for "chapters-N-through-N-description"
 CHAPTERS_RE = re.compile(
     r'^(chapters-[0-9]+[a-zA-Z]?)'
     r'((?:\s|&#160;)?-?through-[0-9]+[a-zA-Z]?)'
-    r'(-.+)$'
+    r'(-.+)$',
+    re.DOTALL,
 )
 
 # HTML entity pattern for detection
@@ -112,7 +115,14 @@ def decode_entities(name):
 
 def fix_component(name):
     """Apply both shortening and entity decoding to a path component."""
-    shortened = shorten_component(name)
+    # Strip newlines and other control characters before processing
+    cleaned = re.sub(r'[\x00-\x1f\x7f]', '', name)
+    # Collapse runs of hyphens that may result from stripping
+    cleaned = re.sub(r'-{2,}', '-', cleaned)
+    cleaned = cleaned.strip('-')
+    if not cleaned:
+        return name
+    shortened = shorten_component(cleaned)
     decoded = decode_entities(shortened)
     return decoded
 
@@ -145,6 +155,32 @@ def compute_renames_for_path(path):
     return renames
 
 
+def merge_dirs(src, dst):
+    """Recursively merge src directory into dst, then remove src.
+
+    For overlapping files, the src version overwrites dst (newer edition wins).
+    For overlapping subdirectories, merge recursively.
+    """
+    # Resolve to real paths to avoid merging a dir into itself
+    real_src = os.path.realpath(src)
+    real_dst = os.path.realpath(dst)
+    if real_src == real_dst:
+        return
+    for item in os.listdir(src):
+        s = os.path.join(src, item)
+        d = os.path.join(dst, item)
+        if os.path.isdir(s):
+            if os.path.isdir(d):
+                merge_dirs(s, d)
+            elif not os.path.exists(d):
+                shutil.move(s, d)
+        else:
+            # File: overwrite with src version
+            shutil.move(s, d)
+    # Remove src tree (may still have empty nested dirs)
+    shutil.rmtree(src, ignore_errors=True)
+
+
 def compute_all_renames(root, apply=False, max_workers=4):
     """Compute (and optionally apply) all renames needed under root.
 
@@ -152,68 +188,110 @@ def compute_all_renames(root, apply=False, max_workers=4):
     via os.rename (in parallel up to max_workers), and dirnames is updated so
     os.walk descends into renamed dirs. In dry-run mode, a display_map tracks
     planned parent renames for display.
+
+    When multiple directories would shorten to the same name (collision),
+    the first is renamed and the others are merged into it.
     """
     renames = []
+    merges = 0
     # In dry-run mode, maps actual filesystem dirpath -> display dirpath
     display_map = {root: root}
 
     for dirpath, dirnames, _filenames in os.walk(root, topdown=True):
         display_dirpath = display_map.get(dirpath, dirpath) if not apply else dirpath
 
-        # Collect renames for this level, detecting collisions
+        # Collect renames for this level
         level_renames = []
+        level_merges = []  # (src_full, dst_full) for dirs to merge
         new_dirnames = []
 
-        # First pass: compute new names and detect collisions within this level
-        proposed = {}  # new_name_lower -> list of original names
+        # First pass: compute new names and group by short name
+        proposed = {}  # new_name_lower -> list of (orig_name, new_name)
         for d in dirnames:
             new_name = fix_component(d)
             proposed.setdefault(new_name.lower(), []).append((d, new_name))
 
-        # Names that collide: keep their full original names
-        skip_rename = set()
-        for new_lower, entries in proposed.items():
-            if len(entries) > 1:
-                for orig, _ in entries:
-                    skip_rename.add(orig)
+        # Track which original names get merged away (removed from walk)
+        merged_away = set()
 
-        for d in dirnames:
-            new_name = fix_component(d)
-            actual_full = os.path.join(dirpath, d)
-            if d in skip_rename:
-                # Collision: keep the full name to avoid conflicts
-                new_name = d
-            if new_name != d:
-                old_path = os.path.join(display_dirpath, d)
-                new_path = os.path.join(display_dirpath, new_name)
-                renames.append((old_path, new_path))
-                if apply:
-                    level_renames.append((actual_full, os.path.join(dirpath, new_name)))
+        for new_lower, entries in proposed.items():
+            if len(entries) == 1:
+                # No collision within this batch
+                orig, new_name = entries[0]
+                if new_name != orig:
+                    actual_full = os.path.join(dirpath, orig)
+                    old_path = os.path.join(display_dirpath, orig)
+                    new_path = os.path.join(display_dirpath, new_name)
+                    renames.append((old_path, new_path))
+                    if apply:
+                        level_renames.append((actual_full, os.path.join(dirpath, new_name)))
+                    else:
+                        display_map[actual_full] = new_path
                 else:
-                    display_map[actual_full] = new_path
+                    if not apply:
+                        display_map[os.path.join(dirpath, orig)] = os.path.join(display_dirpath, orig)
+                new_dirnames.append(new_name)
             else:
-                if not apply:
-                    display_map[actual_full] = os.path.join(display_dirpath, d)
-            new_dirnames.append(new_name if apply else d)
+                # Collision: rename the first, merge the rest into it
+                primary_orig, new_name = entries[0]
+                # Rename primary
+                if new_name != primary_orig:
+                    actual_full = os.path.join(dirpath, primary_orig)
+                    old_path = os.path.join(display_dirpath, primary_orig)
+                    new_path = os.path.join(display_dirpath, new_name)
+                    renames.append((old_path, new_path))
+                    if apply:
+                        level_renames.append((actual_full, os.path.join(dirpath, new_name)))
+                    else:
+                        display_map[actual_full] = new_path
+                else:
+                    if not apply:
+                        display_map[os.path.join(dirpath, primary_orig)] = os.path.join(display_dirpath, primary_orig)
+
+                new_dirnames.append(new_name)
+
+                # Merge the rest into primary
+                for extra_orig, _ in entries[1:]:
+                    old_path = os.path.join(display_dirpath, extra_orig)
+                    new_path = os.path.join(display_dirpath, new_name)
+                    renames.append((old_path, f"{new_path} [merged]"))
+                    merged_away.add(extra_orig)
+                    merges += 1
+                    if apply:
+                        src = os.path.join(dirpath, extra_orig)
+                        dst = os.path.join(dirpath, new_name)
+                        level_merges.append((src, dst))
 
         if apply and level_renames:
-            # Apply renames for this directory level in parallel (up to max_workers)
-            with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-                futures = {}
-                for old_full, new_full in level_renames:
-                    f = executor.submit(os.rename, old_full, new_full)
-                    futures[f] = (old_full, new_full)
-                for f in concurrent.futures.as_completed(futures):
-                    try:
-                        f.result()
-                    except OSError as e:
-                        old_full, new_full = futures[f]
-                        print(f"  ERROR: rename failed: {old_full} -> {new_full}: {e}",
-                              file=sys.stderr)
+            # Apply renames — fall back to merge if target already exists
+            for old_full, new_full in level_renames:
+                try:
+                    if os.path.exists(new_full):
+                        # Target exists (from prior run), merge instead
+                        merge_dirs(old_full, new_full)
+                    else:
+                        os.rename(old_full, new_full)
+                except OSError as e:
+                    print(f"  ERROR: rename failed: {old_full} -> {new_full}: {e}",
+                          file=sys.stderr)
+
+        if apply and level_merges:
+            # Merge colliding dirs into the renamed targets
+            for src, dst in level_merges:
+                try:
+                    if os.path.exists(src):
+                        merge_dirs(src, dst)
+                except OSError as e:
+                    print(f"  ERROR: merge failed: {src} -> {dst}: {e}",
+                          file=sys.stderr)
 
         if apply:
             dirnames[:] = new_dirnames
         # In dry-run, leave dirnames unchanged so os.walk can descend
+
+    if merges:
+        print(f"  ({merges} directories merged into shortened targets)",
+              file=sys.stderr)
 
     return renames
 
@@ -313,20 +391,9 @@ def main():
             sys.exit(1)
 
         if args.apply:
-            # Pre-scan for collisions before applying
-            print(f"Scanning {root}/ for collisions...", file=sys.stderr)
-            dry_renames = compute_all_renames(root, apply=False)
-            collisions = check_collisions(dry_renames)
-            if collisions:
-                print(f"\n{red}{bold}Collision detected! These directories would have the same name:{reset}")
-                for path1, path2, name in collisions:
-                    print(f"  {path1}")
-                    print(f"  {path2}")
-                    print(f"  -> both shorten to: {name}")
-                print(f"\n{red}Aborting — resolve collisions first.{reset}")
-                sys.exit(1)
-
             print(f"Applying renames (max {args.max_workers} concurrent workers)...",
+                  file=sys.stderr)
+            print("  (colliding directories will be merged automatically)",
                   file=sys.stderr)
             all_renames = compute_all_renames(root, apply=True,
                                              max_workers=args.max_workers)

@@ -1,1 +1,0 @@
-##### § 2932.40 Permit stipulations and terms. #####

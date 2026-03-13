@@ -1,1 +1,0 @@
-##### § 2720.1 Application to purchase federally-owned mineral interests. #####

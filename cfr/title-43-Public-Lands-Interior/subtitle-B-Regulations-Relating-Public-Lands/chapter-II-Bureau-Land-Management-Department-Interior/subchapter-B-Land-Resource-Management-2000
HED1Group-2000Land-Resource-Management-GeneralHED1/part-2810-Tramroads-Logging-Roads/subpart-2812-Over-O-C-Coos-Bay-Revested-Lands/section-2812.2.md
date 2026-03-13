@@ -1,1 +1,0 @@
-##### § 2812.2 Nature of permit. #####

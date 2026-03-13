@@ -1,1 +1,0 @@
-##### § 109-43.302 Agency responsibility. #####

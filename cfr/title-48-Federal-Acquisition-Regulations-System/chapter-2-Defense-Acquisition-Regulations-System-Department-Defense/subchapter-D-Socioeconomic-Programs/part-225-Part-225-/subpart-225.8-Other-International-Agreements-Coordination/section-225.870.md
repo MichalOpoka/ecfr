@@ -1,1 +1,0 @@
-##### 225.870 Contracting with Canadian contractors. #####

@@ -1,1 +1,0 @@
-##### 232.412 Contract clause. #####

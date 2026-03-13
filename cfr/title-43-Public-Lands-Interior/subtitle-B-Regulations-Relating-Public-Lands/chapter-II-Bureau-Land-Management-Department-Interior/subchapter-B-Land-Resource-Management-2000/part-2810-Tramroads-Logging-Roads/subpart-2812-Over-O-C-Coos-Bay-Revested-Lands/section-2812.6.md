@@ -1,1 +1,0 @@
-##### § 2812.6 Approval and terms of permit. #####
