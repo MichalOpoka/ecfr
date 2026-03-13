@@ -1,8 +1,8 @@
-##### 1252.242-70 Dissemination of information - educational institutions. #####
+##### 1252.242-70 Dissemination of Information—Educational Institutions. #####
 
-As prescribed in (TAR) 48 CFR 1242.7000(a), insert the following clause:
+As prescribed in 1242.270(a), insert the following clause:
 
-Dissemination of Information - Educational Institutions (OCT 1994)
+Dissemination of Information—Educational Institutions (NOV 2022)
 
 (a) The Department of Transportation (DOT) desires widespread dissemination of the results of funded transportation research. The Contractor, therefore, may publish (subject to the provisions of the “Data Rights” and “Patent Rights” clauses of the contract) research results in professional journals, books, trade publications, or other appropriate media (a thesis or collection of theses should not be used to distribute results because dissemination will not be sufficiently widespread). All costs of publication pursuant to this clause shall be borne by the Contractor and shall not be charged to the Government under this or any other Federal contract.
 

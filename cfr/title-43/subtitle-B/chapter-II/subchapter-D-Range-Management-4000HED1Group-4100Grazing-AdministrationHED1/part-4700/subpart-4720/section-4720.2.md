@@ -1,1 +1,0 @@
-##### § 4720.2 Removal of strayed or excess animals from private lands. #####

@@ -12,10 +12,10 @@
 
 (5) You do not have or cannot demonstrate the technical or financial capability to construct the pipeline or operate facilities within the right-of-way or TUP area; or
 
-(6) You do not adequately comply with a deficiency notice (see § 2804.25(c) of this chapter) or with any requests from the BLM for additional information needed to process the application.
+(6) You do not comply with a deficiency notice (see § 2804.25(c)) or with any requests from the BLM for additional information needed to process the application.
 
 (b) If you are unable to meet any of the requirements in this section you may request an alternative from the BLM (see § 2884.30).
 
 (c) If BLM denies your application, you may appeal the decision under § 2881.10 of this part.
 
-[70 FR 21078, Apr. 22, 2005, as amended at 81 FR 92227, Dec. 19, 2016]
+[70 FR 21078, Apr. 22, 2005, as amended at 81 FR 92227, Dec. 19, 2016; 89 FR 25975, Apr. 12, 2024]

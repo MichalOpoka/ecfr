@@ -6,6 +6,6 @@
 
 (3) The rental fees required by this section are payable when due, and a late charge of 1 percent per month of the unpaid amount or $15 per month, whichever is greater, shall be assessed if subsequent billings are required. Failure to pay the rental fee in a timely manner is cause for termination of the land use authorization.
 
-(b) *Processing and monitoring fee.* Each request for renewal, transfer, or assignment of a lease or easement shall be accompanied by a non-refundable processing and monitoring fee determined in accordance with the provisions of §§ 2804.14 and 2805.16 of this chapter.
+(b) *Cost Recovery fees.* Each request for renewal, transfer, or assignment of a lease or easement must be accompanied by non-refundable cost recovery fees determined in accordance with the provisions of §§ 2804.14 and 2805.16 of this chapter.
 
-[70 FR 21078, Apr. 22, 2005, as amended at 73 FR 65075, Oct. 31, 2008]
+[70 FR 21078, Apr. 22, 2005, as amended at 73 FR 65075, Oct. 31, 2008; 89 FR 25977, Apr. 12, 2024]

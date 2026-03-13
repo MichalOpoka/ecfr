@@ -1,35 +1,15 @@
-##### § 187.317 What information must be on a certificate of title? #####
+##### § 187.317 Transfer of ownership. #####
 
-(a) A certificate of title must contain the following information concerning the vessel:
+(a) On voluntary transfer of an ownership interest in a vessel covered by a certificate of title, the following rules apply:
 
-(1) Names of all owners (individuals, businesses, and organizations).
+(1) If the certificate is a written certificate of title and the transferor's interest is noted on the certificate, the transferor must promptly sign the certificate and deliver it to the transferee. If the transferor does not have possession of the certificate, the person in possession of the certificate has a duty to facilitate the transferor's compliance with this paragraph. A secured party does not have a duty to facilitate the transferor's compliance with this paragraph if the proposed transfer is prohibited by the security agreement.
 
-(2) Address of one individual, business, or organization owning the vessel.
+(2) If the certificate of title is an electronic certificate of title, the transferor must promptly sign and deliver to the transferee a record evidencing the transfer of ownership to the transferee.
 
-(3) Title number.
+(3) The transferee has a right enforceable by specific performance to require the transferor comply with paragraph (a)(1) or (2) of this section.
 
-(4) Date of issuance of title.
+(b) The creation of a certificate of title identifying the transferee as owner of record satisfies paragraph (a) of this section.
 
-(5) Vessel identifier under § 187.9.
+(c) A failure to comply with paragraph (a) or to apply for a new certificate of title does not render a transfer of ownership of a vessel ineffective between the parties. Except as otherwise provided in § 187.318, § 187.319, § 187.323(a), or § 187.324, a transfer of ownership without compliance with paragraph (a) of this section is not effective against another person claiming an interest in the vessel.
 
-(6) Name of manufacturer, builder, or make.
-
-(7) Model year, manufacture year, or year built.
-
-(8) Overall length.
-
-(9) Vessel type. Authorized terms are “open motorboat”, “cabin motorboat”, “auxiliary sail”, “sail only”, “personal watercraft”, “pontoon”, “houseboat”, “rowboat”, “canoe/kayak”, or “other”.
-
-(10) Hull material. Authorized terms are “wood”, “aluminum”, “steel”, “fiberglass”, “rigid hull inflatable”, “rubber/vinyl/canvas”, or “other”.
-
-(11) Propulsion type. Authorized terms are “propeller”, “sail”, “water jet”, “air thrust”, or “manual”.
-
-(12) Engine drive type. Authorized terms are “outboard”, “inboard”, or “inboard/stern drive”.
-
-(13) Name of each secured party.
-
-(14) Address (city and State) of each secured party.
-
-(15) Recording or perfection date of new security interest and original recording or perfection date of any security interest outstanding.
-
-(b) Space must be provided on the title form for assignment of interests in the vessel, with a signed certification that the statements made are true and correct to the best of the owner's knowledge, information, and belief, under penalty of perjury or similar penalties as prescribed by State law.
+(d) A transferor that complies with paragraph (a) of this section is not liable as owner of the vessel for an event occurring after the transfer, regardless of whether the transferee applies for a new certificate of title.

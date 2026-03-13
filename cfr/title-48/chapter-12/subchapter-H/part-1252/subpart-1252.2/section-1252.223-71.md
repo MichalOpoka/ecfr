@@ -1,10 +1,10 @@
-##### 1252.223-71 Accident and fire reporting. #####
+##### 1252.223-71 Accident and Fire Reporting. #####
 
-As prescribed in (TAR) 48 CFR 1223.7000(a), insert the following clause:
+As prescribed in 1223.7000(a), insert the following clause:
 
-Accident and Fire Reporting (APR 2005)
+Accident and Fire Reporting (NOV 2022)
 
-(a) The Contractor shall report to the Contracting Officer any accident or fire occurring at the site of the work which causes:
+(a) The Contractor shall report to the Contracting Officer any accident or fire occurring at the site of the work which causes—
 
 (1) A fatality or as much as one lost workday on the part of any employee of the Contractor or subcontractor at any tier;
 
@@ -14,11 +14,11 @@ Accident and Fire Reporting (APR 2005)
 
 (4) Damage for which a contract time extension may be requested.
 
-(b) Accident and fire reports required by paragraph (a) above shall be accomplished by the following means:
+(b) Accident and fire reports required by paragraph (a) of this section shall be accomplished by the following means:
 
-(1) Accidents or fires resulting in a death, hospitalization of five or more persons, or destruction of Government-owned or leased property (either real or personal), the total value of which is estimated at $100,000 or more, shall be reported immediately by telephone to the Contracting Officer or his/her authorized representative and shall be confirmed by telegram or facsimile transmission within 24 hours to the Contracting Officer. Such telegram or facsimile transmission shall state all known facts as to extent of injury and damage and as to cause of the accident or fire.
+(1) Accidents or fires resulting in a death, hospitalization of five or more persons, or destruction of Government-owned or leased property (either real or personal), the total value of which is estimated at $100,000 or more, shall be reported immediately by telephone to the Contracting Officer or his/her authorized representative and shall be confirmed in writing within 24 hours to the Contracting Officer. Such report shall state all known facts as to extent of injury and damage and as to cause of the accident or fire.
 
-(2) Other accident and fire reports required by paragraph (a) above may be reported by the Contractor using a state, private insurance carrier, or Contractor accident report form which provides for the statement of:
+(2) Other accident and fire reports required by paragraph (a) of this section may be reported by the Contractor using a state, private insurance carrier, or Contractor accident report form which provides for the statement of—
 
 (i) The extent of injury; and
 

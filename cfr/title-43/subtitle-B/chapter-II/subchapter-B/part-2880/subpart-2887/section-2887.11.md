@@ -40,4 +40,6 @@
 
 (3) Your name change is not recognized until the BLM approves it in writing.
 
-[81 FR 92229, Dec. 19, 2016]
+(i) You must seek an amendment of your authorization if you propose a substantial deviation in location or use.
+
+[81 FR 92229, Dec. 19, 2016, as amended at 89 FR 25976, Apr. 12, 2024]

@@ -1,8 +1,8 @@
-##### 1252.217-76 Liability and insurance. #####
+##### 1252.217-76 Liability and Insurance. #####
 
-As prescribed at (TAR) 48 CFR 1217.7001(b) and (c), insert the following clause:
+As prescribed at 1217.7001(b), insert the following clause:
 
-Liability and Insurance (OCT 1994)
+Liability and Insurance (NOV 2022)
 
 (a) The Contractor shall exercise its best efforts to prevent accidents, injury, or damage to all employees, persons, and property, in and about the work, and to the vessel or part of the vessel upon which work is done.
 
@@ -12,15 +12,15 @@ Liability and Insurance (OCT 1994)
 
 (3) The Government does not assume risk of and will not pay for any costs of the following:
 
-(i) Inspection, repair, replacement, or renewal of any defects in the vessel(s) or material and equipment due to -
+(i) Inspection, repair, replacement, or renewal of any defects in the vessel(s) or material and equipment due to—
 
 (A) Defective workmanship performed by the Contractor or its subcontractors;
 
 (B) Defective materials or equipment furnished by the Contractor or its subcontractors; or
 
-(C) Workmanship, materials, or equipment which do not conform to the requirements of the contract, whether or not the defect is latent or whether or not the nonconformance is the result of negligence.
+(C) Workmanship, materials, or equipment which do not conform to the requirements of the contract, regardless of whether the defect is latent or whether the nonconformance is the result of negligence.
 
-(ii) Loss, damage, liability, or expense caused by, resulting from, or incurred as a consequence of any delay or disruption, willful misconduct or lack of good faith by the Contractor or any of its representatives that have supervision or direction of -
+(ii) Loss, damage, liability, or expense caused by, resulting from, or incurred as a consequence of any delay or disruption, willful misconduct or lack of good faith by the Contractor or any of its representatives that have supervision or direction of—
 
 (A) All or substantially all of the Contractor's business; or
 
@@ -36,9 +36,9 @@ Liability and Insurance (OCT 1994)
 
 (1) The Contractor's obligation to indemnify under this paragraph shall not exceed the sum of $300,000 as a consequence of any single occurrence with respect to any one vessel.
 
-(2) The indemnity includes, without limitation, suits, actions, claims, costs, or demands of any kind, resulting from death, personal injury, or property damage occurring during the period of performance of work on the vessel or within 90 days after redelivery of the vessel. For any claim, etc., made after 90 days, the rights of the parties shall be as determined by other provisions of this contract and by law. The indemnity does apply to death occurring after 90 days where the injury was received during the period covered by the indemnity.
+(2) The indemnity includes, without limitation, suits, actions, claims, costs, or demands of any kind, resulting from death, personal injury, or property damage occurring during the period of performance of work on the vessel or within 90 days after redelivery of the vessel. For any claim, etc., made after 90 days, the rights of the parties shall be as determined by other provisions of this contract and by law. The indemnity applies to death occurring after 90 days where the injury was received during the period covered by the indemnity.
 
-(d) *Insurance.* (1) The Contractor shall, at its own expense, obtain and maintain the following insurance -
+(d) *Insurance.* (1) The Contractor shall, at its own expense, obtain and maintain the following insurance—
 
 (i) Casualty, accident, and liability insurance, as approved by the Contracting Officer, insuring the performance of its obligations under paragraph (c) of this clause.
 
@@ -56,11 +56,11 @@ Liability and Insurance (OCT 1994)
 
 (2) If a claim or suit is later filed against the Contractor as a result of the event, the Contractor shall immediately deliver to the Government every demand, notice, summons, or other process received by the Contractor or its employees or representatives.
 
-(3) The Contractor shall cooperate with the Government and, upon request, shall assist in effecting settlements, securing and giving evidence, obtaining the attendance of witnesses, and in the conduct of suits. The Government shall reimburse the Contractor for expenses incurred in this effort, other than the cost of maintaining the Contractor's usual organization.
+(3) The Contractor shall cooperate with the Government and, upon request, shall assist in effecting settlements, securing and giving evidence, obtaining the attendance of witnesses, and the conduct of suits. The Government shall reimburse the Contractor for expenses incurred in this effort, other than the cost of maintaining the Contractor's usual organization.
 
 (4) The Contractor shall not, except at its own expense, voluntarily make any payments, assume any obligation, or incur any expense other than what would be imperative for the protection of the vessel(s) at the time of the event.
 
-(g) In the event of loss of or damage to any vessel(s), material, or equipment which may result in a claim against the Government under the insurance provisions of this contract, the Contractor shall promptly notify the Contracting Officer of the loss or damage. The Contracting Officer may, without prejudice to any right of the Government, either -
+(g) In the event of loss of or damage to any vessel(s), material, or equipment which may result in a claim against the Government under the insurance provisions of this contract, the Contractor shall promptly notify the Contracting Officer of the loss or damage. The Contracting Officer may, without prejudice to any right of the Government, either—
 
 (1) Order the Contractor to proceed with replacement or repair, in which event the Contractor shall effect the replacement or repair;
 
@@ -70,7 +70,7 @@ Liability and Insurance (OCT 1994)
 
 (iii) Payments by the Government to the Contractor under this clause are outside the scope of and shall not affect the pricing structure of the contract, and are additional to the compensation otherwise payable to the Contractor under this contract; or
 
-(2) Decide that the loss or damage shall not be replaced or repaired and in that event, the Contracting Officer shall -
+(2) Decide that the loss or damage shall not be replaced or repaired and in that event, the Contracting Officer shall—
 
 (i) Modify the contract appropriately, consistent with the reduced requirements reflected by the unreplaced or unrepaired loss or damage; or
 

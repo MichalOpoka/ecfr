@@ -1,8 +1,8 @@
 ##### 1252.217-74 Subcontracts. #####
 
-As prescribed at (TAR) 48 CFR 1217.7001(b) and (c), insert the following clause:
+As prescribed at 1217.7001(b), insert the following clause:
 
-Subcontracts (OCT 1994)
+Subcontracts (NOV 2022)
 
 (a) Nothing contained in the contract shall be construed as creating any contractual relationship between any subcontractor and the Government. The divisions or sections of the specifications are not intended to control the Contractor in dividing the work among subcontractors or to limit the work performed by any trade.
 
@@ -10,6 +10,6 @@ Subcontracts (OCT 1994)
 
 (c) The Contractor shall, without additional expense to the Government, employ specialty subcontractors where required by the specifications.
 
-(d) The Government or its representatives will not undertake to settle any differences between the Contractor and its subcontractors, or between subcontractors.
+(d) The Government or its representatives will not undertake to settle any differences between the Contractor and its subcontractors, or any differences between subcontractors.
 
 (End of clause)

@@ -1,1 +1,0 @@
-##### § 4750.2 Health, identification, and inspection requirements. #####

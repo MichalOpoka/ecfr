@@ -1,8 +1,8 @@
-##### 1252.217-73 Inspection and manner of doing work. #####
+##### 1252.217-73 Inspection and Manner of Doing Work. #####
 
-As prescribed at (TAR) 48 CFR 1217.7001(b) and (c), insert the following clause:
+As prescribed at 1217.7001(b), insert the following clause:
 
-Inspection and Manner of Doing Work (OCT 1994)
+Inspection and Manner of Doing Work (NOV 2022)
 
 (a) The Contractor shall perform work in accordance with the contract, any drawings and specifications made a part of the job order, and any change or modification issued under the Changes clause.
 
@@ -22,7 +22,7 @@ Inspection and Manner of Doing Work (OCT 1994)
 
 (d) The Contractor shall not permit any welder to work on a vessel unless the welder is, at the time of the work, qualified to the standards established by the U.S. Coast Guard, American Bureau of Shipping, or Department of the Navy for the type of welding being performed. Qualifications of a welder shall be as specified in the contract.
 
-(e) The Contractor shall -
+(e) The Contractor shall—
 
 (1) Exercise reasonable care to protect the vessel from fire;
 
@@ -36,19 +36,19 @@ Inspection and Manner of Doing Work (OCT 1994)
 
 (6) Furnish the Contracting Officer a “gas-free” or “safe-for-hotwork” certificate before any hot work is done on a tank;
 
-(7) Treat the contents of any tank as Government property in accordance with the Government Property (Fixed-Price Contracts) clause; and
+(7) Treat the contents of any tank as Government property in accordance with clause 52.245-1, Government Property; and
 
 (8) Dispose of the contents of any tank only at the direction, or with the concurrence, of the Contracting Officer.
 
-(9) Be responsible for the proper closing of all openings to the vessel's underwater structure upon which work has been performed. The contractor additionally must advise the COTR of the status of all valves closures and openings for which the contractor's workers were responsible.
+(9) Be responsible for the proper closing of all openings to the vessel's underwater structure upon which work has been performed. The Contractor additionally must advise the COR of the status of all valve closures and openings for which the Contractor's workers were responsible.
 
-(f) Except as otherwise provided in the contract, when the vessel is in the custody of the Contractor or in dry dock or on a marine railway and the temperature is expected to go as low as 35 Fahrenheit, the Contractor shall take all necessary steps to -
+(f) Except as otherwise provided in the contract, when the vessel is in the custody of the Contractor or in dry dock or on a marine railway and the temperature is expected to go as low as 35 Fahrenheit, the Contractor shall take all necessary steps to—
 
 (1) Keep all hose pipe lines, fixtures, traps, tanks, and other receptacles on the vessel from freezing; and
 
 (2) Protect the stern tube and propeller hubs from frost damage.
 
-(g) The Contractor shall, whenever practicable -
+(g) The Contractor shall, whenever practicable—
 
 (1) Perform the required work in a manner that will not interfere with the berthing and messing of Government personnel attached to the vessel; and
 
@@ -58,7 +58,7 @@ Inspection and Manner of Doing Work (OCT 1994)
 
 (i)(1) The Government does not guarantee the correctness of the dimensions, sizes, and shapes set forth in any contract, sketches, drawings, plans, or specifications prepared or furnished by the Government, unless the contract requires that the Contractor perform the work prior to any opportunity to inspect.
 
-(2) Except as stated in paragraph (i)(1) of this clause, and other than those parts furnished by the Government, and the Contractor shall be responsible for the correctness of the dimensions, sizes, and shapes of parts furnished under this agreement.
+(2) Except as stated in paragraph (i)(1) of this clause, and other than those parts furnished by the Government, and the Contractor shall be responsible for the correctness of the dimensions, sizes, and shapes of parts furnished under this contract.
 
 (j) The Contractor shall at all times keep the site of the work on the vessel free from accumulation of waste material or rubbish caused by its employees or the work. At the completion of the work, unless the contract specifies otherwise, the Contractor shall remove all rubbish from the site of the work and leave the immediate vicinity of the work area “broom clean.”
 

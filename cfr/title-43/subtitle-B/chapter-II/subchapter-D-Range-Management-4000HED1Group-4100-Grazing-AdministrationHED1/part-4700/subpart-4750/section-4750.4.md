@@ -1,1 +1,0 @@
-##### § 4750.4 Private maintenance of wild horses and burros. #####

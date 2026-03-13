@@ -6,6 +6,6 @@
 
 (2) The BLM will review the NASS Census data from the 2012 NASS Census, and each subsequent 10-year period, and as appropriate, revise the number of county zones and the per acre zone values. Any revision must include 100 percent of the number of counties and listed geographical areas for all states and the Commonwealth of Puerto Rico and must reasonably reflect the increases or decreases in the average per acre land and building values contained in the NASS Census.
 
-(b) You may obtain a copy of the current Per Acre Rent Schedule from any BLM State, district, or field office or by writing: U.S. Department of the Interior, Bureau of Land Management, 20 M Street SE., Room 2134LM, Washington, DC 20003. The BLM also posts the current rent schedule at *http://www.blm.gov.*
+(b) You may obtain a copy of the current Per Acre Rent Schedule at *https://www.blm.gov,* by contacting your local BLM state, district, or field office, or by writing: Attention to the Division of Lands, Realty and Cadastral Survey, U.S. Department of the Interior, Bureau of Land Management, 1849 C Street NW, Mail Stop 2134LM, Washington, DC 20240.
 
-[73 FR 65073, Oct. 31, 2008, as amended at 81 FR 92228, Dec. 19, 2016]
+[73 FR 65073, Oct. 31, 2008, as amended at 81 FR 92228, Dec. 19, 2016; 89 FR 25975, Apr. 12, 2024]

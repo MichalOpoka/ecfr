@@ -1,9 +1,9 @@
-##### 1252.239-71 Information technology security plan and accreditation. #####
+##### 1252.239-71 Information Technology Security Plan and Accreditation. #####
 
-As prescribed in (TAR) 48 CFR 1239.70, insert the following provision:
+As prescribed in 1239.106-70, insert the following provision:
 
-Information Technology Security Plan and Accreditation (APR 2005)
+Information Technology Security Plan and Accreditation (NOV 2022)
 
-All offers submitted in response to this solicitation must address the approach for completing the security plan and accreditation requirements in TAR clause 1252.239-70.
+All offers submitted in response to this solicitation shall address the approach for completing the security plan and accreditation requirements in clause 1252.239-70, Security Requirements for Unclassified and Sensitive Information Technology Resources.
 
 (End of provision)

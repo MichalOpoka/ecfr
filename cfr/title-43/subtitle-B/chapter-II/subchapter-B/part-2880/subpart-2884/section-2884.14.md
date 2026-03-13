@@ -1,4 +1,4 @@
-##### § 2884.14 When does BLM reevaluate the processing and monitoring fees? #####
+##### § 2884.14 When does the BLM reevaluate the cost recovery fees? #####
 
 BLM reevaluates the processing and monitoring fees (*see* § 2885.23 of this part) for each category and the categories themselves within 5 years after they go into effect and at 10-year intervals after that. When reevaluating processing and monitoring fees, BLM considers all factors that affect the fees, including, but not limited to, any changes in:
 
